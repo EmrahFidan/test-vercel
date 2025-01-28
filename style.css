@@ -1,0 +1,142 @@
+/* Genel tema ayarları */
+.stApp {
+    background-color: #000000 !important;
+}
+
+/* Streamlit elementlerini gizle */
+div[data-testid="stToolbar"],
+div[data-testid="stHeader"],
+footer,
+header {
+    display: none;
+}
+
+/* Ana container düzenlemesi */
+.main .block-container {
+    max-width: 800px;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+/* Counter'ı gizle */
+.counter {
+    display: none;
+}
+
+/* Soru kartı container'ı */
+.question-card {
+    border-radius: 30px;
+    border: 3px solid #19b48d;
+    padding: 30px;
+    margin: 20px 0;
+}
+
+/* Word display güncellemesi */
+.word-display {
+    font-size: 32px;
+    color: #ccc9dc;
+    text-align: center;
+    margin: 20px 0;
+    font-weight: 400;
+    line-height: 1.4;
+}
+
+/* İlerleme çubuğu container'ı */
+.progress-bar-container {
+    width: 100%;
+    background-color: #333;
+    border-radius: 10px;
+    height: 10px;
+    margin: 20px 0;
+    position: relative;
+}
+
+/* İlerleme çubuğu */
+.progress-bar {
+    height: 100%;
+    background-color: #19b48d;
+    border-radius: 30px;
+    transition: width 0.5s ease;
+}
+
+/* Input alanı */
+div[data-testid="stTextInput"] input {
+    background-color: rgba(86, 200, 255, 0.1);
+    border: 2px solid rgb(86, 86, 86);
+    border-radius: 4px;
+    color: #ccc9dc;
+    font-size: 16px;
+    padding: 8px 12px;
+    transition: all 0.3s;
+    width: 100%;
+}
+
+div[data-testid="stTextInput"] input:focus {
+    background-color: rgba(41, 104, 135, 0.15);
+    border-color: #19b48d;
+    box-shadow: 0 0 0 1px #19b48d;
+    outline: none;
+}
+
+/* Yanlış cevap durumunda input stil değişimi */
+div[data-testid="stTextInput"].error input {
+    border-color: #ff4444;
+    font-size: 20px;
+}
+
+/* Yanlış cevap mesajı */
+.error-message {
+    color: #ff4444;
+    padding: px 0;
+    font-size: 14px;
+    text-align: center;
+}
+
+.tip-message {
+    color: #19b48d;
+    font-size: 30px;
+    text-align: center;
+}
+
+/* Bilgilendirme mesajı */
+.info-message {
+    color: #ccc9dc;
+    font-size: 15px;
+    text-align: center;
+    margin-top: 10px;
+    font-style: italic;
+}
+
+/* Bitirme ekranı stilleri */
+.finish-screen {
+    text-align: center;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+.celebration {
+    font-size: 100px;
+    margin: 20px 0;
+    animation: bounce 1s infinite;
+}
+
+.finish-screen h1 {
+    color: #19b48d;
+    font-size: 32px;
+    margin: 20px 0;
+}
+
+.finish-screen p {
+    color: #ccc9dc;
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+@keyframes bounce {
+    0%, 100% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-20px);
+    }
+}

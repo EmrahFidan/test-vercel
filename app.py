@@ -9,10 +9,10 @@ from datetime import datetime
 PROGRESS_FILE = 'user_progress.json'
 
 st.set_page_config(
-    page_title="Kelime Öğren",
+    page_title="Learn Words",
     page_icon="📚",
     layout="centered",
-    initial_sidebar_state="collapsed"
+    initial_sidebar_state="expanded"
 )
 
 # İlerleme yönetimi fonksiyonları
@@ -29,7 +29,11 @@ def save_progress(progress_data):
 @st.cache_data
 def load_words():
     df = pd.read_csv('words.csv')
-    return dict(zip(df['turkish_sentence'], zip(df['english_word'], df['turkish_word'])))
+    return dict(zip(df['english_sentence'], 
+                   zip(df['english_word'], 
+                       df['turkish_word'], 
+                       df['turkish_sentence'],
+                       df['word_info'])))
 
 def load_css():
     with open('style.css') as f:
@@ -37,12 +41,30 @@ def load_css():
 
 def main():
     load_css()
+
+    # Sidebar içeriği
+    with st.sidebar:
+        st.markdown("""
+            <div class="sidebar-content">
+                <div class="user-info">
+                    <span>Welcome <span class="username">{}</span></span>
+                </div>
+            </div>
+        """.format(st.session_state.get('user_id', '')), unsafe_allow_html=True)
+        
+        # Logout button in sidebar footer
+        with st.container():
+            st.markdown('<div class="sidebar-logout">', unsafe_allow_html=True)
+            if st.button("Logout", key="sidebar_logout"):
+                st.session_state.clear()
+                st.rerun()
+            st.markdown('</div>', unsafe_allow_html=True)
     
     # Kullanıcı girişi kontrolü
     if 'user_id' not in st.session_state:
         with st.form("kullanici_giris"):
-            user_id = st.text_input("Kullanıcı adınızı girin:")
-            submitted = st.form_submit_button("Giriş Yap")
+            user_id = st.text_input("Enter your username:")
+            submitted = st.form_submit_button("Login")
             
             if submitted and user_id:
                 st.session_state.user_id = user_id
@@ -63,6 +85,8 @@ def main():
                 st.session_state.needs_rerun = False
                 st.session_state.wrong_answer = False
                 st.session_state.wrong_attempts = 0
+                st.session_state.show_last_card = False
+                st.session_state.last_card_index = None
                 st.rerun()
         return
 
@@ -71,6 +95,7 @@ def main():
         correct_answer = st.session_state.word_list[st.session_state.current_index][1][0]  # [0] for english_word
         
         if answer.lower().strip() == correct_answer.lower():
+            st.session_state.last_card_index = st.session_state.current_index
             st.session_state.current_index += 1
             st.session_state.show_error = False
             st.session_state.current_answer = ""
@@ -91,6 +116,30 @@ def main():
             st.session_state.wrong_attempts += 1
             st.session_state.current_answer = ""
 
+    def show_card(index, show_answer=False):
+        english_sentence, (correct_answer, turkish_word, turkish_sentence, word_info) = st.session_state.word_list[index]
+        
+        if show_answer:
+            # Doğru cevabı renkli göster
+            highlighted_sentence = english_sentence.replace(
+                "___", 
+                f'<span class="highlight">{correct_answer}</span>'
+            )
+        else:
+            # Alt çizgi sayısını ayarla
+            blank = "_" * len(correct_answer)
+            highlighted_sentence = english_sentence.replace("___", blank)
+        
+        # Soru kartı
+        question_card = f"""
+            <div class="question-card">
+                <div class="word-display">{highlighted_sentence}</div>
+                <div class="target-word"><span class="highlight">{turkish_word}</span> <span class="word-info">{word_info}</span></div>
+                <div class="turkish-sentence">{turkish_sentence}</div>
+            </div>
+        """
+        st.markdown(question_card, unsafe_allow_html=True)
+
     if st.session_state.get('wrong_answer', False):
         st.session_state.wrong_answer = False
         st.session_state.current_answer = ""
@@ -100,59 +149,76 @@ def main():
         st.rerun()
 
     if st.session_state.current_index < len(st.session_state.word_list):
-        current_sentence, (correct_answer, target_word) = st.session_state.word_list[st.session_state.current_index]
-        
-        # İlerleme çubuğu
-        progress = (st.session_state.current_index / len(st.session_state.word_list)) * 100
-        progress_bar_html = f"""
-            <div class="progress-bar-container">
-                <div class="progress-bar" style="width: {progress}%;"></div>
-            </div>
-        """
-        st.markdown(progress_bar_html, unsafe_allow_html=True)
-        
-        # Soru kartı
-        question_card = f"""
-            <div class="question-card">
-                <div class="word-display">{current_sentence.replace(target_word, f'<span style="color: #19b48d;">{target_word}</span>')}</div>
-            </div>
-        """
-        st.markdown(question_card, unsafe_allow_html=True)
-        
-        answer = st.text_input(
-            "Cevabınız",
-            key="current_answer",
-            label_visibility="collapsed",
-            on_change=check_answer
-        )
-        
-        if st.session_state.show_error:
-            wrong_attempts = st.session_state.wrong_attempts
-            hint = correct_answer[:min(wrong_attempts, len(correct_answer))]
-            st.markdown(f'<div class="error-message">Yanlış cevap!</div>', unsafe_allow_html=True)
-            st.markdown(f'<div class="tip-message">{hint}</div>', unsafe_allow_html=True)
+        # Ana içerik alanı
+        main_container = st.container()
+        with main_container:
+            # İlerleme çubuğu
+            progress = (st.session_state.current_index / len(st.session_state.word_list)) * 100
+            progress_bar_html = f"""
+                <div class="progress-bar-container">
+                    <div class="progress-bar" style="width: {progress}%;"></div>
+                </div>
+            """
+            st.markdown(progress_bar_html, unsafe_allow_html=True)
+            
+            if st.session_state.show_last_card and st.session_state.last_card_index is not None:
+                show_card(st.session_state.last_card_index, show_answer=True)
+            else:
+                show_card(st.session_state.current_index)
+            
+            answer = st.text_input(
+                "Your answer",
+                key="current_answer",
+                label_visibility="collapsed",
+                on_change=check_answer
+            )
 
-        st.markdown('<div class="info-message">Cevabınızı yazdıktan sonra Enter tuşuna basın</div>', unsafe_allow_html=True)
+            st.markdown('<div class="info-message">Press Enter after typing your answer</div>', unsafe_allow_html=True)
+
+            
+            
+            if st.session_state.show_error:
+                if st.session_state.wrong_attempts == 1:  # İlk yanlış tahmin
+                    st.markdown(f'<div class="error-message">Wrong answer, try again</div>', unsafe_allow_html=True)
+                    st.markdown(f'<div class="tip-message">{st.session_state.word_list[st.session_state.current_index][1][0][0]}</div>', unsafe_allow_html=True)
+                elif st.session_state.wrong_attempts == 2:  # İkinci yanlış tahmin
+                    st.markdown(f'<div class="error-message">Wrong answer</div>', unsafe_allow_html=True)
+                    st.markdown(f'<div class="answer-message">answer: {st.session_state.word_list[st.session_state.current_index][1][0]}</div>', unsafe_allow_html=True)
+                    # 1 saniye sonra otomatik geçiş için
+                    import time
+                    time.sleep(1)
+                    st.session_state.last_card_index = st.session_state.current_index
+                    st.session_state.current_index += 1
+                    st.session_state.wrong_attempts = 0
+                    st.session_state.show_error = False
+                    st.rerun()
+
+            # Navigation buttons container
+            st.markdown('<div class="nav-buttons">', unsafe_allow_html=True)
+            left_col, right_col = st.columns(2)
+            with left_col:
+                if st.button("Last Card", disabled=st.session_state.last_card_index is None, key="last_card"):
+                    st.session_state.show_last_card = True
+            with right_col:
+                if st.button("New Card", key="new_card"):
+                    st.session_state.show_last_card = False
+            st.markdown('</div>', unsafe_allow_html=True)
     else:
         # Tüm kelimeler tamamlandığında
         st.markdown("""
             <div class="finish-screen">
                 <div class="celebration">🎉</div>
-                <h1>Tebrikler!</h1>
-                <p>Tüm kelimeleri başarıyla tamamladınız.</p>
+                <h1>Congratulations!</h1>
+                <p>You have successfully completed all words.</p>
             </div>
         """, unsafe_allow_html=True)
         
-        if st.button("Tekrar Başla"):
+        if st.button("Start Over"):
             st.session_state.current_index = 0
             st.session_state.wrong_attempts = 0
+            st.session_state.last_card_index = None
             random.shuffle(st.session_state.word_list)
             st.rerun()
-
-    # Çıkış butonu
-    if st.button("Çıkış Yap"):
-        st.session_state.clear()
-        st.rerun()
 
 if __name__ == "__main__":
     main()

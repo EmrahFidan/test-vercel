@@ -1,11 +1,11 @@
-turkish_sentence,english_word,turkish_word
-"Masada kırmızı bir elma var.",apple,elma
-"Kitaplıkta ilginç bir kitap buldum.",book,kitap
-"Yeni bir ev satın aldılar.",house,ev
-"Bahçede büyük bir ağaç var.",tree,ağaç
-"Bugün güneş çok parlak.",sun,güneş
-"Bir bardak su içtim.",water,su
-"Fırından taze ekmek aldım.",bread,ekmek
-"Bahçedeki çiçek çok güzel kokuyor.",flower,çiçek
-"Pencerede bir kuş var.",bird,kuş
-"Gece ay çok parlaktı.",moon,ay
+turkish_sentence,english_sentence,english_word,turkish_word,word_info
+"Masada kırmızı bir elma var.","There is a red ___ on the table.",apple,elma,"[noun]"
+"Kitaplıkta ilginç bir kitap buldum.","I found an interesting ___ in the library.",book,kitap,"[noun]"
+"Yeni bir ev satın aldılar.","They bought a new ___.",house,ev,"[noun]"
+"Güneş parlak şekilde parlıyor.","The ___ is shining brightly.",sun,güneş,"[noun]"
+"Soğuk su içtim.","I drank cold ___.",water,su,"[noun]"
+"Kedim süt içmeyi sever.","My cat likes to drink ___.",milk,süt,"[noun]"
+"Ağaçta bir kuş var.","There is a ___ in the tree.",bird,kuş,"[noun]"
+"Büyük bir köpek gördüm.","I saw a big ___.",dog,köpek,"[noun]"
+"Masada taze ekmek var.","There is fresh ___ on the table.",bread,ekmek,"[noun]"
+"Pencereden ay görünüyor.","The ___ is visible from the window.",moon,ay,"[noun]"

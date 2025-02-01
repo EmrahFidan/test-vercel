@@ -13,14 +13,50 @@ header {
 
 /* Ana container düzenlemesi */
 .main .block-container {
-    max-width: 800px;
+    max-width: 600px !important;
     padding-top: 2rem;
     padding-bottom: 2rem;
+    margin: 0 auto;
 }
 
 /* Counter'ı gizle */
 .counter {
     display: none;
+}
+
+/* Sidebar düzenlemesi */
+.css-1d391kg {
+    background-color: #111111;
+}
+
+section[data-testid="stSidebar"] {
+    background-color: #111111;
+    border-right: 1px solid #19b48d;
+}
+
+section[data-testid="stSidebar"] .block-container {
+    padding-top: 2rem;
+}
+
+.sidebar-content {
+    padding: 1rem;
+    color: #ccc9dc;
+}
+
+.sidebar-content .user-info {
+    border-bottom: 1px solid #333;
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+}
+
+.sidebar-content .user-info span {
+    color: #ccc9dc;
+    font-size: 1rem;
+}
+
+.sidebar-content .user-info .username {
+    color: #19b48d;
+    font-weight: 500;
 }
 
 /* Soru kartı container'ı */
@@ -39,6 +75,39 @@ header {
     margin: 20px 0;
     font-weight: 400;
     line-height: 1.4;
+}
+
+.word-display .highlight {
+    color: #19b48d;
+}
+
+/* Target word style */
+.target-word {
+    font-size: 18px;
+    color: #ccc9dc;
+    text-align: center;
+    margin: 15px 0;
+}
+
+.target-word .highlight {
+    color: #19b48d;
+    font-weight: 500;
+}
+
+.target-word .word-info {
+    color: #888;
+    font-size: 14px;
+    font-style: italic;
+    margin-left: 5px;
+}
+
+/* Turkish sentence style */
+.turkish-sentence {
+    font-size: 24px;
+    color: #888;
+    text-align: center;
+    margin: 15px 0;
+    font-style: italic;
 }
 
 /* İlerleme çubuğu container'ı */
@@ -84,26 +153,33 @@ div[data-testid="stTextInput"].error input {
     font-size: 20px;
 }
 
+.answer-message {
+    color: #19b48d;
+    font-size: 24px;
+    text-align: center;
+    margin: 10px 0;
+}
+
 /* Yanlış cevap mesajı */
 .error-message {
     color: #ff4444;
-    padding: px 0;
     font-size: 14px;
     text-align: center;
 }
 
 .tip-message {
     color: #19b48d;
-    font-size: 30px;
+    font-size: 24px;
     text-align: center;
+    margin: 0;
 }
 
 /* Bilgilendirme mesajı */
 .info-message {
     color: #ccc9dc;
-    font-size: 15px;
+    font-size: 14px;
     text-align: center;
-    margin-top: 10px;
+    margin-top: 5px;
     font-style: italic;
 }
 
@@ -130,6 +206,51 @@ div[data-testid="stTextInput"].error input {
     color: #ccc9dc;
     font-size: 18px;
     margin: 10px 0;
+}
+
+/* Button stilleri */
+.stButton > button {
+    background-color: transparent !important;
+    color: #19b48d !important;
+    border: 2px solid #19b48d !important;
+    padding: 0.25rem 1rem !important;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    width: 120px !important;
+    display: inline-block !important;
+    margin: 0 6.5em !important;
+}
+
+.stButton > button:hover {
+    background-color: rgba(25, 180, 141, 0.1) !important;
+}
+
+.stButton > button:disabled {
+    border-color: #333 !important;
+    color: #333 !important;
+    cursor: not-allowed;
+}
+
+/* Button container */
+.nav-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+
+/* Logout button in sidebar */
+.sidebar-logout {
+    position: absolute;
+    bottom: 2rem;
+    left: 1rem;
+    right: 1rem;
+}
+
+.sidebar-logout .stButton > button {
+    width: 100% !important;
 }
 
 @keyframes bounce {

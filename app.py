@@ -5,7 +5,6 @@ import json
 import os
 from datetime import datetime
 import shutil
-from streamlit_shortcuts import button, add_keyboard_shortcuts
 
 # Constants
 BASE_DIR = "data"
@@ -333,12 +332,10 @@ def main():
         st.markdown('<div class="nav-buttons">', unsafe_allow_html=True)
         left_col, right_col = st.columns(2)
         with left_col:
-            if button("Last Card", "ArrowLeft", lambda: setattr(st.session_state, 'show_last_card', True),
-                     disabled=st.session_state.last_word is None, key="last_card", hint=True):
+            if st.button("Last Card", key="last_card", disabled=st.session_state.last_word is None):
                 st.session_state.show_last_card = True
         with right_col:
-            if button("New Card", "ArrowRight", lambda: setattr(st.session_state, 'show_last_card', False),
-                     key="new_card", hint=True):
+            if st.button("New Card", key="new_card"):
                 import time
                 time.sleep(0.3)  # New Card butonuna basıldığında 0.5 saniye bekle
                 st.session_state.show_last_card = False

@@ -1,0 +1,26 @@
+{
+  "words": {
+    "apple": {
+      "count": 1,
+      "last_seen_index": 4
+    },
+    "book": {
+      "count": 2,
+      "last_seen_index": 5
+    },
+    "house": {
+      "count": 2,
+      "last_seen_index": 6
+    },
+    "sun": {
+      "count": 2,
+      "last_seen_index": 7
+    },
+    "water": {
+      "count": 2,
+      "last_seen_index": 8
+    }
+  },
+  "current_index": 9,
+  "last_update": "2025-02-06 10:02:03.162307"
+}

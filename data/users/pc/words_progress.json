@@ -1,0 +1,27 @@
+{
+  "words": {
+    "apple": {
+      "count": 0,
+      "last_seen_index": null
+    },
+    "book": {
+      "count": 0,
+      "last_seen_index": null
+    },
+    "house": {
+      "count": 1,
+      "last_seen_index": 0
+    },
+    "sun": {
+      "count": 0,
+      "last_seen_index": null
+    },
+    "water": {
+      "count": 0,
+      "last_seen_index": null
+    }
+  },
+  "current_index": 1,
+  "last_update": "2025-02-06 10:51:51.761407",
+  "theme_color": "#1919b4"
+}

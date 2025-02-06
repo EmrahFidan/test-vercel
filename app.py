@@ -11,7 +11,7 @@ BASE_DIR = "data"
 USERS_DIR = os.path.join(BASE_DIR, "users")
 MASTER_WORDS_FILE = 'words.csv'
 MIN_GAP_BETWEEN_WORDS = 5
-TARGET_COUNT = 2
+TARGET_COUNT = 5
 
 st.set_page_config(
     page_title="Learn Words",
@@ -19,6 +19,10 @@ st.set_page_config(
     layout="centered",
     initial_sidebar_state="expanded"
 )
+
+def create_word_id(row):
+    """Her kelime-cümle kombinasyonu için benzersiz ID oluşturur"""
+    return f"{row['english_word']}_{hash(row['english_sentence'])}"
 
 def ensure_user_directory(user_id):
     """Kullanıcı dizinini ve gerekli dosyaları oluşturur"""
@@ -28,11 +32,15 @@ def ensure_user_directory(user_id):
         
     progress_file = os.path.join(user_dir, "words_progress.json")
     if not os.path.exists(progress_file):
-        # Tüm kelimeleri count=0 ile başlat
+        # CSV'deki tüm satırlar için benzersiz ID'ler oluştur
         df = pd.read_csv(MASTER_WORDS_FILE)
         progress = {
-            "words": {word: {"count": 0, "last_seen_index": None} 
-                     for word in df['english_word']},
+            "words": {create_word_id(row): {
+                "count": 0,
+                "last_seen_index": None,
+                "english_word": row['english_word'],
+                "english_sentence": row['english_sentence']
+            } for _, row in df.iterrows()},
             "current_index": 0,
             "last_update": str(datetime.now())
         }
@@ -57,44 +65,44 @@ def get_available_words(user_id, current_index):
     progress = load_progress(user_id)
     words_progress = progress["words"]
     
-    # Önce hedef sayıya ulaşmamış kelimeleri kontrol et
-    incomplete_words = []
-    words_with_gap = []
+    # Tüm kelime kombinasyonları için verileri al
     df = pd.read_csv(MASTER_WORDS_FILE)
+    available_words = []
+    words_with_gap = []
     
-    for idx, row in df.iterrows():
-        word = row['english_word']
-        word_progress = words_progress[word]
-        
-        if word_progress["count"] < TARGET_COUNT:
-            incomplete_words.append(row.to_dict())
-            last_seen = word_progress["last_seen_index"]
+    for _, row in df.iterrows():
+        word_id = create_word_id(row)
+        if word_id in words_progress:
+            word_progress = words_progress[word_id]
             
-            # Minimum aralık şartını kontrol et
-            if last_seen is None or (current_index - last_seen) >= MIN_GAP_BETWEEN_WORDS:
-                words_with_gap.append(row.to_dict())
+            if word_progress["count"] < TARGET_COUNT:
+                word_data = row.to_dict()
+                word_data['word_id'] = word_id
+                available_words.append(word_data)
+                
+                last_seen = word_progress["last_seen_index"]
+                if last_seen is None or (current_index - last_seen) >= MIN_GAP_BETWEEN_WORDS:
+                    words_with_gap.append(word_data)
     
-    # Eğer hiç tamamlanmamış kelime yoksa oyun bitmiştir
-    if not incomplete_words:
+    if not available_words:
         return None
         
-    # Önce aralık şartını sağlayan kelimeleri dene
     if words_with_gap:
         return random.choice(words_with_gap)
     
-    # Aralık şartını sağlayan kelime yoksa, herhangi bir tamamlanmamış kelimeyi seç
-    return random.choice(incomplete_words)
+    return random.choice(available_words)
 
-def update_word_progress(user_id, word, is_correct):
+def update_word_progress(user_id, word_data, is_correct):
     """Kelime ilerlemesini günceller"""
     progress = load_progress(user_id)
+    word_id = word_data['word_id']
     
     if is_correct:
-        progress["words"][word]["count"] += 1
-    else:  # 2 yanlış cevap durumunda
-        progress["words"][word]["count"] = max(0, progress["words"][word]["count"] - 1)
+        progress["words"][word_id]["count"] += 1
+    else:
+        progress["words"][word_id]["count"] = max(0, progress["words"][word_id]["count"] - 1)
     
-    progress["words"][word]["last_seen_index"] = progress["current_index"]
+    progress["words"][word_id]["last_seen_index"] = progress["current_index"]
     progress["current_index"] += 1
     save_progress(user_id, progress)
 
@@ -106,12 +114,18 @@ def get_statistics(user_id):
     total_words = len(words_progress)
     level_0_words = sum(1 for w in words_progress.values() if w["count"] == 0)
     level_1_words = sum(1 for w in words_progress.values() if w["count"] == 1)
+    level_2_words = sum(1 for w in words_progress.values() if w["count"] == 2)
+    level_3_words = sum(1 for w in words_progress.values() if w["count"] == 3)
+    level_4_words = sum(1 for w in words_progress.values() if w["count"] == 4)
     completed_words = sum(1 for w in words_progress.values() if w["count"] == TARGET_COUNT)
     
     return {
         "total": total_words,
         "level_0": level_0_words,
         "level_1": level_1_words,
+        "level_2": level_2_words,
+        "level_3": level_3_words,
+        "level_4": level_4_words,
         "completed": completed_words
     }
 
@@ -120,10 +134,7 @@ def get_progress_percentage(user_id):
     progress = load_progress(user_id)
     words_progress = progress["words"]
     
-    # Mevcut toplam count
     total_count = sum(w["count"] for w in words_progress.values())
-    
-    # Hedef toplam (kelime sayısı * TARGET_COUNT)
     total_target = len(words_progress) * TARGET_COUNT
     
     return (total_count / total_target) * 100
@@ -135,7 +146,6 @@ def load_css():
 def main():
     load_css()
     
-    # Sidebar içeriği
     with st.sidebar:
         st.markdown("""
             <div class="sidebar-content">
@@ -151,15 +161,20 @@ def main():
                 - Total Words: {} words
                 - Not Started: {} words
                 - Level 1: {} words
+                - Level 2: {} words
+                - Level 3: {} words
+                - Level 4: {} words
                 - Completed: {} words
             """.format(
                 stats["total"],
                 stats["level_0"],
                 stats["level_1"],
+                stats["level_2"],
+                stats["level_3"],
+                stats["level_4"],
                 stats["completed"]
             ))
         
-        # Logout button in sidebar footer
         with st.container():
             st.markdown('<div class="sidebar-logout">', unsafe_allow_html=True)
             if st.button("Logout", key="sidebar_logout"):
@@ -167,7 +182,6 @@ def main():
                 st.rerun()
             st.markdown('</div>', unsafe_allow_html=True)
     
-    # Kullanıcı girişi kontrolü
     if 'user_id' not in st.session_state:
         with st.form("kullanici_giris"):
             user_id = st.text_input("Enter your username:")
@@ -193,20 +207,19 @@ def main():
         
         if answer == correct_answer:
             st.session_state.last_word = st.session_state.current_word
-            # Kelime tamamlandı mı kontrol et
             progress = load_progress(st.session_state.user_id)
-            current_count = progress["words"][correct_answer]["count"]
+            word_id = st.session_state.current_word['word_id']
+            current_count = progress["words"][word_id]["count"]
             
-            update_word_progress(st.session_state.user_id, correct_answer, True)
+            update_word_progress(st.session_state.user_id, st.session_state.current_word, True)
             st.session_state.show_error = False
             st.session_state.current_answer = ""
             st.session_state.wrong_attempts = 0
             
-            # Eğer kelime yeni tamamlandıysa (count 2'ye ulaştıysa) 1 saniye bekle
-            if current_count == 1:  # Bu doğru cevapla 2'ye ulaşacak
+            if current_count == 4:
                 import time
                 time.sleep(1)
-            else:  # Normal kart değişiminde 0.5 saniye bekle
+            else:
                 import time
                 time.sleep(0.3)
             
@@ -216,7 +229,7 @@ def main():
             st.session_state.wrong_attempts += 1
             st.session_state.current_answer = ""
             if st.session_state.wrong_attempts >= 2:
-                update_word_progress(st.session_state.user_id, correct_answer, False)
+                update_word_progress(st.session_state.user_id, st.session_state.current_word, False)
                 st.session_state.last_word = st.session_state.current_word
                 st.session_state.wrong_attempts = 0
                 st.session_state.show_error = False
@@ -232,13 +245,12 @@ def main():
             blank = "_" * len(word_data['english_word'])
             highlighted_sentence = word_data['english_sentence'].replace("___", blank)
         
-        # Level indicator'ı ekle
-        word = word_data['english_word'].lower()
+        word_id = word_data['word_id']
         progress = load_progress(st.session_state.user_id)
-        word_count = progress["words"][word]["count"]
+        word_count = progress["words"][word_id]["count"]
         
         dots_html = '<div class="level-indicator">'
-        for i in range(2):
+        for i in range(5):
             dot_class = "active" if i < (word_count + 1) else ""
             dots_html += f'<div class="level-dot {dot_class}"></div>'
         dots_html += '</div>'
@@ -261,16 +273,13 @@ def main():
         st.session_state.current_word = None
         st.rerun()
 
-    # Ana içerik alanı
     main_container = st.container()
     with main_container:
         progress = load_progress(st.session_state.user_id)
         current_index = progress["current_index"]
         
-        # Progress bar için tamamlanma yüzdesini hesapla
         progress_percentage = get_progress_percentage(st.session_state.user_id)
         
-        # İlerleme çubuğu
         progress_bar_html = f"""
             <div class="progress-bar-container">
                 <div class="progress-bar" style="width: {progress_percentage}%;"></div>
@@ -278,10 +287,9 @@ def main():
         """
         st.markdown(progress_bar_html, unsafe_allow_html=True)
         
-        # Eğer mevcut kelime yoksa yeni kelime al
         if st.session_state.current_word is None:
             word = get_available_words(st.session_state.user_id, current_index)
-            if word is None:  # Tüm kelimeler tamamlandı
+            if word is None:
                 st.markdown("""
                     <div class="finish-screen">
                         <div class="celebration">🎉</div>
@@ -291,11 +299,10 @@ def main():
                 """, unsafe_allow_html=True)
                 
                 if st.button("Start Over"):
-                    # Tüm kelimelerin count değerlerini sıfırla
                     progress = load_progress(st.session_state.user_id)
-                    for word in progress["words"]:
-                        progress["words"][word]["count"] = 0
-                        progress["words"][word]["last_seen_index"] = None
+                    for word_id in progress["words"]:
+                        progress["words"][word_id]["count"] = 0
+                        progress["words"][word_id]["last_seen_index"] = None
                     progress["current_index"] = 0
                     save_progress(st.session_state.user_id, progress)
                     st.session_state.current_word = None
@@ -337,7 +344,7 @@ def main():
         with right_col:
             if st.button("New Card", key="new_card"):
                 import time
-                time.sleep(0.3)  # New Card butonuna basıldığında 0.5 saniye bekle
+                time.sleep(0.3)
                 st.session_state.show_last_card = False
         st.markdown('</div>', unsafe_allow_html=True)
 

@@ -1,6 +1,1058 @@
-turkish_sentence,english_sentence,english_word,turkish_word,word_info
-"Masada kırmızı bir elma var.","There is a red ___ on the table.",apple,elma,"[noun]"
-"Kitaplıkta ilginç bir kitap buldum.","I found an interesting ___ in the library.",book,kitap,"[noun]"
-"Yeni bir ev satın aldılar.","They bought a new ___.",house,ev,"[noun]"
-"Güneş parlak şekilde parlıyor.","The ___ is shining brightly.",sun,güneş,"[noun]"
-"Soğuk su içtim.","I drank cold ___.",water,su,"[noun]"
+english_sentence,turkish_sentence,english_word,turkish_word,word_info
+"I need ___ new computer.","Yeni bir bilgisayara ihtiyacım var.",a,bir,indefinite article
+"Let's talk ___ your plans.","Planların hakkında konuşalım.",about,hakkında,adverb
+"The picture is ___ the desk.","Resim masanın üstünde.",above,üstünde,adverb
+"The bridge goes ___ the river.","Köprü nehrin karşısına gidiyor.",across,karşısına,adverb
+"We need to take ___ immediately.","Hemen harekete geçmemiz gerek.",action,harekete,noun
+"Swimming is a healthy ___.","Yüzmek sağlıklı bir aktivitedir.",activity,aktivite,noun
+"He wants to become an ___.","O bir aktör olmak istiyor.",actor,aktör,noun
+"She is a talented ___.","O yetenekli bir aktris.",actress,aktris,noun
+"Please ___ some sugar to my coffee.","Lütfen kahveme biraz şeker ekle.",add,eklemek,verb
+"What's your home ___?","Ev adresin nedir?",address,adres,noun
+"You must be an ___ to enter this movie.","Bu filmi izlemek için yetişkin olmalısın.",adult,yetişkin,noun
+"Can you give me some ___?","Bana biraz tavsiye verebilir misin?",advice,tavsiye,noun
+"Don't be ___ of making mistakes.","Hata yapmaktan korkma.",afraid,korkmak,adjective
+"Let's meet ___ lunch.","Öğle yemeğinden sonra buluşalım.",after,sonra,preposition
+"I'll see you in the ___.","Seni öğleden sonra göreceğim.",afternoon,öğleden sonra,noun
+"Can you say that ___?","Bunu tekrar söyleyebilir misin?",again,tekrar,adverb
+"What ___ are you?","Kaç yaşındasın?",age,yaş,noun
+"I met her two years ___.","Onunla iki yıl önce tanıştım.",ago,önce,adverb
+"I ___ with your opinion.","Fikrine katılıyorum.",agree,katılmak,verb
+"Open the window to get fresh ___.","Temiz hava almak için pencereyi aç.",air,hava,noun
+"We'll meet at the ___.","Havalimanında buluşacağız.",airport,havalimanı,noun
+"___ students must attend.","Tüm öğrenciler katılmalı.",all,tüm,determiner
+"She can ___ speak Spanish.","O aynı zamanda İspanyolca da konuşabilir.",also,da/de,adverb
+"He ___ arrives on time.","O her zaman zamanında gelir.",always,her zaman,adverb
+"That was an ___ performance.","O muhteşem bir performanstı.",amazing,muhteşem,adjective
+"Coffee ___ tea","Kahve ve çay",and,ve,conjunction
+"Why are you ___ with me?","Neden bana kızgınsın?",angry,kızgın,adjective
+"The zoo has many ___s.","Hayvanat bahçesinde birçok hayvan var.",animal,hayvan,noun
+"I need ___ cup of coffee.","Başka bir fincan kahveye ihtiyacım var.",another,başka,determiner
+"Please ___ my question.","Lütfen soruma cevap ver.",answer,cevap vermek,noun
+"Do you have ___ questions?","Herhangi bir sorun var mı?",any,herhangi,determiner
+"Is ___ home?","Evde kimse var mı?",anyone,kimse,pronoun
+"Did you see ___?","Bir şey gördün mü?",anything,bir şey,pronoun
+"They live in a new ___.","Onlar yeni bir dairede yaşıyor.",apartment,daire,noun
+"I eat an ___ every day.","Her gün bir elma yerim.",apple,elma,noun
+"Easter is usually in ___.","Paskalya genellikle Nisan'da olur.",april,Nisan,noun
+"This ___ is very quiet.","Bu bölge çok sessiz.",area,bölge,noun
+"He broke his ___ in the accident.","Kazada kolunu kırdı.",arm,kol,noun
+"The Earth moves ___ the Sun.","Dünya Güneş'in etrafında döner.",around,etrafında,adverb
+"When does the train ___?","Tren ne zaman varıyor?",arrive,varmak,verb
+"She studies ___ at university.","Üniversitede sanat okuyor.",art,sanat,noun
+"I read an interesting ___ today.","Bugün ilginç bir makale okudum.",article,makale,noun
+"She is a talented ___.","O yetenekli bir sanatçı.",artist,sanatçı,noun
+"Use this ___ an example.","Bunu örnek olarak kullan.",as,olarak,preposition
+"Don't forget to ___ for help.","Yardım istemeyi unutma.",ask,istemek,verb
+"I'll meet you ___ the station.","Seninle istasyonda buluşacağım.",at,de/da,preposition
+"It's very hot in ___.","Ağustos'ta çok sıcak.",august,Ağustos,noun
+"My ___ lives in London.","Teyzem Londra'da yaşıyor.",aunt,teyze,noun
+"The leaves fall in ___.","Yapraklar sonbaharda düşer.",autumn,sonbahar,noun
+"He lives far ___ from here.","O buradan uzakta yaşıyor.",away,uzakta,adverb
+"The ___ is crying.","Bebek ağlıyor.",baby,bebek,noun
+"I'll be ___ in 5 minutes.","5 dakika içinde döneceğim.",back,geri,adverb
+"That was a ___ idea.","O kötü bir fikirdi.",bad,kötü,adjective
+"Put it in your ___.","Onu çantana koy.",bag,çanta,noun
+"Let's play with the ___.","Topla oynayalım.",ball,top,noun
+"I had a ___ for breakfast.","Kahvaltıda bir muz yedim.",banana,muz,noun
+"My favorite ___ is playing tonight.","En sevdiğim grup bu gece çalıyor.",band,grup,noun
+"I need to go to the ___.","Bankaya gitmem gerek.",bank,banka,noun
+"I like taking a hot ___.","Sıcak banyo yapmayı severim.",bath,banyo,noun
+"Where is the ___?","Banyo nerede?",bathroom,banyo,noun
+"___ yourself!","Kendin ol!",be,olmak,verb
+"Let's go to the ___.","Plaja gidelim.",beach,plaj,noun
+"What a ___ day!","Ne güzel bir gün!",beautiful,güzel,adjective
+"I'm late ___ of traffic.","Trafik yüzünden geç kaldım.",because,yüzünden,conjunction
+"She wants to ___ a doctor.","Doktor olmak istiyor.",become,olmak,verb
+"It's time to go to ___.","Yatma vakti.",bed,yatak,noun
+"My ___ is upstairs.","Yatak odam üst katta.",bedroom,yatak odası,noun
+"Would you like a ___?","Bir bira ister misin?",beer,bira,noun
+"Think ___ you speak.","Konuşmadan önce düşün.",before,önce,preposition
+"The movie will ___ at 8.","Film 8'de başlayacak.",begin,başlamak,verb
+"This is just the ___.","Bu sadece başlangıç.",beginning,başlangıç,noun
+"The cat is ___ the sofa.","Kedi koltuğun arkasında.",behind,arkasında,adverb
+"I ___ in you.","Sana inanıyorum.",believe,inanmak,verb
+"The temperature is ___ zero.","Sıcaklık sıfırın altında.",below,altında,adverb
+"She's my ___ friend.","O en iyi arkadaşım.",best,en iyi,adjective
+"I feel ___ now.","Şimdi daha iyiyim.",better,daha iyi,adjective
+"The bank is ___ the post office and the shop.","Banka, postane ile dükkan arasında.",between,arasında,preposition
+"I ride my ___ to work.","İşe bisikletimle gidiyorum.",bicycle,bisiklet,noun
+"They live in a ___ house.","Büyük bir evde yaşıyorlar.",big,büyük,adjective
+"Can you ride a ___?","Bisiklet sürebilir misin?",bike,bisiklet,noun
+"Could I have the ___ please?","Hesabı alabilir miyim?",bill,hesap,noun
+"A ___ is singing in the tree.","Ağaçta bir kuş şarkı söylüyor.",bird,kuş,noun
+"Happy ___!","Doğum günün kutlu olsun!",birthday,doğum günü,noun
+"She's wearing a ___ dress.","Siyah bir elbise giyiyor.",black,siyah,adjective
+"She writes a ___ about cooking.","Yemek hakkında bir blog yazıyor.",blog,blog,noun
+"She has ___ hair.","Sarı saçları var.",blonde,sarı,adjective
+"The sky is ___.","Gökyüzü mavi.",blue,mavi,adjective
+english_sentence,turkish_sentence,english_word,turkish_word,word_info
+"The ___ water was very cold.","Mavi su çok soğuktu.",blue,mavi,noun
+"The ___ is sailing on the lake.","Tekne gölde yelken açıyor.",boat,tekne,noun
+"The human ___ needs exercise.","İnsan vücudunun egzersize ihtiyacı var.",body,vücut,noun
+"I'm reading an interesting ___.","İlginç bir kitap okuyorum.",book,kitap,noun
+"These ___ are too small for me.","Bu botlar benim için çok küçük.",boot,bot,noun
+"I'm ___ with this movie.","Bu filmden sıkıldım.",bored,sıkılmış,adjective
+"This lecture is very ___.","Bu ders çok sıkıcı.",boring,sıkıcı,adjective
+"She was ___ in London.","O Londra'da doğdu.",born,doğmak,verb
+"___ of them are right.","İkisi de haklı.",both,ikisi de,determiner
+"The ___ of us agree.","İkimiz de hemfikiriz.",both,ikimiz,pronoun
+"There's a ___ of water on the table.","Masada bir şişe su var.",bottle,şişe,noun
+"Put it in the ___.","Onu kutuya koy.",box,kutu,noun
+"The ___ is playing in the garden.","Çocuk bahçede oynuyor.",boy,erkek çocuk,noun
+"This is my ___.","Bu benim erkek arkadaşım.",boyfriend,erkek arkadaş,noun
+"I need fresh ___.","Taze ekmeğe ihtiyacım var.",bread,ekmek,noun
+"Let's take a ___.","Bir mola alalım.",break,mola,noun
+"Don't ___ the glass.","Bardağı kırma.",break,kırmak,verb
+"What did you have for ___?","Kahvaltıda ne yedin?",breakfast,kahvaltı,noun
+"Please ___ me some water.","Lütfen bana biraz su getir.",bring,getirmek,verb
+"My ___ lives in Canada.","Erkek kardeşim Kanada'da yaşıyor.",brother,erkek kardeş,noun
+"She has ___ eyes.","Kahverengi gözleri var.",brown,kahverengi,adjective
+"Paint it in ___.","Kahverengiye boya.",brown,kahverengi,noun
+"They ___ a new house.","Yeni bir ev inşa ettiler.",build,inşa etmek,verb
+"This ___ is very old.","Bu bina çok eski.",building,bina,noun
+"The ___ is coming.","Otobüs geliyor.",bus,otobüs,noun
+"She owns a small ___.","Küçük bir işletmesi var.",business,işletme,noun
+"I'm ___ today.","Bugün meşgulüm.",busy,meşgul,adjective
+"I like coffee ___ tea is better.","Kahveyi severim ama çay daha iyi.",but,ama,conjunction
+"Do we have any ___?","Tereyağımız var mı?",butter,tereyağı,noun
+"I need to ___ some food.","Biraz yiyecek almam gerek.",buy,almak,verb
+"The book is ___ the window.","Kitap pencerenin yanında.",by,yanında,preposition
+"___, see you tomorrow!","Hoşça kal, yarın görüşürüz!",bye,hoşça kal,exclamation
+"Let's meet at the ___.","Kafede buluşalım.",cafe,kafe,noun
+"Would you like some ___?","Biraz pasta ister misin?",cake,pasta,noun
+"Give me a ___ later.","Bana daha sonra bir ara.",call,aramak,noun
+"Please ___ me tomorrow.","Lütfen beni yarın ara.",call,aramak,verb
+"I got a new ___.","Yeni bir kamera aldım.",camera,kamera,noun
+"I ___ speak English.","İngilizce konuşabilirim.",can,bilmek,modal verb
+"I ___ go to the party.","Partiye gidemem.",cannot,yapamamak,modal verb
+"London is the ___ of England.","Londra İngiltere'nin başkentidir.",capital,başkent,noun
+"Write this in ___ letters.","Bunu büyük harflerle yaz.",capital,büyük,adjective
+"My ___ is very old.","Arabam çok eski.",car,araba,noun
+"I sent you a birthday ___.","Sana bir doğum günü kartı gönderdim.",card,kart,noun
+"She has a successful ___.","Başarılı bir kariyeri var.",career,kariyer,noun
+"The rabbit ate the ___.","Tavşan havucu yedi.",carrot,havuç,noun
+"Can you ___ this bag?","Bu çantayı taşıyabilir misin?",carry,taşımak,verb
+"The ___ is sleeping.","Kedi uyuyor.",cat,kedi,noun
+"I bought a new ___.","Yeni bir CD aldım.",cd,cd,noun
+"It costs fifty ___.","Elli sent tutuyor.",cent,sent,noun
+"Meet me at the city ___.","Benimle şehir merkezinde buluş.",centre,merkez,noun
+"This building is from the 19th ___.","Bu bina 19. yüzyıldan kalma.",century,yüzyıl,noun
+"Please sit on this ___.","Lütfen bu sandalyeye otur.",chair,sandalye,noun
+"I need to ___ my clothes.","Kıyafetlerimi değiştirmem gerek.",change,değiştirmek,verb
+"Do you have any ___?","Bozuk paran var mı?",change,bozuk para,noun
+"Look at this ___.","Bu tabloya bak.",chart,tablo,noun
+"These shoes are very ___.","Bu ayakkabılar çok ucuz.",cheap,ucuz,adjective
+"Please ___ your email.","Lütfen emailini kontrol et.",check,kontrol etmek,verb
+"I love ___.","Peyniri seviyorum.",cheese,peynir,noun
+"We're having ___ for dinner.","Akşam yemeğinde tavuk var.",chicken,tavuk,noun
+"The ___ is playing.","Çocuk oynuyor.",child,çocuk,noun
+"I love dark ___.","Bitter çikolatayı severim.",chocolate,çikolata,noun
+"___ a color.","Bir renk seç.",choose,seçmek,verb
+"Let's go to the ___.","Sinemaya gidelim.",cinema,sinema,noun
+"New York is a big ___.","New York büyük bir şehir.",city,şehir,noun
+"I have English ___ today.","Bugün İngilizce dersim var.",class,ders,noun
+"The ___ is empty.","Sınıf boş.",classroom,sınıf,noun
+"Keep your room ___.","Odanı temiz tut.",clean,temiz,adjective
+"Please ___ your room.","Lütfen odanı temizle.",clean,temizlemek,verb
+"He likes to ___ mountains.","Dağlara tırmanmayı seviyor.",climb,tırmanmak,verb
+"What time is it on the ___?","Saatte kaç var?",clock,saat,noun
+"Please ___ the door.","Lütfen kapıyı kapat.",close,kapatmak,verb
+"These ___ are expensive.","Bu kıyafetler pahalı.",clothes,kıyafetler,noun
+"Let's go to the ___.","Kulübe gidelim.",club,kulüp,noun
+"Where is my ___?","Montum nerede?",coat,mont,noun
+"Would you like some ___?","Biraz kahve ister misin?",coffee,kahve,noun
+"It's very ___ today.","Bugün çok soğuk.",cold,soğuk,adjective
+"I have a ___.","Soğuk algınlığım var.",cold,soğuk algınlığı,noun
+"She goes to ___.","O üniversiteye gidiyor.",college,üniversite,noun
+"What's your favorite ___?","En sevdiğin renk ne?",colour,renk,noun
+"Please ___ here.","Lütfen buraya gel.",come,gelmek,verb
+"It's a ___ mistake.","Bu yaygın bir hata.",common,yaygın,adjective
+"He works for a big ___.","Büyük bir şirkette çalışıyor.",company,şirket,noun
+"Let's ___ the prices.","Fiyatları karşılaştıralım.",compare,karşılaştırmak,verb
+"The task is ___.","Görev tamamlandı.",complete,tamamlanmış,adjective
+"Please ___ this form.","Lütfen bu formu doldurun.",complete,tamamlamak,verb
+"My ___ is broken.","Bilgisayarım bozuk.",computer,bilgisayar,noun
+"The ___ starts at 8.","Konser 8'de başlıyor.",concert,konser,noun
+"We had an interesting ___.","İlginç bir sohbetimiz oldu.",conversation,sohbet,noun
+"I love to ___.","Yemek yapmayı seviyorum.",cook,yemek yapmak,verb
+"I enjoy ___.","Yemek yapmaktan hoşlanıyorum.",cooking,yemek yapma,noun
+"That's a ___ jacket.","O havalı bir ceket.",cool,havalı,adjective
+"This answer is ___.","Bu cevap doğru.",correct,doğru,adjective
+"Please ___ my mistakes.","Lütfen hatalarımı düzelt.",correct,düzeltmek,verb
+"What's the ___ of this book?","Bu kitabın fiyatı ne kadar?",cost,fiyat,noun
+"How much does it ___?","Ne kadara mal oluyor?",cost,mal olmak,verb
+"___ you help me?","Bana yardım edebilir misin?",could,edebilmek,modal verb
+"Which ___ are you from?","Hangi ülkedensin?",country,ülke,noun
+"I'm taking an English ___.","İngilizce kursu alıyorum.",course,kurs,noun
+"My ___ lives in Paris.","Kuzenim Paris'te yaşıyor.",cousin,kuzen,noun
+"The ___ gives us milk.","İnek bize süt verir.",cow,inek,noun
+english_sentence,turkish_sentence,english_word,turkish_word,word_info
+"Would you like some ___ in your coffee?","Kahvenize biraz krema ister misiniz?",cream,krema,noun
+"Let's ___ something new.","Yeni bir şey yaratalım.",create,yaratmak,verb
+"Every country has its own ___.","Her ülkenin kendi kültürü vardır.",culture,kültür,noun
+"I need a ___ of tea.","Bir fincan çaya ihtiyacım var.",cup,fincan,noun
+"The ___ is always right.","Müşteri her zaman haklıdır.",customer,müşteri,noun
+"Please ___ the cake into small pieces.","Lütfen pastayı küçük parçalara kes.",cut,kesmek,verb
+"My ___ works in a bank.","Babam bankada çalışıyor.",dad,baba,noun
+"Would you like to ___ with me?","Benimle dans etmek ister misin?",dance,dans etmek,verb
+"The ___ performed beautifully.","Dansçı güzel performans sergiledi.",dancer,dansçı,noun
+"___ is my favorite hobby.","Dans etmek en sevdiğim hobi.",dancing,dans etmek,noun
+"This road can be ___.","Bu yol tehlikeli olabilir.",dangerous,tehlikeli,adjective
+"It's getting ___ outside.","Dışarısı kararıyor.",dark,karanlık,adjective
+"What's the ___ today?","Bugünün tarihi ne?",date,tarih,noun
+"His ___ is studying medicine.","Kızı tıp okuyor.",daughter,kız,noun
+"Have a nice ___!","İyi günler!",day,gün,noun
+"She wrote a ___ letter to her friend.","Arkadaşına sevgi dolu bir mektup yazdı.",dear,sevgili,adjective
+"Christmas is in ___.","Noel Aralık'ta.",december,Aralık,noun
+"I need to ___ now.","Şimdi karar vermem gerek.",decide,karar vermek,verb
+"This cake is ___.","Bu pasta lezzetli.",delicious,lezzetli,adjective
+"Can you ___ your house?","Evini tarif edebilir misin?",describe,tarif etmek,verb
+"Read the ___ carefully.","Açıklamayı dikkatle oku.",description,açıklama,noun
+"She works in ___.","O tasarım alanında çalışıyor.",design,tasarım,noun
+"We need to ___ a new logo.","Yeni bir logo tasarlamamız gerek.",design,tasarlamak,verb
+"My books are on the ___.","Kitaplarım masanın üstünde.",desk,masa,noun
+"Pay attention to every ___.","Her detaya dikkat et.",detail,detay,noun
+"Can you follow this ___?","Bu diyaloğu takip edebiliyor musun?",dialogue,diyalog,noun
+"Look it up in the ___.","Sözlükte ara.",dictionary,sözlük,noun
+"Plants ___ without water.","Bitkiler susuz ölür.",die,ölmek,verb
+"I'm on a ___.","Ben diyetteyim.",diet,diyet,noun
+"What's the ___ between them?","Aralarındaki fark ne?",difference,fark,noun
+"These flowers are all ___.","Bu çiçekler hepsi farklı.",different,farklı,adjective
+"This exam is ___.","Bu sınav zor.",difficult,zor,adjective
+"What's for ___?","Akşam yemeğinde ne var?",dinner,akşam yemeği,noun
+"Your hands are ___.","Ellerin kirli.",dirty,kirli,adjective
+"Let's ___ the problem.","Sorunu tartışalım.",discuss,tartışmak,verb
+"This is my favorite ___.","Bu benim en sevdiğim yemek.",dish,yemek,noun
+"What ___ you do?","Ne yapıyorsun?",do,yapmak,verb
+"The ___ will see you now.","Doktor şimdi sizi görecek.",doctor,doktor,noun
+"My ___ is very friendly.","Köpeğim çok arkadaş canlısı.",dog,köpek,noun
+"How many ___ do you need?","Kaç dolara ihtiyacın var?",dollar,dolar,noun
+"Please close the ___.","Lütfen kapıyı kapat.",door,kapı,noun
+"Prices are going ___.","Fiyatlar düşüyor.",down,aşağı,adverb
+"The kitchen is ___.","Mutfak alt katta.",downstairs,alt katta,adverb
+"Can you ___ a cat?","Bir kedi çizebilir misin?",draw,çizmek,verb
+"She bought a new ___.","Yeni bir elbise aldı.",dress,elbise,noun
+"Would you like a ___ of water?","Bir içim su ister misin?",drink,içmek,verb
+"Can you ___ me to the airport?","Beni havalimanına götürebilir misin?",drive,sürmek,verb
+"The ___ was very polite.","Şoför çok nazikti.",driver,şoför,noun
+"___ the summer, we go swimming.","Yaz boyunca yüzmeye gideriz.",during,boyunca,preposition
+"Let's watch a ___.","Bir DVD izleyelim.",dvd,DVD,noun
+"___ student must bring a pencil.","Her öğrenci kalem getirmeli.",each,her,determiner
+"My ___ hurts.","Kulağım ağrıyor.",ear,kulak,noun
+"I wake up ___ every day.","Her gün erken uyanırım.",early,erken,adjective
+"He lives in the ___ of London.","Londra'nın doğusunda yaşıyor.",east,doğu,noun
+"This test is ___.","Bu test kolay.",easy,kolay,adjective
+"Let's ___ breakfast.","Kahvaltı yapalım.",eat,yemek,verb
+"I want two ___ for breakfast.","Kahvaltı için iki yumurta istiyorum.",egg,yumurta,noun
+"I have ___ books.","Sekiz kitabım var.",eight,sekiz,number
+"She is ___ years old.","O on sekiz yaşında.",eighteen,on sekiz,number
+"My grandfather is ___ years old.","Büyükbabam seksen yaşında.",eighty,seksen,number
+"The ___ is very big.","Fil çok büyük.",elephant,fil,noun
+"It's ___ o'clock.","Saat on bir.",eleven,on bir,number
+"Who ___ is coming?","Başka kim geliyor?",else,başka,adverb
+"Send me an ___.","Bana bir e-posta gönder.",email,e-posta,noun
+"This is the ___ of the story.","Bu hikayenin sonu.",end,son,noun
+"I ___ playing tennis.","Tenis oynamaktan hoşlanıyorum.",enjoy,hoşlanmak,verb
+"I have ___ money.","Yeterince param var.",enough,yeterli,determiner
+"That costs ten ___.","Bu on euro ediyor.",euro,euro,noun
+"Good ___.","İyi akşamlar.",evening,akşam,noun
+"It's a special ___.","Bu özel bir etkinlik.",event,etkinlik,noun
+"Have you ___ been to Paris?","Hiç Paris'e gittin mi?",ever,hiç,adverb
+"___ day is different.","Her gün farklı.",every,her,determiner
+"___ left early.","Herkes erken ayrıldı.",everybody,herkes,pronoun
+"___ is here.","Herkes burada.",everyone,herkes,pronoun
+"___ is ready.","Her şey hazır.",everything,her şey,pronoun
+"The ___ was difficult.","Sınav zordu.",exam,sınav,noun
+"For ___, apples and oranges.","Örneğin, elmalar ve portakallar.",example,örnek,noun
+"I'm ___ about the party.","Parti için heyecanlıyım.",excited,heyecanlı,adjective
+"The movie was ___.","Film heyecan vericiydi.",exciting,heyecan verici,adjective
+"I need to ___ more.","Daha fazla egzersiz yapmam gerek.",exercise,egzersiz yapmak,verb
+"This restaurant is ___.","Bu restoran pahalı.",expensive,pahalı,adjective
+"Can you ___ this to me?","Bunu bana açıklayabilir misin?",explain,açıklamak,verb
+"We need an ___ chair.","Ekstra bir sandalyeye ihtiyacımız var.",extra,ekstra,adjective
+"She has blue ___.","Mavi gözleri var.",eye,göz,noun
+english_sentence,turkish_sentence,english_word,turkish_word,word_info
+"She has a beautiful ___.","Güzel bir yüzü var.",face,yüz,noun
+"It's a well-known ___.","Bu bilinen bir gerçek.",fact,gerçek,noun
+"Leaves ___ in autumn.","Yapraklar sonbaharda düşer.",fall,düşmek,verb
+"This statement is ___.","Bu ifade yanlış.",false,yanlış,adjective
+"They are a ___ business.","Onlar bir aile şirketi.",family,aile,adjective
+"My ___ lives in London.","Ailem Londra'da yaşıyor.",family,aile,noun
+"She's a ___ actress.","O ünlü bir aktris.",famous,ünlü,adjective
+"The movie was ___.","Film harikaydı.",fantastic,harika,adjective
+"He lives ___ from here.","O buradan uzakta yaşıyor.",far,uzak,adverb
+"They live on a ___.","Onlar bir çiftlikte yaşıyor.",farm,çiftlik,noun
+"My uncle is a ___.","Amcam bir çiftçi.",farmer,çiftçi,noun
+"That's a ___ car.","Bu hızlı bir araba.",fast,hızlı,adjective
+"He runs very ___.","O çok hızlı koşuyor.",fast,hızlı,adverb
+"This cake is too ___.","Bu pasta çok yağlı.",fat,yağlı,adjective
+"My ___ works in a bank.","Babam bir bankada çalışıyor.",father,baba,noun
+"Blue is my ___ color.","Mavi en sevdiğim renk.",favourite,favori,adjective
+"Pizza is my ___.","Pizza favorim.",favourite,favori,noun
+"My birthday is in ___.","Doğum günüm Şubat'ta.",february,Şubat,noun
+"I ___ happy today.","Bugün mutlu hissediyorum.",feel,hissetmek,verb
+"It's a good ___.","Bu iyi bir his.",feeling,his,noun
+"The music ___ starts tomorrow.","Müzik festivali yarın başlıyor.",festival,festival,noun
+"I have ___ friends here.","Burada az arkadaşım var.",few,az,adjective
+"___ people came to the party.","Partiye az kişi geldi.",few,az,determiner
+"___ of them understand.","Onlardan azı anlıyor.",few,az,pronoun
+"She is ___ years old.","O on beş yaşında.",fifteen,on beş,number
+"He came in ___ place.","O beşinci sırada geldi.",fifth,beşinci,ordinal number
+"There are ___ students.","Elli öğrenci var.",fifty,elli,number
+"Please ___ the glass with water.","Lütfen bardağı suyla doldur.",fill,doldurmak,verb
+"Let's watch a ___.","Bir film izleyelim.",film,film,noun
+"This is the ___ exam.","Bu final sınavı.",final,final,adjective
+"Can you ___ my keys?","Anahtarlarımı bulabilir misin?",find,bulmak,verb
+"I'm feeling ___ today.","Bugün kendimi iyi hissediyorum.",fine,iyi,adjective
+"Let's ___ the homework.","Ödevi bitirelim.",finish,bitirmek,verb
+"There's a ___ in the forest.","Ormanda bir ateş var.",fire,ateş,noun
+"He ___ arrived at work.","İşe ilk o geldi.",first,ilk,adverb
+"This is my ___ time here.","Buraya ilk gelişim.",first,ilk,determiner
+"She won ___ prize.","Birinci ödülü kazandı.",first,birinci,ordinal number
+"I like eating ___.","Balık yemeyi severim.",fish,balık,noun
+"I have ___ cats.","Beş kedim var.",five,beş,number
+"They live in a ___.","Onlar bir dairede yaşıyor.",flat,daire,noun
+"Our ___ is delayed.","Uçuşumuz gecikti.",flight,uçuş,noun
+"My room is on the second ___.","Odam ikinci katta.",floor,kat,noun
+"She gave me a ___.","Bana bir çiçek verdi.",flower,çiçek,noun
+"Birds can ___.","Kuşlar uçabilir.",fly,uçmak,verb
+"Please ___ me on Instagram.","Lütfen beni Instagram'da takip et.",follow,takip etmek,verb
+"Turkish ___ is delicious.","Türk yemeği lezzetlidir.",food,yemek,noun
+"My ___ hurts.","Ayağım ağrıyor.",foot,ayak,noun
+"He plays ___ well.","O futbolu iyi oynar.",football,futbol,noun
+"This gift is ___ you.","Bu hediye senin için.",for,için,preposition
+"Don't ___ your keys.","Anahtarlarını unutma.",forget,unutmak,verb
+"Please fill out this ___.","Lütfen bu formu doldurun.",form,form,noun
+"Clouds ___ in the sky.","Bulutlar gökyüzünde şekillenir.",form,şekillenmek,verb
+"She is ___ years old.","O kırk yaşında.",forty,kırk,number
+"There are ___ seasons.","Dört mevsim vardır.",four,dört,number
+"She is ___ years old.","O on dört yaşında.",fourteen,on dört,number
+"He came in ___ place.","O dördüncü sırada geldi.",fourth,dördüncü,ordinal number
+"The entrance is ___.","Giriş ücretsiz.",free,ücretsiz,adjective
+"See you on ___.","Cuma günü görüşürüz.",friday,Cuma,noun
+"She is my best ___.","O en iyi arkadaşım.",friend,arkadaş,noun
+"He is very ___.","O çok arkadaş canlısı.",friendly,arkadaş canlısı,adjective
+"The book fell ___ the shelf.","Kitap raftan düştü.",from,den/dan,preposition
+"The ___ door is locked.","Ön kapı kilitli.",front,ön,adjective
+"Wait at the ___ of the line.","Sıranın önünde bekle.",front,ön,noun
+"I love eating ___.","Meyve yemeyi severim.",fruit,meyve,noun
+"The glass is ___ of water.","Bardak su ile dolu.",full,dolu,adjective
+"We had a lot of ___.","Çok eğlendik.",fun,eğlence,noun
+"That joke was ___.","O şaka komikti.",funny,komik,adjective
+"Think about your ___.","Geleceğini düşün.",future,gelecek,noun
+"Let's play a ___.","Bir oyun oynayalım.",game,oyun,noun
+"The ___ needs water.","Bahçenin suya ihtiyacı var.",garden,bahçe,noun
+"I study ___ at school.","Okulda coğrafya okuyorum.",geography,coğrafya,noun
+"___ ready for school.","Okul için hazırlan.",get,hazırlanmak,verb
+"The ___ is reading a book.","Kız kitap okuyor.",girl,kız,noun
+"His ___ is from Italy.","Kız arkadaşı İtalya'dan.",girlfriend,kız arkadaş,noun
+"___ me your hand.","Elini ver.",give,vermek,verb
+"Can I have a ___ of water?","Bir bardak su alabilir miyim?",glass,bardak,noun
+"Let's ___ to the park.","Parka gidelim.",go,gitmek,verb
+"That's a ___ idea!","Bu iyi bir fikir!",good,iyi,adjective
+"___, see you tomorrow!","Hoşçakal, yarın görüşürüz!",goodbye,hoşçakal,exclamation
+"It's time to say ___.","Hoşçakal deme vakti.",goodbye,hoşçakal,noun
+"My ___ tells great stories.","Büyükbabam harika hikayeler anlatır.",grandfather,büyükbaba,noun
+"My ___ makes delicious cookies.","Büyükannem lezzetli kurabiyeler yapar.",grandmother,büyükanne,noun
+"I visit my ___ every weekend.","Her hafta sonu büyükannemi ziyaret ederim.",grandparent,büyükanne/büyükbaba,noun
+"That's a ___ movie!","Bu harika bir film!",great,harika,adjective
+"My favorite color is ___.","En sevdiğim renk yeşil.",green,yeşil,adjective
+"The ___ looks beautiful.","Yeşillik çok güzel görünüyor.",green,yeşil,noun
+"The sky is ___ today.","Gökyüzü bugün gri.",grey,gri,adjective
+"I don't like wearing ___.","Gri giymeyi sevmem.",grey,gri,noun
+"We work in a ___.","Bir grupta çalışıyoruz.",group,grup,noun
+"Plants ___ in spring.","Bitkiler baharda büyür.",grow,büyümek,verb
+"Take a ___ at the answer.","Cevabı tahmin et.",guess,tahmin,noun
+"Can you ___ my age?","Yaşımı tahmin edebilir misin?",guess,tahmin etmek,verb
+"She plays the ___.","O gitar çalıyor.",guitar,gitar,noun
+"I go to the ___ every morning.","Her sabah spor salonuna gidiyorum.",gym,spor salonu,noun
+"She has long brown ___.","Uzun kahverengi saçları var.",hair,saç,noun
+"___ of the cake is left.","Pastanın yarısı kaldı.",half,yarım,determiner
+"Cut it in ___.","Ortadan ikiye böl.",half,yarı,noun
+"___ of them agreed.","Yarısı kabul etti.",half,yarısı,pronoun
+"Give me your ___.","Elini ver.",hand,el,noun
+"What ___ next?","Sonra ne oldu?",happen,olmak,verb
+english_sentence,turkish_sentence,english_word,turkish_word,word_info
+"She looks very ___ today.","O bugün çok mutlu görünüyor.",happy,mutlu,adjective
+"Math is a ___ subject.","Matematik zor bir konu.",hard,zor,adjective
+"He works ___ every day.","O her gün sıkı çalışır.",hard,sıkı,adverb
+"She's wearing a new ___.","O yeni bir şapka takıyor.",hat,şapka,noun
+"I ___ waiting in lines.","Sırada beklemeyi nefret ederim.",hate,nefret etmek,verb
+"I ___ a cat.","Bir kedim var.",have,sahip olmak,verb
+"We ___ finish this today.","Bunu bugün bitirmek zorundayız.",have to,zorunda olmak,modal verb
+"___ is my brother.","O benim erkek kardeşim.",he,o,pronoun
+"My ___ hurts.","Başım ağrıyor.",head,baş,noun
+"___ is important.","Sağlık önemlidir.",health,sağlık,noun
+"Eating vegetables is ___.","Sebze yemek sağlıklıdır.",healthy,sağlıklı,adjective
+"Can you ___ the music?","Müziği duyabiliyor musun?",hear,duymak,verb
+"___, how are you?","Merhaba, nasılsın?",hello,merhaba,exclamation
+"Say ___ to your friend.","Arkadaşına merhaba de.",hello,merhaba,noun
+"I need your ___.","Yardımına ihtiyacım var.",help,yardım,noun
+"Can you ___ me?","Bana yardım edebilir misin?",help,yardım etmek,verb
+"That's ___ book.","Bu onun kitabı.",her,onun,determiner
+"I saw ___ yesterday.","Onu dün gördüm.",her,onu,pronoun
+"Come ___, please.","Buraya gel, lütfen.",here,buraya,adverb
+"___, what's up?","Hey, naber?",hey,hey,exclamation
+"___, good morning!","Selam, günaydın!",hi,selam,exclamation
+"The building is very ___.","Bina çok yüksek.",high,yüksek,adjective
+"I gave ___ the book.","Ona kitabı verdim.",him,ona,pronoun
+"That's ___ car.","Bu onun arabası.",his,onun,determiner
+"I love ___ class.","Tarih dersini seviyorum.",history,tarih,noun
+"Reading is my ___.","Okumak benim hobim.",hobby,hobi,noun
+"We're going on ___.","Tatile gidiyoruz.",holiday,tatil,noun
+"Let's go ___.","Eve gidelim.",home,eve,adverb
+"My ___ is near.","Evim yakında.",home,ev,noun
+"I have a lot of ___.","Çok ödevim var.",homework,ödev,noun
+"I ___ you like it.","Beğeneceğini umuyorum.",hope,ummak,verb
+"She rides a ___.","O at biniyor.",horse,at,noun
+"My father is in the ___.","Babam hastanede.",hospital,hastane,noun
+"The soup is too ___.","Çorba çok sıcak.",hot,sıcak,adjective
+"We stayed at a ___.","Bir otelde kaldık.",hotel,otel,noun
+"I'll be back in an ___.","Bir saat içinde döneceğim.",hour,saat,noun
+"They have a big ___.","Büyük bir evleri var.",house,ev,noun
+"___ are you?","Nasılsın?",how,nasıl,adverb
+"___, I don't agree.","Ancak, katılmıyorum.",however,ancak,adverb
+"We need a ___ tickets.","Yüz bilete ihtiyacımız var.",hundred,yüz,number
+"I'm ___, let's eat.","Açım, hadi yemek yiyelim.",hungry,aç,adjective
+"My ___ is a doctor.","Kocam bir doktor.",husband,koca,noun
+"___ love reading.","Okumayı seviyorum.",i,ben,pronoun
+"Put some ___ in my drink.","İçeceğime biraz buz koy.",ice,buz,noun
+"Let's get some ___.","Biraz dondurma alalım.",ice cream,dondurma,noun
+"That's a good ___!","Bu iyi bir fikir!",idea,fikir,noun
+"___ it rains, stay home.","Eğer yağmur yağarsa, evde kal.",if,eğer,conjunction
+"___ your future.","Geleceğini hayal et.",imagine,hayal etmek,verb
+"This test is ___.","Bu test önemli.",important,önemli,adjective
+"You need to ___ your English.","İngilizceni geliştirmen gerek.",improve,geliştirmek,verb
+"Come ___, please.","İçeri gel, lütfen.",in,içeri,adverb
+"The cat is ___ the box.","Kedi kutunun içinde.",in,içinde,preposition
+"The price ___ tax.","Fiyat vergiyi içerir.",include,içermek,verb
+"I need more ___.","Daha fazla bilgiye ihtiyacım var.",information,bilgi,noun
+"Music is my main ___.","Müzik benim ana ilgi alanım.",interest,ilgi alanı,noun
+"Does politics ___ you?","Politika seni ilgilendiriyor mu?",interest,ilgilendirmek,verb
+"I'm ___ in art.","Sanatla ilgileniyorum.",interested,ilgili,adjective
+"This book is ___.","Bu kitap ilginç.",interesting,ilginç,adjective
+"I found it on the ___.","Bunu internette buldum.",internet,internet,noun
+"I have a job ___ tomorrow.","Yarın iş görüşmem var.",interview,iş görüşmesi,noun
+"They will ___ me next week.","Benimle gelecek hafta görüşecekler.",interview,görüşmek,verb
+"The cat jumped ___ the box.","Kedi kutunun içine atladı.",into,içine,preposition
+"Let me ___ myself.","Kendimi tanıtayım.",introduce,tanıtmak,verb
+"We visited a tropical ___.","Tropikal bir ada ziyaret ettik.",island,ada,noun
+"___ is raining.","Yağmur yağıyor.",it,o,pronoun
+"The dog wagged ___ tail.","Köpek kuyruğunu salladı.",its,kendi,determiner
+"Where is my ___?","Ceketim nerede?",jacket,ceket,noun
+"Her birthday is in ___.","Doğum günü Ocak'ta.",january,Ocak,noun
+"She's wearing blue ___.","Mavi kot pantolon giyiyor.",jeans,kot pantolon,noun
+"He loves his ___.","İşini seviyor.",job,iş,noun
+"Would you like to ___ us?","Bize katılmak ister misin?",join,katılmak,verb
+"It was a long ___.","Uzun bir yolculuktu.",journey,yolculuk,noun
+"I'd like orange ___.","Portakal suyu istiyorum.",juice,meyve suyu,noun
+"We go on holiday in ___.","Temmuz'da tatile çıkarız.",july,Temmuz,noun
+"Summer starts in ___.","Yaz Haziran'da başlar.",june,Haziran,noun
+"I've ___ arrived.","Yeni geldim.",just,yeni,adverb
+"___ the secret.","Sırrı sakla.",keep,saklamak,verb
+"This is a ___ issue.","Bu önemli bir konu.",key,önemli,adjective
+"I lost my ___.","Anahtarımı kaybettim.",key,anahtar,noun
+"It's ten ___ away.","On kilometre uzakta.",kilometre,kilometre,noun
+"What ___ of music do you like?","Ne tür müzik seversin?",kind,tür,noun
+"The ___ is downstairs.","Mutfak alt katta.",kitchen,mutfak,noun
+"I ___ the answer.","Cevabı biliyorum.",know,bilmek,verb
+"They bought some ___.","Biraz arazi satın aldılar.",land,arazi,noun
+"I speak three ___s.","Üç dil konuşuyorum.",language,dil,noun
+"It's a ___ room.","Bu geniş bir oda.",large,geniş,adjective
+"This is my ___ chance.","Bu benim son şansım.",last,son,determiner
+"Sorry I'm ___.","Üzgünüm geç kaldım.",late,geç,adjective
+"He arrived ___.","Geç geldi.",late,geç,adverb
+"See you ___.","Sonra görüşürüz.",later,sonra,adverb
+"Her ___ is beautiful.","Onun gülüşü güzel.",laugh,gülüş,noun
+"Don't ___ at me!","Bana gülme!",laugh,gülmek,verb
+"I want to ___ Japanese.","Japonca öğrenmek istiyorum.",learn,öğrenmek,verb
+"Please don't ___ me.","Lütfen beni bırakma.",leave,bırakmak,verb
+"Turn ___ here.","Buradan sola dön.",left,sol,adjective
+"The shop is ___ of here.","Dükkan buranın solunda.",left,solunda,adverb
+"Write with your ___ hand.","Sol elinle yaz.",left,sol,noun
+"My ___ hurts.","Bacağım ağrıyor.",leg,bacak,noun
+"The ___ starts at 9.","Ders saat 9'da başlıyor.",lesson,ders,noun
+"___ me help you.","Sana yardım etmeme izin ver.",let,izin vermek,verb
+english_sentence,turkish_sentence,english_word,turkish_word,word_info
+"I received a ___ today.","Bugün bir mektup aldım.",letter,mektup,noun
+"Let's go to the ___.","Kütüphaneye gidelim.",library,kütüphane,noun
+"Don't ___ to me.","Bana yalan söyleme.",lie,yalan söylemek,verb
+"___ is beautiful.","Hayat güzel.",life,hayat,noun
+"This bag is very ___.","Bu çanta çok hafif.",light,hafif,adjective
+"Turn on the ___.","Işığı aç.",light,ışık,noun
+"She looks ___ her mother.","O annesi gibi görünüyor.",like,gibi,preposition
+"I ___ ice cream.","Dondurma severim.",like,sevmek,verb
+"Draw a straight ___.","Düz bir çizgi çiz.",line,çizgi,noun
+"The ___ is the king of jungle.","Aslan ormanın kralıdır.",lion,aslan,noun
+"Make a shopping ___.","Alışveriş listesi yap.",list,liste,noun
+"Please ___ all items.","Lütfen tüm öğeleri listele.",list,listelemek,verb
+"___ to the music.","Müziği dinle.",listen,dinlemek,verb
+"The cup is too ___.","Bardak çok küçük.",little,küçük,adjective
+"I have ___ time.","Az zamanım var.",little,az,determiner
+"___ is known about this.","Bu konu hakkında az şey biliniyor.",little,az,pronoun
+"They ___ in London.","Onlar Londra'da yaşıyor.",live,yaşamak,verb
+"I prefer ___ restaurants.","Yerel restoranları tercih ederim.",local,yerel,adjective
+"The road is very ___.","Yol çok uzun.",long,uzun,adjective
+"How ___ have you been here?","Ne zamandır buradasın?",long,uzun,adverb
+"___ at that building.","Şu binaya bak.",look,bakmak,verb
+"Don't ___ your keys.","Anahtarlarını kaybetme.",lose,kaybetmek,verb
+"I feel a ___ better now.","Şimdi çok daha iyi hissediyorum.",lot,çok,adverb
+"She has a ___ of books.","Onun çok kitabı var.",lot,çok,determiner
+"___ of people came.","Çok insan geldi.",lot,çok,pronoun
+"This is ___ at first sight.","Bu ilk görüşte aşk.",love,aşk,noun
+"I ___ chocolate.","Çikolatayı severim.",love,sevmek,verb
+"Let's have ___ together.","Birlikte öğle yemeği yiyelim.",lunch,öğle yemeği,noun
+"The ___ is broken.","Makine bozuk.",machine,makine,noun
+"She reads ___ articles.","O dergi makaleleri okuyor.",magazine,dergi,noun
+"This is the ___ entrance.","Bu ana giriş.",main,ana,adjective
+"Let's ___ a cake.","Bir pasta yapalım.",make,yapmak,verb
+"A ___ is walking down the street.","Bir adam sokakta yürüyor.",man,adam,noun
+"How ___ people are there?","Kaç kişi var?",many,çok,determiner
+"___ of us like coffee.","Çoğumuz kahveyi sever.",many,çoğu,pronoun
+"Show me the ___ please.","Lütfen haritayı göster.",map,harita,noun
+"The parade is in ___.","Geçit töreni Mart'ta.",march,Mart,noun
+"Let's go to the ___.","Pazara gidelim.",market,pazar,noun
+"They are ___ now.","Onlar şimdi evli.",married,evli,adjective
+"Do you have a ___.","Kibritin var mı?",match,kibrit,noun
+"These colors ___ perfectly.","Bu renkler mükemmel uyuşuyor.",match,uyuşmak,verb
+"Spring starts in ___.","Bahar Mayıs'ta başlar.",may,Mayıs,noun
+"___ we can go tomorrow.","Belki yarın gidebiliriz.",maybe,belki,adverb
+"Give it to ___.","Onu bana ver.",me,ben,pronoun
+"It's time for a ___.","Yemek vakti.",meal,yemek,noun
+"What do you ___?","Ne demek istiyorsun?",mean,demek istemek,verb
+"What's the ___ of this word?","Bu kelimenin anlamı ne?",meaning,anlam,noun
+"I don't eat ___.","Et yemem.",meat,et,noun
+"Let's ___ at the cafe.","Kafede buluşalım.",meet,buluşmak,verb
+"The ___ starts at 9.","Toplantı 9'da başlıyor.",meeting,toplantı,noun
+"He is a ___ of the club.","O kulübün bir üyesi.",member,üye,noun
+"Can I see the ___?","Menüyü görebilir miyim?",menu,menü,noun
+"Send me a ___.","Bana bir mesaj gönder.",message,mesaj,noun
+"The pool is 25 ___ long.","Havuz 25 metre uzunluğunda.",metre,metre,noun
+"It's almost ___.","Neredeyse gece yarısı.",midnight,gece yarısı,noun
+"It's two ___ away.","İki mil uzakta.",mile,mil,noun
+"I need some ___.","Biraz süte ihtiyacım var.",milk,süt,noun
+"One ___ people live here.","Burada bir milyon insan yaşıyor.",million,milyon,number
+"Wait a ___, please.","Bir dakika bekle lütfen.",minute,dakika,noun
+"I ___ you a lot.","Seni çok özlüyorum.",miss,özlemek,verb
+"We all make ___.","Hepimiz hata yaparız.",mistake,hata,noun
+"She works as a ___.","O model olarak çalışıyor.",model,model,noun
+"It's a ___ building.","Bu modern bir bina.",modern,modern,adjective
+"Wait a ___, please.","Bir an bekle lütfen.",moment,an,noun
+"See you on ___.","Pazartesi görüşürüz.",monday,Pazartesi,noun
+"I need some ___.","Biraz paraya ihtiyacım var.",money,para,noun
+"Which ___ is it?","Hangi ay?",month,ay,noun
+"I need ___ time.","Daha fazla zamana ihtiyacım var.",more,daha fazla,adverb
+"Do you have ___ questions?","Başka sorun var mı?",more,daha fazla,determiner
+"I want ___ of it.","Ondan daha fazla istiyorum.",more,daha fazla,pronoun
+"Good ___.","Günaydın.",morning,sabah,noun
+"She runs the ___.","O en hızlı koşuyor.",most,en,adverb
+"___ people like coffee.","Çoğu insan kahveyi sever.",most,çoğu,determiner
+"___ of them agreed.","Çoğu kabul etti.",most,çoğu,pronoun
+"My ___ is a teacher.","Annem bir öğretmen.",mother,anne,noun
+"We climbed the ___.","Dağa tırmandık.",mountain,dağ,noun
+"The cat caught a ___.","Kedi bir fare yakaladı.",mouse,fare,noun
+"Open your ___.","Ağzını aç.",mouth,ağız,noun
+"Please don't ___.","Lütfen hareket etme.",move,hareket etmek,verb
+"Let's watch a ___.","Bir film izleyelim.",movie,film,noun
+"He talks too ___.","O çok konuşuyor.",much,çok,adverb
+"How ___ sugar do you want?","Ne kadar şeker istersin?",much,ne kadar,determiner
+"This is too ___.","Bu çok fazla.",much,çok,pronoun
+"My ___ is cooking dinner.","Annem akşam yemeği pişiriyor.",mum,anne,noun
+"The ___ is closed today.","Müze bugün kapalı.",museum,müze,noun
+"I love classical ___.","Klasik müziği severim.",music,müzik,noun
+"You ___ study hard.","Sıkı çalışmalısın.",must,meli/malı,modal verb
+"This is ___ book.","Bu benim kitabım.",my,benim,determiner
+"What's your ___?","Adın ne?",name,ad,noun
+"Can you ___ one thing?","Bir şey söyleyebilir misin?",name,söylemek,verb
+"It's a ___ park.","Bu doğal bir park.",natural,doğal,adjective
+"The store is ___ here.","Mağaza buraya yakın.",near,yakın,adjective
+"The summer is ___.","Yaz yaklaşıyor.",near,yakın,adverb
+"The cafe is ___ the bank.","Kafe bankanın yanında.",near,yanında,preposition
+"I ___ help.","Yardıma ihtiyacım var.",need,ihtiyacı olmak,verb
+"Don't be so ___.","Bu kadar olumsuz olma.",negative,olumsuz,adjective
+"Our ___ has a dog.","Komşumuzun bir köpeği var.",neighbour,komşu,noun
+"I ___ eat fish.","Asla balık yemem.",never,asla,adverb
+"I bought a ___ car.","Yeni bir araba aldım.",new,yeni,adjective
+"This is good ___.","Bu iyi bir haber.",news,haber,noun
+english_sentence,turkish_sentence,english_word,turkish_word,word_info
+"I read the ___ every morning.","Her sabah gazete okurum.",newspaper,gazete,noun
+"The ___ week will be busy.","Gelecek hafta yoğun olacak.",next,gelecek,adjective
+"What happens ___?","Sonra ne olur?",next,sonra,adverb
+"The bank is ___ the post office.","Banka postane yanında.",next to,yanında,preposition
+"That's a ___ dress.","Bu güzel bir elbise.",nice,güzel,adjective
+"Good ___.","İyi geceler.",night,gece,noun
+"I have ___ books.","Dokuz kitabım var.",nine,dokuz,number
+"She is ___ years old.","O on dokuz yaşında.",nineteen,on dokuz,number
+"The temperature is ___ degrees.","Sıcaklık doksan derece.",ninety,doksan,number
+"I have ___ time.","Zamanım yok.",no,hayır,determiner
+"___, I don't want to go.","Hayır, gitmek istemiyorum.",no,hayır,exclamation
+"___ knows the answer.","Kimse cevabı bilmiyor.",no one,kimse,pronoun
+"___ came to the party.","Partiye kimse gelmedi.",nobody,kimse,pronoun
+"The ___ wind is cold.","Kuzey rüzgarı soğuk.",north,kuzey,adjective
+"The birds flew ___.","Kuşlar kuzeye uçtu.",north,kuzeye,adverb
+"We are traveling ___.","Kuzeye gidiyoruz.",north,kuzey,noun
+"My ___ is running.","Burnum akıyor.",nose,burun,noun
+"I'm ___ hungry.","Aç değilim.",not,değil,adverb
+"Take a ___ of this.","Bunun notunu al.",note,not,noun
+"There is ___ in the box.","Kutuda hiçbir şey yok.",nothing,hiçbir şey,pronoun
+"My birthday is in ___.","Doğum günüm Kasım'da.",november,Kasım,noun
+"I need it ___.","Şimdi ona ihtiyacım var.",now,şimdi,adverb
+"What's your phone ___?","Telefon numaran nedir?",number,numara,noun
+"The ___ helped me.","Hemşire bana yardım etti.",nurse,hemşire,noun
+"It's eight ___.","Saat sekiz.",o'clock,saat,adverb
+"This is an interesting ___.","Bu ilginç bir nesne.",object,nesne,noun
+"Halloween is in ___.","Cadılar Bayramı Ekim'de.",october,Ekim,noun
+"This is the book ___ my friend.","Bu arkadaşımın kitabı.",of,ait,preposition
+"The light is ___.","Işık kapalı.",off,kapalı,adverb
+"Take it ___ the table.","Onu masadan al.",off,den/dan,preposition
+"I work in an ___.","Bir ofiste çalışıyorum.",office,ofis,noun
+"How ___ do you exercise?","Ne sıklıkla egzersiz yaparsın?",often,sık sık,adverb
+"___, I forgot my keys!","Ah, anahtarlarımı unuttum!",oh,ah,exclamation
+"Everything is ___.","Her şey yolunda.",ok,tamam,adjective
+"That works ___.","O iyi çalışıyor.",ok,tamam,adverb
+"___, I understand.","Tamam, anlıyorum.",ok,tamam,exclamation
+"My car is very ___.","Arabam çok eski.",old,eski,adjective
+"The TV is ___.","Televizyon açık.",on,açık,adverb
+"The book is ___ the table.","Kitap masanın üstünde.",on,üstünde,preposition
+"I met him ___ at a cafe.","Onunla bir kez bir kafede karşılaştım.",once,bir kez,adverb
+"I have ___ sister.","Bir kız kardeşim var.",one,bir,determiner
+"___ plus ___ equals two.","Bir artı bir iki eder.",one,bir,number
+"This is the ___ I want.","İstediğim bu.",one,bir,pronoun
+"Cut the ___ please.","Soğanı kes lütfen.",onion,soğan,noun
+"The course is ___.","Kurs çevrimiçi.",online,çevrimiçi,adjective
+"I shop ___.","İnternetten alışveriş yaparım.",online,çevrimiçi,adverb
+"These are my ___ keys.","Bunlar benim tek anahtarlarım.",only,tek,adjective
+"I ___ wanted to help.","Sadece yardım etmek istedim.",only,sadece,adverb
+"The door is ___.","Kapı açık.",open,açık,adjective
+"Please ___ the window.","Lütfen pencereyi aç.",open,açmak,verb
+"What's your ___ about this?","Bu konuda fikrin ne?",opinion,fikir,noun
+"Our houses are ___.","Evlerimiz karşı karşıya.",opposite,karşı,adjective
+"The school is ___.","Okul karşıda.",opposite,karşıda,adverb
+"Hot is the ___ of cold.","Sıcak soğuğun zıttıdır.",opposite,zıt,noun
+"The bank is ___ the school.","Banka okulun karşısında.",opposite,karşısında,preposition
+"Tea ___ coffee?","Çay mı kahve mi?",or,veya,conjunction
+"The ___ juice is fresh.","Portakal suyu taze.",orange,portakal,adjective
+"I eat an ___ every day.","Her gün bir portakal yerim.",orange,portakal,noun
+"Can I take your ___?","Siparişinizi alabilir miyim?",order,sipariş,noun
+"Let's ___ pizza.","Pizza söyleyelim.",order,sipariş vermek,verb
+"The ___ students left.","Diğer öğrenciler gitti.",other,diğer,adjective
+"Some like tea, ___ prefer coffee.","Bazıları çayı, diğerleri kahveyi tercih eder.",other,diğerleri,pronoun
+"___ house is big.","Bizim evimiz büyük.",our,bizim,determiner
+"Time is running ___.","Zaman geçiyor.",out,dışarı,adverb
+"He went ___ the room.","Odadan çıktı.",out,dışarı,preposition
+"Let's go ___.","Dışarı çıkalım.",outside,dışarı,adverb
+"The game is ___.","Oyun bitti.",over,bitti,adverb
+"The plane flew ___ the city.","Uçak şehrin üzerinden uçtu.",over,üzerinden,preposition
+"This is my ___ car.","Bu benim kendi arabam.",own,kendi,adjective
+"This book is my ___.","Bu kitap benim.",own,kendi,pronoun
+"Turn to ___ 5.","Sayfa 5'e dön.",page,sayfa,noun
+"The ___ is blue.","Boya mavi.",paint,boya,noun
+"Let's ___ the wall.","Duvarı boyayalım.",paint,boyamak,verb
+"This ___ is beautiful.","Bu resim çok güzel.",painting,resim,noun
+"I need a ___ of shoes.","Bir çift ayakkabıya ihtiyacım var.",pair,çift,noun
+"I need some ___.","Biraz kağıda ihtiyacım var.",paper,kağıt,noun
+"Write a ___.","Bir paragraf yaz.",paragraph,paragraf,noun
+"My ___ are teachers.","Ebeveynlerim öğretmen.",parent,ebeveyn,noun
+"The ___ is beautiful.","Park çok güzel.",park,park,noun
+"___ your car here.","Arabanı buraya park et.",park,park etmek,verb
+"This is my favorite ___.","Bu benim favori parçam.",part,parça,noun
+"He is my business ___.","O benim iş ortağım.",partner,ortak,noun
+"Let's have a ___.","Parti yapalım.",party,parti,noun
+"I lost my ___.","Pasaportumu kaybettim.",passport,pasaport,noun
+"In the ___ year.","Geçen yıl.",past,geçmiş,adjective
+"Learn from the ___.","Geçmişten ders al.",past,geçmiş,noun
+"The shop is ___ the bank.","Dükkan bankanın ötesinde.",past,ötesinde,preposition
+"Please ___ for this.","Lütfen bunun için öde.",pay,ödemek,verb
+"Can I borrow your ___?","Kalemini ödünç alabilir miyim?",pen,kalem,noun
+"Write with a ___.","Kurşun kalemle yaz.",pencil,kurşun kalem,noun
+"Many ___ like coffee.","Birçok insan kahveyi sever.",people,insan,noun
+"Add salt and ___.","Tuz ve biber ekle.",pepper,biber,noun
+"Your English is ___.","İngilizcen mükemmel.",perfect,mükemmel,adjective
+"This is a difficult ___.","Bu zor bir dönem.",period,dönem,noun
+"I am the only ___ here.","Burada tek kişi benim.",person,kişi,noun
+"This is my ___ opinion.","Bu benim kişisel görüşüm.",personal,kişisel,adjective
+"Call me on my ___.","Beni telefonumdan ara.",phone,telefon,noun
+"___ me tomorrow.","Beni yarın ara.",phone,aramak,verb
+"Take a ___ of me.","Benim bir fotoğrafımı çek.",photo,fotoğraf,noun
+"This ___ is old.","Bu fotoğraf eski.",photograph,fotoğraf,noun
+english_sentence,turkish_sentence,english_word,turkish_word,word_info
+"I learned a new ___ today.","Bugün yeni bir deyim öğrendim.",phrase,deyim,noun
+"She plays the ___ beautifully.","O piyanoyu güzel çalıyor.",piano,piyano,noun
+"I took a ___ of the sunset.","Gün batımının fotoğrafını çektim.",picture,fotoğraf,noun
+"Can I have a ___ of cake?","Bir dilim pasta alabilir miyim?",piece,dilim,noun
+"The ___ lives on the farm.","Domuz çiftlikte yaşıyor.",pig,domuz,noun
+"She's wearing a ___ dress.","O pembe bir elbise giyiyor.",pink,pembe,adjective
+"___ is her favorite color.","Pembe onun en sevdiği renk.",pink,pembe,noun
+"This is a nice ___ to live.","Burası yaşamak için güzel bir yer.",place,yer,noun
+"What's your ___ for tomorrow?","Yarın için planın ne?",plan,plan,noun
+"Let's ___ our vacation.","Tatilimizi planlayalım.",plan,planlamak,verb
+"The ___ takes off at 6.","Uçak saat 6'da kalkıyor.",plane,uçak,noun
+"I have a new ___ in my garden.","Bahçemde yeni bir bitki var.",plant,bitki,noun
+"The ___ was excellent.","Oyun harikaydı.",play,oyun,noun
+"Children ___ in the park.","Çocuklar parkta oynuyor.",play,oynamak,verb
+"He's a football ___.","O bir futbolcu.",player,oyuncu,noun
+"___, help me!","Lütfen, yardım et!",please,lütfen,exclamation
+"What's your main ___?","Ana noktan ne?",point,nokta,noun
+"Call the ___!","Polisi ara!",police,polis,noun
+"The ___ stopped our car.","Polis arabamızı durdurdu.",policeman,polis,noun
+"Let's swim in the ___.","Havuzda yüzelim.",pool,havuz,noun
+"They are very ___.","Onlar çok fakir.",poor,fakir,adjective
+"This song is very ___.","Bu şarkı çok popüler.",popular,popüler,adjective
+"Be ___, things will improve.","Pozitif ol, işler düzelecek.",positive,pozitif,adjective
+"Is it ___ to come earlier?","Daha erken gelmek mümkün mü?",possible,mümkün,adjective
+"I received a ___ from her.","Ondan bir posta aldım.",post,posta,noun
+"___ this letter for me.","Bu mektubu benim için postala.",post,postalamak,verb
+"I love baked ___.","Fırında patatesi severim.",potato,patates,noun
+"The book costs five ___.","Kitap beş pound.",pound,pound,noun
+"___ makes perfect.","Pratik mükemmelleştirir.",practice,pratik,noun
+"You need to ___ more.","Daha çok pratik yapmalısın.",practise,pratik yapmak,verb
+"I ___ tea to coffee.","Çayı kahveye tercih ederim.",prefer,tercih etmek,verb
+"___ dinner for everyone.","Herkes için akşam yemeği hazırla.",prepare,hazırlamak,verb
+"She is ___ at the meeting.","O toplantıda mevcut.",present,mevcut,adjective
+"This is a ___ for you.","Bu senin için bir hediye.",present,hediye,noun
+"That's a ___ flower.","Bu güzel bir çiçek.",pretty,güzel,adjective
+"It's ___ cold today.","Bugün oldukça soğuk.",pretty,oldukça,adverb
+"What's the ___ of this book?","Bu kitabın fiyatı ne?",price,fiyat,noun
+"He will ___ come later.","Muhtemelen daha sonra gelecek.",probably,muhtemelen,adverb
+"I have a ___.","Bir sorunum var.",problem,sorun,noun
+"This is a new ___.","Bu yeni bir ürün.",product,ürün,noun
+"What's on TV ___ tonight?","Bu akşam TV programında ne var?",programme,program,noun
+"This is my school ___.","Bu benim okul projem.",project,proje,noun
+"She likes ___ flowers.","O mor çiçekleri seviyor.",purple,mor,adjective
+"___ is her favorite color.","Mor onun en sevdiği renk.",purple,mor,noun
+"___ the book on the table.","Kitabı masanın üzerine koy.",put,koymak,verb
+"It's a ___ past eight.","Saat sekizi çeyrek geçiyor.",quarter,çeyrek,noun
+"Can I ask a ___?","Bir soru sorabilir miyim?",question,soru,noun
+"That was a ___ answer.","Bu hızlı bir cevaptı.",quick,hızlı,adjective
+"He runs ___.","O hızlıca koşuyor.",quickly,hızlıca,adverb
+"Please be ___, the baby is sleeping.","Lütfen sessiz ol, bebek uyuyor.",quiet,sessiz,adjective
+"I'm ___ tired today.","Bugün oldukça yorgunum.",quite,oldukça,adverb
+"Listen to the ___.","Radyoyu dinle.",radio,radyo,noun
+"The ___ is heavy today.","Yağmur bugün şiddetli.",rain,yağmur,noun
+"It might ___ tomorrow.","Yarın yağmur yağabilir.",rain,yağmak,verb
+"I like to ___ books.","Kitap okumayı severim.",read,okumak,verb
+"She is an avid ___.","O tutkulu bir okuyucu.",reader,okuyucu,noun
+"___ is my hobby.","Okumak benim hobim.",reading,okuma,noun
+"Are you ___ to go?","Gitmeye hazır mısın?",ready,hazır,adjective
+"Is this a ___ diamond?","Bu gerçek bir elmas mı?",real,gerçek,adjective
+"I'm ___ happy today.","Bugün gerçekten mutluyum.",really,gerçekten,adverb
+"What's the ___ for your decision?","Kararının sebebi ne?",reason,sebep,noun
+"I like ___ cars.","Kırmızı arabaları severim.",red,kırmızı,adjective
+"___ is a warm color.","Kırmızı sıcak bir renktir.",red,kırmızı,noun
+"Just sit and ___.","Sadece otur ve rahatla.",relax,rahatlamak,verb
+"___ to bring your book.","Kitabını getirmeyi unutma.",remember,hatırlamak,verb
+"Please ___ after me.","Lütfen benim ardımdan tekrar et.",repeat,tekrar etmek,verb
+"The ___ is due tomorrow.","Rapor yarın teslim edilecek.",report,rapor,noun
+"Let's go to a ___.","Bir restorana gidelim.",restaurant,restoran,noun
+"The ___ was positive.","Sonuç olumluydu.",result,sonuç,noun
+"The ___ ticket is cheaper.","Dönüş bileti daha ucuz.",return,dönüş,noun
+"When do you ___ home?","Eve ne zaman dönüyorsun?",return,dönmek,verb
+"We eat ___ with chicken.","Tavukla pilav yeriz.",rice,pilav,noun
+"He is very ___.","O çok zengin.",rich,zengin,adjective
+"I love to ___ my bike.","Bisiklet sürmeyi severim.",ride,sürmek,verb
+"You are ___.","Sen haklısın.",right,haklı,adjective
+"Turn ___ at the corner.","Köşede sağa dön.",right,sağa,adverb
+"You have the ___ to remain silent.","Sessiz kalma hakkın var.",right,hak,noun
+"The ___ flows through the city.","Nehir şehrin içinden akıyor.",river,nehir,noun
+"This ___ leads to the beach.","Bu yol plaja gider.",road,yol,noun
+"My ___ is upstairs.","Odam üst katta.",room,oda,noun
+"What's your morning ___?","Sabah rutinin nedir?",routine,rutin,noun
+"Follow the ___.","Kurala uy.",rule,kural,noun
+"I ___ every morning.","Her sabah koşarım.",run,koşmak,verb
+"Why do you look so ___?","Neden bu kadar üzgün görünüyorsun?",sad,üzgün,adjective
+"I'd like a green ___.","Yeşil salata istiyorum.",salad,salata,noun
+"Add some ___ to the soup.","Çorbaya biraz tuz ekle.",salt,tuz,noun
+"We have the ___ teacher.","Aynı öğretmene sahibiz.",same,aynı,adjective
+"They think the ___.","Onlar aynı şekilde düşünüyor.",same,aynı,adverb
+"These two look the ___.","Bu ikisi aynı görünüyor.",same,aynı,pronoun
+"I'll have a cheese ___.","Bir peynirli sandviç alacağım.",sandwich,sandviç,noun
+"See you on ___.","Cumartesi görüşürüz.",saturday,Cumartesi,noun
+"What did she ___?","O ne söyledi?",say,söylemek,verb
+"The ___ starts at 8.","Okul saat 8'de başlıyor.",school,okul,noun
+"I love ___ class.","Fen dersini seviyorum.",science,fen,noun
+"She wants to be a ___.","O bilim insanı olmak istiyor.",scientist,bilim insanı,noun
+"Let's go to the ___.","Denize gidelim.",sea,deniz,noun
+"This is my ___ attempt.","Bu benim ikinci denemem.",second,ikinci,determiner
+"Wait a ___, please.","Bir saniye bekle lütfen.",second,saniye,noun
+"He came in ___ place.","O ikinci oldu.",second,ikinci,ordinal number
+"Read the first ___.","İlk bölümü oku.",section,bölüm,noun
+english_sentence,turkish_sentence,english_word,turkish_word,word_info
+"Can you ___ that building?","Şu binayı görebiliyor musun?",see,görmek,verb
+"They ___ fresh vegetables.","Taze sebze satıyorlar.",sell,satmak,verb
+"Please ___ me an email.","Lütfen bana bir e-posta gönder.",send,göndermek,verb
+"Write a ___ in English.","İngilizce bir cümle yaz.",sentence,cümle,noun
+"School starts in ___.","Okul Eylül'de başlıyor.",september,Eylül,noun
+"I have ___ sisters.","Yedi kız kardeşim var.",seven,yedi,number
+"She is ___ years old.","O on yedi yaşında.",seventeen,on yedi,number
+"There are ___ students.","Yetmiş öğrenci var.",seventy,yetmiş,number
+"Let's ___ the cake.","Pastayı paylaşalım.",share,paylaşmak,verb
+"___ is my best friend.","O benim en iyi arkadaşım.",she,o,pronoun
+"The ___ are in the field.","Koyunlar tarlada.",sheep,koyun,noun
+"This ___ is too small.","Bu gömlek çok küçük.",shirt,gömlek,noun
+"My ___ is black.","Ayakkabım siyah.",shoe,ayakkabı,noun
+"The ___ is closed.","Mağaza kapalı.",shop,mağaza,noun
+"I need to ___ for food.","Yiyecek alışverişi yapmam gerek.",shop,alışveriş yapmak,verb
+"I love ___.","Alışveriş yapmayı seviyorum.",shopping,alışveriş,noun
+"The movie was too ___.","Film çok kısaydı.",short,kısa,adjective
+"You ___ study more.","Daha çok çalışmalısın.",should,meli/malı,modal verb
+"The ___ was amazing.","Gösteri harikaydı.",show,gösteri,noun
+"Can you ___ me the way?","Bana yolu gösterebilir misin?",show,göstermek,verb
+"I need to take a ___.","Duş almam gerek.",shower,duş,noun
+"I feel ___ today.","Bugün hastayım.",sick,hasta,adjective
+"These pictures are ___.","Bu resimler benzer.",similar,benzer,adjective
+"She likes to ___ in the shower.","Duşta şarkı söylemeyi sever.",sing,şarkı söylemek,verb
+"He is a famous ___.","O ünlü bir şarkıcı.",singer,şarkıcı,noun
+"My ___ lives in Paris.","Kız kardeşim Paris'te yaşıyor.",sister,kız kardeş,noun
+"Please ___ down.","Lütfen otur.",sit,oturmak,verb
+"It's a difficult ___.","Bu zor bir durum.",situation,durum,noun
+"I have ___ cats.","Altı kedim var.",six,altı,number
+"She is ___ years old.","O on altı yaşında.",sixteen,on altı,number
+"He is ___ years old.","O altmış yaşında.",sixty,altmış,number
+"Computer ___ is important.","Bilgisayar becerisi önemlidir.",skill,beceri,noun
+"She bought a new ___.","Yeni bir etek aldı.",skirt,etek,noun
+"I need to ___.","Uyumam lazım.",sleep,uyumak,verb
+"This computer is very ___.","Bu bilgisayar çok yavaş.",slow,yavaş,adjective
+"The box is too ___.","Kutu çok küçük.",small,küçük,adjective
+"There's a ___ in the garden.","Bahçede bir yılan var.",snake,yılan,noun
+"The ___ is white.","Kar beyaz.",snow,kar,noun
+"It started to ___ yesterday.","Dün kar yağmaya başladı.",snow,kar yağmak,verb
+"The coffee is ___ hot.","Kahve çok sıcak.",so,çok,adverb
+"I'm tired, ___ I'll go home.","Yorgunum, bu yüzden eve gideceğim.",so,bu yüzden,conjunction
+"I need ___ help.","Biraz yardıma ihtiyacım var.",some,biraz,determiner
+"___ of them are red.","Bazıları kırmızı.",some,bazı,pronoun
+"___ called for you.","Biri seni aradı.",somebody,birisi,pronoun
+"___ left this here.","Biri bunu buraya bırakmış.",someone,birisi,pronoun
+"I need to tell you ___.","Sana bir şey söylemem gerek.",something,bir şey,pronoun
+"I ___ go swimming.","Bazen yüzmeye giderim.",sometimes,bazen,adverb
+"My ___ is five years old.","Oğlum beş yaşında.",son,oğul,noun
+"This is my favorite ___.","Bu benim favori şarkım.",song,şarkı,noun
+"I'll be there ___.","Yakında orada olacağım.",soon,yakında,adverb
+"I'm ___ I'm late.","Geç kaldığım için üzgünüm.",sorry,üzgün,adjective
+"___, I can't come.","Üzgünüm, gelemeyeceğim.",sorry,üzgünüm,exclamation
+"What's that ___?","O ses ne?",sound,ses,noun
+"It ___ interesting.","İlginç geliyor.",sound,gelmek,verb
+"The ___ is hot.","Çorba sıcak.",soup,çorba,noun
+"The ___ coast is beautiful.","Güney sahili güzel.",south,güney,adjective
+"The birds fly ___.","Kuşlar güneye uçuyor.",south,güneye,adverb
+"We live in the ___.","Güneyde yaşıyoruz.",south,güney,noun
+"There's no ___ in my room.","Odamda yer yok.",space,yer,noun
+"Can you ___ English?","İngilizce konuşabiliyor musun?",speak,konuşmak,verb
+"Today is a ___ day.","Bugün özel bir gün.",special,özel,adjective
+"Can you ___ your name?","Adını heceleyebilir misin?",spell,hecelemek,verb
+"Check your ___.","İmlanı kontrol et.",spelling,imla,noun
+"Don't ___ too much money.","Çok para harcama.",spend,harcamak,verb
+"Football is my favorite ___.","Futbol en sevdiğim spor.",sport,spor,noun
+"I love ___.","İlkbaharı severim.",spring,ilkbahar,noun
+"Please ___ up.","Lütfen ayağa kalk.",stand,ayağa kalkmak,verb
+"Look at that ___.","Şu yıldıza bak.",star,yıldız,noun
+"Let's ___ the game.","Oyunu başlatalım.",start,başlatmak,verb
+"This is an important ___.","Bu önemli bir açıklama.",statement,açıklama,noun
+"The train ___ is busy.","Tren istasyonu kalabalık.",station,istasyon,noun
+"___ here please.","Lütfen burada kal.",stay,kalmak,verb
+"He is ___ working.","O hala çalışıyor.",still,hala,adverb
+"The bus ___ is there.","Otobüs durağı orada.",stop,durak,noun
+"Please ___ talking.","Lütfen konuşmayı kes.",stop,durmak,verb
+"Tell me a ___.","Bana bir hikaye anlat.",story,hikaye,noun
+"I live on this ___.","Bu sokakta yaşıyorum.",street,sokak,noun
+"He is very ___.","O çok güçlü.",strong,güçlü,adjective
+"She is a ___ at university.","O üniversitede öğrenci.",student,öğrenci,noun
+"This is my ___ room.","Burası çalışma odam.",study,çalışma,noun
+"I ___ English.","İngilizce çalışıyorum.",study,çalışmak,verb
+"I like your ___.","Tarzını beğendim.",style,tarz,noun
+"What's your favorite ___?","En sevdiğin ders ne?",subject,ders,noun
+"Hard work leads to ___.","Sıkı çalışmak başarıya götürür.",success,başarı,noun
+"Would you like ___ in your tea?","Çayına şeker ister misin?",sugar,şeker,noun
+"Let's meet in ___.","Yazın buluşalım.",summer,yaz,noun
+"The ___ is shining.","Güneş parlıyor.",sun,güneş,noun
+"See you on ___.","Pazar günü görüşürüz.",sunday,Pazar,noun
+"Let's go to the ___.","Süpermarkete gidelim.",supermarket,süpermarket,noun
+"Are you ___?","Emin misin?",sure,emin,adjective
+"This ___ is too big.","Bu kazak çok büyük.",sweater,kazak,noun
+"I like to ___.","Yüzmeyi severim.",swim,yüzmek,verb
+"___ is good exercise.","Yüzmek iyi bir egzersizdir.",swimming,yüzme,noun
+"This ___ is new.","Bu tişört yeni.",t-shirt,tişört,noun
+"Put it on the ___.","Onu masaya koy.",table,masa,noun
+"___ your time.","Zamanını al.",take,almak,verb
+"Let's ___ about it.","Bu konuda konuşalım.",talk,konuşmak,verb
+"He is very ___.","O çok uzun.",tall,uzun,adjective
+"Take a ___ to the airport.","Havaalanına taksi tut.",taxi,taksi,noun
+"Would you like some ___?","Biraz çay ister misin?",tea,çay,noun
+english_sentence,turkish_sentence,english_word,turkish_word,word_info
+"He ___ English at school.","O okulda İngilizce öğretiyor.",teach,öğretmek,verb
+"My ___ is very kind.","Öğretmenim çok nazik.",teacher,öğretmen,noun
+"Our ___ won the match.","Takımımız maçı kazandı.",team,takım,noun
+"My brother is a ___.","Kardeşim bir genç.",teenager,genç,noun
+"The ___ is ringing.","Telefon çalıyor.",telephone,telefon,noun
+"I'll ___ you later.","Seni daha sonra arayacağım.",telephone,telefonla aramak,verb
+"I watch ___ every evening.","Her akşam televizyon izliyorum.",television,televizyon,noun
+"Can you ___ me the time?","Bana saati söyleyebilir misin?",tell,söylemek,verb
+"I have ___ books.","On kitabım var.",ten,on,number
+"Let's play ___.","Tenis oynayalım.",tennis,tenis,noun
+"The weather is ___.","Hava berbat.",terrible,berbat,adjective
+"I have a ___ tomorrow.","Yarın sınavım var.",test,sınav,noun
+"Let's ___ the new program.","Yeni programı test edelim.",test,test etmek,verb
+"Send me a ___.","Bana bir mesaj gönder.",text,mesaj,noun
+"She is taller ___ me.","O benden daha uzun.",than,den/dan,conjunction
+"He is better ___ expected.","O beklenenden daha iyi.",than,den/dan,preposition
+"I want to ___ you.","Sana teşekkür etmek istiyorum.",thank,teşekkür etmek,verb
+"___ for your help.","Yardımın için teşekkürler.",thanks,teşekkürler,exclamation
+"Many ___ for coming.","Geldiğiniz için çok teşekkürler.",thanks,teşekkürler,noun
+"I hope ___ you can come.","Umarım gelebilirsin.",that,ki,conjunction
+"I like ___ book.","O kitabı seviyorum.",that,o,determiner
+"___ is my car.","O benim arabam.",that,o,pronoun
+"___ sun is bright.","Güneş parlak.",the,belirtili artikel,definite article
+"Let's go to ___.","Tiyatroya gidelim.",theatre,tiyatro,noun
+"___ car is red.","Onların arabası kırmızı.",their,onların,determiner
+"I'll help ___.","Onlara yardım edeceğim.",them,onlara,pronoun
+"What did you do ___?","Sonra ne yaptın?",then,sonra,adverb
+"Put it ___.","Onu oraya koy.",there,oraya,adverb
+"___ are my friends.","Onlar benim arkadaşlarım.",they,onlar,pronoun
+"Give me that ___.","Bana şu şeyi ver.",thing,şey,noun
+"What do you ___?","Ne düşünüyorsun?",think,düşünmek,verb
+"He came in ___ place.","O üçüncü sırada geldi.",third,üçüncü,ordinal number
+"I'm ___.","Susamışım.",thirsty,susamış,adjective
+"She is ___ years old.","O on üç yaşında.",thirteen,on üç,number
+"There are ___ students.","Otuz öğrenci var.",thirty,otuz,number
+"___ book is interesting.","Bu kitap ilginç.",this,bu,determiner
+"___ is my house.","Bu benim evim.",this,bu,pronoun
+"One ___ people live here.","Burada bin kişi yaşıyor.",thousand,bin,number
+"I have ___ sisters.","Üç kız kardeşim var.",three,üç,number
+"Walk ___ the door.","Kapıdan geç.",through,den/dan,adverb
+"The road goes ___ the forest.","Yol ormandan geçiyor.",through,den/dan,preposition
+"See you on ___.","Perşembe günü görüşürüz.",thursday,Perşembe,noun
+"I need a train ___.","Bir tren biletine ihtiyacım var.",ticket,bilet,noun
+"What ___ is it?","Saat kaç?",time,saat,noun
+"I'm very ___.","Çok yorgunum.",tired,yorgun,adjective
+"What's the ___ of the book?","Kitabın başlığı ne?",title,başlık,noun
+"I want ___ sleep.","Uyumak istiyorum.",to,mek/mak,infinitive marker
+"Go ___ school.","Okula git.",to,e/a,preposition
+"I feel happy ___.","Bugün mutlu hissediyorum.",today,bugün,adverb
+"___ is Monday.","Bugün Pazartesi.",today,bugün,noun
+"Let's work ___.","Birlikte çalışalım.",together,birlikte,adverb
+"Where is the ___?","Tuvalet nerede?",toilet,tuvalet,noun
+"I need a ___.","Bir domatese ihtiyacım var.",tomato,domates,noun
+"See you ___.","Yarın görüşürüz.",tomorrow,yarın,adverb
+"___ will be sunny.","Yarın güneşli olacak.",tomorrow,yarın,noun
+"Let's meet ___.","Bu akşam buluşalım.",tonight,bu akşam,adverb
+"The party is ___.","Parti bu akşam.",tonight,bu akşam,noun
+"The coffee is ___ hot.","Kahve çok sıcak.",too,çok,adverb
+"My ___ hurts.","Dişim ağrıyor.",tooth,diş,noun
+"What's the ___ of discussion?","Tartışma konusu ne?",topic,konu,noun
+"Many ___ visit this city.","Birçok turist bu şehri ziyaret eder.",tourist,turist,noun
+"This is a small ___.","Bu küçük bir kasaba.",town,kasaba,noun
+"The ___ is heavy.","Trafik yoğun.",traffic,trafik,noun
+"The ___ is late.","Tren geç kaldı.",train,tren,noun
+"I love to ___.","Seyahat etmeyi severim.",travel,seyahat,noun
+"We ___ every summer.","Her yaz seyahat ederiz.",travel,seyahat etmek,verb
+"The ___ is very tall.","Ağaç çok uzun.",tree,ağaç,noun
+"How was your ___?","Gezin nasıldı?",trip,gezi,noun
+"These ___ are new.","Bu pantolon yeni.",trousers,pantolon,noun
+"Is this story ___?","Bu hikaye gerçek mi?",true,gerçek,adjective
+"___ to understand.","Anlamaya çalış.",try,çalışmak,verb
+"See you on ___.","Salı günü görüşürüz.",tuesday,Salı,noun
+"It's your ___.","Sıra sende.",turn,sıra,noun
+"___ left here.","Buradan sola dön.",turn,dönmek,verb
+"Let's watch ___.","Televizyon izleyelim.",tv,televizyon,noun
+"She is ___ years old.","O on iki yaşında.",twelve,on iki,number
+"I have ___ books.","Yirmi kitabım var.",twenty,yirmi,number
+"I go there ___ a week.","Oraya haftada iki kez gidiyorum.",twice,iki kez,adverb
+"I have ___ cats.","İki kedim var.",two,iki,number
+"What ___ of music do you like?","Ne tür müzik seversin?",type,tür,noun
+"Take an ___, it's raining.","Bir şemsiye al, yağmur yağıyor.",umbrella,şemsiye,noun
+"My ___ lives in London.","Amcam Londra'da yaşıyor.",uncle,amca,noun
+"The cat is ___ the table.","Kedi masanın altında.",under,altında,adverb
+"Put it ___ the desk.","Onu sıranın altına koy.",under,altına,preposition
+"I don't ___ this word.","Bu kelimeyi anlamıyorum.",understand,anlamak,verb
+"She studies at ___.","O üniversitede okuyor.",university,üniversite,noun
+"Wait ___ I come back.","Ben dönene kadar bekle.",until,kadar,conjunction
+"Stay here ___ 5 PM.","Saat 5'e kadar burada kal.",until,kadar,preposition
+"Look ___.","Yukarı bak.",up,yukarı,adverb
+"Go ___ the stairs.","Merdivenlerden yukarı çık.",up,yukarı,preposition
+"My room is ___.","Odam üst katta.",upstairs,üst katta,adverb
+"Please help ___.","Lütfen bize yardım et.",us,bize,pronoun
+"___ your dictionary.","Sözlüğünü kullan.",use,kullanmak,verb
+"This book is very ___.","Bu kitap çok faydalı.",useful,faydalı,adjective
+"I ___ wake up at 7.","Genellikle 7'de uyanırım.",usually,genellikle,adverb
+"When is your ___?","Tatilin ne zaman?",vacation,tatil,noun
+"I love eating ___.","Sebze yemeyi severim.",vegetable,sebze,noun
+"That's ___ nice.","Bu çok güzel.",very,çok,adverb
+"Let's watch a ___.","Bir video izleyelim.",video,video,noun
+"They live in a small ___.","Onlar küçük bir köyde yaşıyor.",village,köy,noun
+english_sentence,turkish_sentence,english_word,turkish_word,word_info
+"We had a lot of ___ today.","Bugün çok ziyaretçimiz vardı.",visit,ziyaret,noun
+"Let's ___ the museum.","Müzeyi ziyaret edelim.",visit,ziyaret etmek,verb
+"There's a ___ at the door.","Kapıda bir ziyaretçi var.",visitor,ziyaretçi,noun
+"Please ___ here.","Lütfen burada bekle.",wait,beklemek,verb
+"The ___ is coming.","Garson geliyor.",waiter,garson,noun
+"I ___ up at 7 AM.","Sabah 7'de uyanırım.",wake,uyanmak,verb
+"Let's go for a ___.","Yürüyüşe çıkalım.",walk,yürüyüş,noun
+"I ___ to school.","Okula yürüyorum.",walk,yürümek,verb
+"The ___ is white.","Duvar beyaz.",wall,duvar,noun
+"I ___ to learn English.","İngilizce öğrenmek istiyorum.",want,istemek,verb
+"The soup is ___.","Çorba ılık.",warm,ılık,adjective
+"I need to ___ my hands.","Ellerimi yıkamam gerek.",wash,yıkamak,verb
+"My ___ is broken.","Saatim bozuk.",watch,saat,noun
+"Let's ___ a movie.","Bir film izleyelim.",watch,izlemek,verb
+"I need some ___.","Biraz suya ihtiyacım var.",water,su,noun
+"Which ___ to the station?","İstasyona hangi yoldan?",way,yol,noun
+"___ are friends.","Biz arkadaşız.",we,biz,pronoun
+"What should I ___ today?","Bugün ne giymeliyim?",wear,giymek,verb
+"How's the ___?","Hava nasıl?",weather,hava,noun
+"Visit our ___.","Web sitemizi ziyaret edin.",website,web sitesi,noun
+"See you on ___.","Çarşamba günü görüşürüz.",wednesday,Çarşamba,noun
+"See you next ___.","Gelecek hafta görüşürüz.",week,hafta,noun
+"Have a nice ___!","İyi hafta sonları!",weekend,hafta sonu,noun
+"You're ___ here.","Burada hoş karşılanıyorsun.",welcome,hoş karşılanan,adjective
+"___ to our home!","Evimize hoş geldiniz!",welcome,hoş geldiniz,exclamation
+"They ___ us warmly.","Bizi sıcak karşıladılar.",welcome,karşılamak,verb
+"I feel ___ today.","Bugün kendimi iyi hissediyorum.",well,iyi,adjective
+"She speaks English very ___.","O İngilizceyi çok iyi konuşuyor.",well,iyi,adverb
+"___, that's interesting!","Peki, bu ilginç!",well,peki,exclamation
+"The ___ coast is beautiful.","Batı sahili güzel.",west,batı,adjective
+"The sun sets in the ___.","Güneş batıda batar.",west,batıda,adverb
+"I live in the ___.","Batıda yaşıyorum.",west,batı,noun
+"___ time is it?","Saat kaç?",what,ne,determiner
+"___ do you want?","Ne istiyorsun?",what,ne,pronoun
+"___ do you arrive?","Ne zaman geliyorsun?",when,ne zaman,adverb
+"Call me ___ you arrive.","Geldiğinde beni ara.",when,diğinde/dığında,conjunction
+"Since ___ have you been here?","Ne zamandan beri buradasın?",when,ne zaman,pronoun
+"___ is the bank?","Banka nerede?",where,nerede,adverb
+"This is ___ we met.","Burası tanıştığımız yer.",where,yer,conjunction
+"___ book do you want?","Hangi kitabı istiyorsun?",which,hangi,determiner
+"___ one is yours?","Hangisi senin?",which,hangi,pronoun
+"The ___ house is big.","Beyaz ev büyük.",white,beyaz,adjective
+"I like ___ in winter.","Kışın beyazı severim.",white,beyaz,noun
+"___ is at the door?","Kapıda kim var?",who,kim,pronoun
+"___ are you crying?","Neden ağlıyorsun?",why,neden,adverb
+"His ___ is a teacher.","Eşi bir öğretmen.",wife,eş,noun
+"I ___ help you.","Sana yardım edeceğim.",will,ecek/acak,modal verb
+"Our team will ___.","Takımımız kazanacak.",win,kazanmak,verb
+"Open the ___.","Pencereyi aç.",window,pencere,noun
+"Would you like some ___?","Biraz şarap ister misin?",wine,şarap,noun
+"I love ___.","Kışı severim.",winter,kış,noun
+"Coffee ___ milk, please.","Sütlü kahve lütfen.",with,ile,preposition
+"I can't sleep ___ music.","Müzik olmadan uyuyamam.",without,olmadan,preposition
+"The ___ is reading.","Kadın okuyor.",woman,kadın,noun
+"That's ___ news!","Bu harika bir haber!",wonderful,harika,adjective
+"What's this ___ in English?","Bu kelime İngilizce ne demek?",word,kelime,noun
+"I love my ___.","İşimi seviyorum.",work,iş,noun
+"I ___ at a bank.","Bir bankada çalışıyorum.",work,çalışmak,verb
+"He is a factory ___.","O bir fabrika işçisi.",worker,işçi,noun
+"The ___ is beautiful.","Dünya güzel.",world,dünya,noun
+"___ you like some tea?","Biraz çay ister misin?",would,ister misin,modal verb
+"I ___ to her every day.","Ona her gün yazarım.",write,yazmak,verb
+"She is a famous ___.","O ünlü bir yazar.",writer,yazar,noun
+"His ___ is very good.","Onun yazısı çok iyi.",writing,yazı,noun
+"This answer is ___.","Bu cevap yanlış.",wrong,yanlış,adjective
+"___, that's right!","Evet, doğru!",yeah,evet,exclamation
+"Happy New ___!","Mutlu yıllar!",year,yıl,noun
+"The ___ car is mine.","Sarı araba benim.",yellow,sarı,adjective
+"I don't like ___.","Sarıyı sevmem.",yellow,sarı,noun
+"___, I can help you.","Evet, sana yardım edebilirim.",yes,evet,exclamation
+"I saw him ___.","Onu dün gördüm.",yesterday,dün,adverb
+"___ was a good day.","Dün güzel bir gündü.",yesterday,dün,noun
+"Are ___ ready?","Hazır mısın?",you,sen,pronoun
+"She's still ___.","O hala genç.",young,genç,adjective
+"Is this ___ book?","Bu senin kitabın mı?",your,senin,determiner
+"Do it ___.","Kendin yap.",yourself,kendin,pronoun

@@ -1,0 +1,6288 @@
+{
+  "words": {
+    "a_-1830251986194335672": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "a",
+      "english_sentence": "I need ___ new computer."
+    },
+    "about_225785216326457834": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "about",
+      "english_sentence": "Let's talk ___ your plans."
+    },
+    "above_-4970049046488430129": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "above",
+      "english_sentence": "The picture is ___ the desk."
+    },
+    "across_-5842604145758670526": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "across",
+      "english_sentence": "The bridge goes ___ the river."
+    },
+    "action_-1897908449338279420": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "action",
+      "english_sentence": "We need to take ___ immediately."
+    },
+    "activity_-4675788900319062766": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "activity",
+      "english_sentence": "Swimming is a healthy ___."
+    },
+    "actor_4592719189328834689": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "actor",
+      "english_sentence": "He wants to become an ___."
+    },
+    "actress_-4865744361982394555": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "actress",
+      "english_sentence": "She is a talented ___."
+    },
+    "add_-4295600096110974290": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "add",
+      "english_sentence": "Please ___ some sugar to my coffee."
+    },
+    "address_5449483599650415696": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "address",
+      "english_sentence": "What's your home ___?"
+    },
+    "adult_-3460286199667889528": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "adult",
+      "english_sentence": "You must be an ___ to enter this movie."
+    },
+    "advice_1678740871047601723": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "advice",
+      "english_sentence": "Can you give me some ___?"
+    },
+    "afraid_2307853599474492527": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "afraid",
+      "english_sentence": "Don't be ___ of making mistakes."
+    },
+    "after_3817039612093511934": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "after",
+      "english_sentence": "Let's meet ___ lunch."
+    },
+    "afternoon_-5933775684523601853": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "afternoon",
+      "english_sentence": "I'll see you in the ___."
+    },
+    "again_6789613355426623884": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "again",
+      "english_sentence": "Can you say that ___?"
+    },
+    "age_5556493857088272702": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "age",
+      "english_sentence": "What ___ are you?"
+    },
+    "ago_-1106351421744578272": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "ago",
+      "english_sentence": "I met her two years ___."
+    },
+    "agree_9023244194056254773": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "agree",
+      "english_sentence": "I ___ with your opinion."
+    },
+    "air_3527182609391895434": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "air",
+      "english_sentence": "Open the window to get fresh ___."
+    },
+    "airport_4874752631740401939": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "airport",
+      "english_sentence": "We'll meet at the ___."
+    },
+    "all_8405356863871852249": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "all",
+      "english_sentence": "___ students must attend."
+    },
+    "also_-8715482560484434423": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "also",
+      "english_sentence": "She can ___ speak Spanish."
+    },
+    "always_-1985984945312413887": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "always",
+      "english_sentence": "He ___ arrives on time."
+    },
+    "amazing_-512965232857126670": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "amazing",
+      "english_sentence": "That was an ___ performance."
+    },
+    "and_-6816863185811770811": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "and",
+      "english_sentence": "Coffee ___ tea"
+    },
+    "angry_-5074424828751144257": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "angry",
+      "english_sentence": "Why are you ___ with me?"
+    },
+    "animal_-6282758877634948360": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "animal",
+      "english_sentence": "The zoo has many ___s."
+    },
+    "another_225652532241832157": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "another",
+      "english_sentence": "I need ___ cup of coffee."
+    },
+    "answer_4840170823367810238": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "answer",
+      "english_sentence": "Please ___ my question."
+    },
+    "any_-4454956701812682967": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "any",
+      "english_sentence": "Do you have ___ questions?"
+    },
+    "anyone_7252406587476234586": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "anyone",
+      "english_sentence": "Is ___ home?"
+    },
+    "anything_-3763617726939888171": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "anything",
+      "english_sentence": "Did you see ___?"
+    },
+    "apartment_7443148311595696598": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "apartment",
+      "english_sentence": "They live in a new ___."
+    },
+    "apple_-3960188736032137445": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "apple",
+      "english_sentence": "I eat an ___ every day."
+    },
+    "april_-2904605979555396056": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "april",
+      "english_sentence": "Easter is usually in ___."
+    },
+    "area_5261737718708516": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "area",
+      "english_sentence": "This ___ is very quiet."
+    },
+    "arm_-195029867085530937": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "arm",
+      "english_sentence": "He broke his ___ in the accident."
+    },
+    "around_1323312302802229539": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "around",
+      "english_sentence": "The Earth moves ___ the Sun."
+    },
+    "arrive_5034621803642229339": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "arrive",
+      "english_sentence": "When does the train ___?"
+    },
+    "art_7689187633531466883": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "art",
+      "english_sentence": "She studies ___ at university."
+    },
+    "article_5666167424404192017": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "article",
+      "english_sentence": "I read an interesting ___ today."
+    },
+    "artist_-4865744361982394555": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "artist",
+      "english_sentence": "She is a talented ___."
+    },
+    "as_3762984759520198194": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "as",
+      "english_sentence": "Use this ___ an example."
+    },
+    "ask_-6811461603867329991": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "ask",
+      "english_sentence": "Don't forget to ___ for help."
+    },
+    "at_-2933339936641238425": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "at",
+      "english_sentence": "I'll meet you ___ the station."
+    },
+    "august_2818038809187402574": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "august",
+      "english_sentence": "It's very hot in ___."
+    },
+    "aunt_7608418876863143444": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "aunt",
+      "english_sentence": "My ___ lives in London."
+    },
+    "autumn_6434320809353439575": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "autumn",
+      "english_sentence": "The leaves fall in ___."
+    },
+    "away_-4995694333219581279": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "away",
+      "english_sentence": "He lives far ___ from here."
+    },
+    "baby_-5693143289159660588": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "baby",
+      "english_sentence": "The ___ is crying."
+    },
+    "back_-3153122047085088762": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "back",
+      "english_sentence": "I'll be ___ in 5 minutes."
+    },
+    "bad_-7761803442415974750": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "bad",
+      "english_sentence": "That was a ___ idea."
+    },
+    "bag_-7850361206108200018": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "bag",
+      "english_sentence": "Put it in your ___."
+    },
+    "ball_2018043895343436487": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "ball",
+      "english_sentence": "Let's play with the ___."
+    },
+    "banana_-851822634189707984": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "banana",
+      "english_sentence": "I had a ___ for breakfast."
+    },
+    "band_424893732355496191": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "band",
+      "english_sentence": "My favorite ___ is playing tonight."
+    },
+    "bank_-3141592815875439550": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "bank",
+      "english_sentence": "I need to go to the ___."
+    },
+    "bath_3483334776036081447": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "bath",
+      "english_sentence": "I like taking a hot ___."
+    },
+    "bathroom_-6660211200860142192": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "bathroom",
+      "english_sentence": "Where is the ___?"
+    },
+    "be_-5520805322956468242": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "be",
+      "english_sentence": "___ yourself!"
+    },
+    "beach_7077640426044977519": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "beach",
+      "english_sentence": "Let's go to the ___."
+    },
+    "beautiful_-497833131701165114": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "beautiful",
+      "english_sentence": "What a ___ day!"
+    },
+    "because_2107907552762545455": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "because",
+      "english_sentence": "I'm late ___ of traffic."
+    },
+    "become_7221189575360769552": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "become",
+      "english_sentence": "She wants to ___ a doctor."
+    },
+    "bed_-9045405746299910406": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "bed",
+      "english_sentence": "It's time to go to ___."
+    },
+    "bedroom_-7602707338478535599": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "bedroom",
+      "english_sentence": "My ___ is upstairs."
+    },
+    "beer_5859410504725353594": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "beer",
+      "english_sentence": "Would you like a ___?"
+    },
+    "before_-9013096243358654698": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "before",
+      "english_sentence": "Think ___ you speak."
+    },
+    "begin_4619598617697003859": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "begin",
+      "english_sentence": "The movie will ___ at 8."
+    },
+    "beginning_-4238293310788233496": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "beginning",
+      "english_sentence": "This is just the ___."
+    },
+    "behind_2211878608400115065": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "behind",
+      "english_sentence": "The cat is ___ the sofa."
+    },
+    "believe_8184732676838767306": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "believe",
+      "english_sentence": "I ___ in you."
+    },
+    "below_529662782671517771": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "below",
+      "english_sentence": "The temperature is ___ zero."
+    },
+    "best_7863062444176493687": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "best",
+      "english_sentence": "She's my ___ friend."
+    },
+    "better_-4199953946849326681": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "better",
+      "english_sentence": "I feel ___ now."
+    },
+    "between_6839236167868552978": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "between",
+      "english_sentence": "The bank is ___ the post office and the shop."
+    },
+    "bicycle_-8886377772169846442": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "bicycle",
+      "english_sentence": "I ride my ___ to work."
+    },
+    "big_3923786346397279742": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "big",
+      "english_sentence": "They live in a ___ house."
+    },
+    "bike_8343168464975884553": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "bike",
+      "english_sentence": "Can you ride a ___?"
+    },
+    "bill_-8408943780090345288": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "bill",
+      "english_sentence": "Could I have the ___ please?"
+    },
+    "bird_5947958683784077114": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "bird",
+      "english_sentence": "A ___ is singing in the tree."
+    },
+    "birthday_1976622271459463611": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "birthday",
+      "english_sentence": "Happy ___!"
+    },
+    "black_-810703924236688730": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "black",
+      "english_sentence": "She's wearing a ___ dress."
+    },
+    "blog_5968445407155492939": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "blog",
+      "english_sentence": "She writes a ___ about cooking."
+    },
+    "blonde_3228647062321486440": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "blonde",
+      "english_sentence": "She has ___ hair."
+    },
+    "blue_-5265950756956025525": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "blue",
+      "english_sentence": "The sky is ___."
+    },
+    "blue_2110249092892130412": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "blue",
+      "english_sentence": "The ___ water was very cold."
+    },
+    "boat_-5722166533965455954": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "boat",
+      "english_sentence": "The ___ is sailing on the lake."
+    },
+    "body_4865600631925026358": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "body",
+      "english_sentence": "The human ___ needs exercise."
+    },
+    "book_-3865525681625096987": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "book",
+      "english_sentence": "I'm reading an interesting ___."
+    },
+    "boot_-2137517383515036967": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "boot",
+      "english_sentence": "These ___ are too small for me."
+    },
+    "bored_6356079938264084018": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "bored",
+      "english_sentence": "I'm ___ with this movie."
+    },
+    "boring_-2251603447113715104": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "boring",
+      "english_sentence": "This lecture is very ___."
+    },
+    "born_-318875525489432013": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "born",
+      "english_sentence": "She was ___ in London."
+    },
+    "both_9120575746957499104": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "both",
+      "english_sentence": "___ of them are right."
+    },
+    "both_-2583958793978674054": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "both",
+      "english_sentence": "The ___ of us agree."
+    },
+    "bottle_-2787211198873790444": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "bottle",
+      "english_sentence": "There's a ___ of water on the table."
+    },
+    "box_-630368490057532519": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "box",
+      "english_sentence": "Put it in the ___."
+    },
+    "boy_-130652255825794696": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "boy",
+      "english_sentence": "The ___ is playing in the garden."
+    },
+    "boyfriend_-2050367421067606868": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "boyfriend",
+      "english_sentence": "This is my ___."
+    },
+    "bread_168930682393946989": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "bread",
+      "english_sentence": "I need fresh ___."
+    },
+    "break_7670941319678174609": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "break",
+      "english_sentence": "Let's take a ___."
+    },
+    "break_-4780370510132934078": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "break",
+      "english_sentence": "Don't ___ the glass."
+    },
+    "breakfast_-2561803647357772930": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "breakfast",
+      "english_sentence": "What did you have for ___?"
+    },
+    "bring_3435164798351341235": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "bring",
+      "english_sentence": "Please ___ me some water."
+    },
+    "brother_7599568404985152541": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "brother",
+      "english_sentence": "My ___ lives in Canada."
+    },
+    "brown_-5439782637204858300": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "brown",
+      "english_sentence": "She has ___ eyes."
+    },
+    "brown_8408160721486346440": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "brown",
+      "english_sentence": "Paint it in ___."
+    },
+    "build_-4241522242789129358": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "build",
+      "english_sentence": "They ___ a new house."
+    },
+    "building_-1539898919562821390": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "building",
+      "english_sentence": "This ___ is very old."
+    },
+    "bus_6882016801985145413": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "bus",
+      "english_sentence": "The ___ is coming."
+    },
+    "business_-6655582017021560113": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "business",
+      "english_sentence": "She owns a small ___."
+    },
+    "busy_-5481609377923704780": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "busy",
+      "english_sentence": "I'm ___ today."
+    },
+    "but_2204876691960912278": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "but",
+      "english_sentence": "I like coffee ___ tea is better."
+    },
+    "butter_-353013606162347348": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "butter",
+      "english_sentence": "Do we have any ___?"
+    },
+    "buy_-1291590939072577751": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "buy",
+      "english_sentence": "I need to ___ some food."
+    },
+    "by_-6852191441658396346": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "by",
+      "english_sentence": "The book is ___ the window."
+    },
+    "bye_1099141687506663273": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "bye",
+      "english_sentence": "___, see you tomorrow!"
+    },
+    "cafe_-3905652587309195636": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "cafe",
+      "english_sentence": "Let's meet at the ___."
+    },
+    "cake_-1803743972910742595": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "cake",
+      "english_sentence": "Would you like some ___?"
+    },
+    "call_-3752146514389618802": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "call",
+      "english_sentence": "Give me a ___ later."
+    },
+    "call_-292177375384135538": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "call",
+      "english_sentence": "Please ___ me tomorrow."
+    },
+    "camera_461532435412746990": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "camera",
+      "english_sentence": "I got a new ___."
+    },
+    "can_8091983258896694603": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "can",
+      "english_sentence": "I ___ speak English."
+    },
+    "cannot_1590248941487482351": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "cannot",
+      "english_sentence": "I ___ go to the party."
+    },
+    "capital_2354844401031859363": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "capital",
+      "english_sentence": "London is the ___ of England."
+    },
+    "capital_8554570659300619734": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "capital",
+      "english_sentence": "Write this in ___ letters."
+    },
+    "car_8813943515146595411": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "car",
+      "english_sentence": "My ___ is very old."
+    },
+    "card_-7201470335975218910": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "card",
+      "english_sentence": "I sent you a birthday ___."
+    },
+    "career_-762725922167454167": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "career",
+      "english_sentence": "She has a successful ___."
+    },
+    "carrot_5680380227650240227": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "carrot",
+      "english_sentence": "The rabbit ate the ___."
+    },
+    "carry_-33930019608437081": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "carry",
+      "english_sentence": "Can you ___ this bag?"
+    },
+    "cat_-2553458766954646362": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "cat",
+      "english_sentence": "The ___ is sleeping."
+    },
+    "cd_-1244847109634902410": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "cd",
+      "english_sentence": "I bought a new ___."
+    },
+    "cent_-6928145282669588561": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "cent",
+      "english_sentence": "It costs fifty ___."
+    },
+    "centre_-8033591378844714044": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "centre",
+      "english_sentence": "Meet me at the city ___."
+    },
+    "century_-415122400134038954": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "century",
+      "english_sentence": "This building is from the 19th ___."
+    },
+    "chair_-5564166121784910597": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "chair",
+      "english_sentence": "Please sit on this ___."
+    },
+    "change_-1510391649486768990": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "change",
+      "english_sentence": "I need to ___ my clothes."
+    },
+    "change_834156487923900653": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "change",
+      "english_sentence": "Do you have any ___?"
+    },
+    "chart_-7234940938719913655": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "chart",
+      "english_sentence": "Look at this ___."
+    },
+    "cheap_121834939078433412": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "cheap",
+      "english_sentence": "These shoes are very ___."
+    },
+    "check_3921583915703442141": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "check",
+      "english_sentence": "Please ___ your email."
+    },
+    "cheese_4781111393615457467": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "cheese",
+      "english_sentence": "I love ___."
+    },
+    "chicken_-2832808024652762489": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "chicken",
+      "english_sentence": "We're having ___ for dinner."
+    },
+    "child_-1581442462889023420": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "child",
+      "english_sentence": "The ___ is playing."
+    },
+    "chocolate_-914477344409893432": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "chocolate",
+      "english_sentence": "I love dark ___."
+    },
+    "choose_1295566382042095640": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "choose",
+      "english_sentence": "___ a color."
+    },
+    "cinema_7077640426044977519": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "cinema",
+      "english_sentence": "Let's go to the ___."
+    },
+    "city_-3826098365253155883": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "city",
+      "english_sentence": "New York is a big ___."
+    },
+    "class_-6467353421941801141": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "class",
+      "english_sentence": "I have English ___ today."
+    },
+    "classroom_-922964250688067980": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "classroom",
+      "english_sentence": "The ___ is empty."
+    },
+    "clean_4956212039263022389": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "clean",
+      "english_sentence": "Keep your room ___."
+    },
+    "clean_2935846068973679478": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "clean",
+      "english_sentence": "Please ___ your room."
+    },
+    "climb_6546589035413394981": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "climb",
+      "english_sentence": "He likes to ___ mountains."
+    },
+    "clock_-7005511236975248429": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "clock",
+      "english_sentence": "What time is it on the ___?"
+    },
+    "close_-5877667746366473771": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "close",
+      "english_sentence": "Please ___ the door."
+    },
+    "clothes_-8538874051244512502": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "clothes",
+      "english_sentence": "These ___ are expensive."
+    },
+    "club_7077640426044977519": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "club",
+      "english_sentence": "Let's go to the ___."
+    },
+    "coat_-4367171293050580550": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "coat",
+      "english_sentence": "Where is my ___?"
+    },
+    "coffee_-1803743972910742595": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "coffee",
+      "english_sentence": "Would you like some ___?"
+    },
+    "cold_7990973118989869101": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "cold",
+      "english_sentence": "It's very ___ today."
+    },
+    "cold_-4521997086788890085": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "cold",
+      "english_sentence": "I have a ___."
+    },
+    "college_-3997708968185489221": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "college",
+      "english_sentence": "She goes to ___."
+    },
+    "colour_-8030360095664923866": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "colour",
+      "english_sentence": "What's your favorite ___?"
+    },
+    "come_-5436009644746700547": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "come",
+      "english_sentence": "Please ___ here."
+    },
+    "common_-7805548097502961502": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "common",
+      "english_sentence": "It's a ___ mistake."
+    },
+    "company_-3179414001658848008": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "company",
+      "english_sentence": "He works for a big ___."
+    },
+    "compare_8534022290005382122": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "compare",
+      "english_sentence": "Let's ___ the prices."
+    },
+    "complete_2282785897100091609": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "complete",
+      "english_sentence": "The task is ___."
+    },
+    "complete_1923549254252185789": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "complete",
+      "english_sentence": "Please ___ this form."
+    },
+    "computer_-9189200983712116741": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "computer",
+      "english_sentence": "My ___ is broken."
+    },
+    "concert_6327873099883262630": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "concert",
+      "english_sentence": "The ___ starts at 8."
+    },
+    "conversation_4945739356687790487": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "conversation",
+      "english_sentence": "We had an interesting ___."
+    },
+    "cook_-2214281304609069044": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "cook",
+      "english_sentence": "I love to ___."
+    },
+    "cooking_6220418440145741876": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "cooking",
+      "english_sentence": "I enjoy ___."
+    },
+    "cool_-4211930475641691391": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "cool",
+      "english_sentence": "That's a ___ jacket."
+    },
+    "correct_1488830878616448894": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "correct",
+      "english_sentence": "This answer is ___."
+    },
+    "correct_-3540800874229730342": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "correct",
+      "english_sentence": "Please ___ my mistakes."
+    },
+    "cost_6689384268031885442": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "cost",
+      "english_sentence": "What's the ___ of this book?"
+    },
+    "cost_-1306251467401982277": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "cost",
+      "english_sentence": "How much does it ___?"
+    },
+    "could_-4872427255947270458": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "could",
+      "english_sentence": "___ you help me?"
+    },
+    "country_-5883063076908032825": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "country",
+      "english_sentence": "Which ___ are you from?"
+    },
+    "course_5934494220842194307": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "course",
+      "english_sentence": "I'm taking an English ___."
+    },
+    "cousin_370546859726814718": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "cousin",
+      "english_sentence": "My ___ lives in Paris."
+    },
+    "cow_-7074992553996597303": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "cow",
+      "english_sentence": "The ___ gives us milk."
+    },
+    "cream_-6131210725712765442": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "cream",
+      "english_sentence": "Would you like some ___ in your coffee?"
+    },
+    "create_8490608149160249856": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "create",
+      "english_sentence": "Let's ___ something new."
+    },
+    "culture_6028378769146658242": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "culture",
+      "english_sentence": "Every country has its own ___."
+    },
+    "cup_7257687064396830794": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "cup",
+      "english_sentence": "I need a ___ of tea."
+    },
+    "customer_5049801924909574383": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "customer",
+      "english_sentence": "The ___ is always right."
+    },
+    "cut_5257544438972546852": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "cut",
+      "english_sentence": "Please ___ the cake into small pieces."
+    },
+    "dad_-7918259882586926558": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "dad",
+      "english_sentence": "My ___ works in a bank."
+    },
+    "dance_6923032805565962744": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "dance",
+      "english_sentence": "Would you like to ___ with me?"
+    },
+    "dancer_2152848449782060556": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "dancer",
+      "english_sentence": "The ___ performed beautifully."
+    },
+    "dancing_7167895244287863796": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "dancing",
+      "english_sentence": "___ is my favorite hobby."
+    },
+    "dangerous_5057615953738888335": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "dangerous",
+      "english_sentence": "This road can be ___."
+    },
+    "dark_1816373587964828440": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "dark",
+      "english_sentence": "It's getting ___ outside."
+    },
+    "date_6475343595421056552": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "date",
+      "english_sentence": "What's the ___ today?"
+    },
+    "daughter_3748209574912011760": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "daughter",
+      "english_sentence": "His ___ is studying medicine."
+    },
+    "day_4195090341304674308": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "day",
+      "english_sentence": "Have a nice ___!"
+    },
+    "dear_-2198060302562491422": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "dear",
+      "english_sentence": "She wrote a ___ letter to her friend."
+    },
+    "december_2906068479830563691": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "december",
+      "english_sentence": "Christmas is in ___."
+    },
+    "decide_-493357798394234226": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "decide",
+      "english_sentence": "I need to ___ now."
+    },
+    "delicious_-4781017867069786003": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "delicious",
+      "english_sentence": "This cake is ___."
+    },
+    "describe_-3210690932276145914": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "describe",
+      "english_sentence": "Can you ___ your house?"
+    },
+    "description_-4979311243735602663": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "description",
+      "english_sentence": "Read the ___ carefully."
+    },
+    "design_-5527368500797858978": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "design",
+      "english_sentence": "She works in ___."
+    },
+    "design_-5515599400255336667": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "design",
+      "english_sentence": "We need to ___ a new logo."
+    },
+    "desk_-5175838887667054379": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "desk",
+      "english_sentence": "My books are on the ___."
+    },
+    "detail_-2936387357547020929": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "detail",
+      "english_sentence": "Pay attention to every ___."
+    },
+    "dialogue_-6980245310796264708": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "dialogue",
+      "english_sentence": "Can you follow this ___?"
+    },
+    "dictionary_2676728379903169579": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "dictionary",
+      "english_sentence": "Look it up in the ___."
+    },
+    "die_-7864315481921000156": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "die",
+      "english_sentence": "Plants ___ without water."
+    },
+    "diet_-2630813206158795229": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "diet",
+      "english_sentence": "I'm on a ___."
+    },
+    "difference_-8435402809577135861": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "difference",
+      "english_sentence": "What's the ___ between them?"
+    },
+    "different_1936317619983490809": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "different",
+      "english_sentence": "These flowers are all ___."
+    },
+    "difficult_6632775937211979406": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "difficult",
+      "english_sentence": "This exam is ___."
+    },
+    "dinner_8268481978261546515": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "dinner",
+      "english_sentence": "What's for ___?"
+    },
+    "dirty_5434585570275067084": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "dirty",
+      "english_sentence": "Your hands are ___."
+    },
+    "discuss_493971540569697705": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "discuss",
+      "english_sentence": "Let's ___ the problem."
+    },
+    "dish_596591569373419525": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "dish",
+      "english_sentence": "This is my favorite ___."
+    },
+    "do_8425056487824086011": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "do",
+      "english_sentence": "What ___ you do?"
+    },
+    "doctor_-2996254925811073908": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "doctor",
+      "english_sentence": "The ___ will see you now."
+    },
+    "dog_-2020228621575640417": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "dog",
+      "english_sentence": "My ___ is very friendly."
+    },
+    "dollar_-4648187081590260894": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "dollar",
+      "english_sentence": "How many ___ do you need?"
+    },
+    "door_-6989530409051033624": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "door",
+      "english_sentence": "Please close the ___."
+    },
+    "down_2327220812771896911": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "down",
+      "english_sentence": "Prices are going ___."
+    },
+    "downstairs_2775476471089651761": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "downstairs",
+      "english_sentence": "The kitchen is ___."
+    },
+    "draw_951051075425260602": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "draw",
+      "english_sentence": "Can you ___ a cat?"
+    },
+    "dress_5588218147757438832": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "dress",
+      "english_sentence": "She bought a new ___."
+    },
+    "drink_4073597584048636410": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "drink",
+      "english_sentence": "Would you like a ___ of water?"
+    },
+    "drive_-4209247852779433524": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "drive",
+      "english_sentence": "Can you ___ me to the airport?"
+    },
+    "driver_-3363856481052527743": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "driver",
+      "english_sentence": "The ___ was very polite."
+    },
+    "during_-3660664585654413254": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "during",
+      "english_sentence": "___ the summer, we go swimming."
+    },
+    "dvd_-7644272099939298321": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "dvd",
+      "english_sentence": "Let's watch a ___."
+    },
+    "each_-4380474100542684011": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "each",
+      "english_sentence": "___ student must bring a pencil."
+    },
+    "ear_3712534656521458896": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "ear",
+      "english_sentence": "My ___ hurts."
+    },
+    "early_4581297364744510984": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "early",
+      "english_sentence": "I wake up ___ every day."
+    },
+    "east_9130715988301386216": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "east",
+      "english_sentence": "He lives in the ___ of London."
+    },
+    "easy_383302690546550273": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "easy",
+      "english_sentence": "This test is ___."
+    },
+    "eat_8963951243764972830": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "eat",
+      "english_sentence": "Let's ___ breakfast."
+    },
+    "egg_8844891892178411458": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "egg",
+      "english_sentence": "I want two ___ for breakfast."
+    },
+    "eight_3861108392901445441": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "eight",
+      "english_sentence": "I have ___ books."
+    },
+    "eighteen_-1114796370108757744": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "eighteen",
+      "english_sentence": "She is ___ years old."
+    },
+    "eighty_-4127172877208871276": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "eighty",
+      "english_sentence": "My grandfather is ___ years old."
+    },
+    "elephant_-1181277954052690220": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "elephant",
+      "english_sentence": "The ___ is very big."
+    },
+    "eleven_-4133352732254566043": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "eleven",
+      "english_sentence": "It's ___ o'clock."
+    },
+    "else_5712816852925764832": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "else",
+      "english_sentence": "Who ___ is coming?"
+    },
+    "email_7803731816499270862": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "email",
+      "english_sentence": "Send me an ___."
+    },
+    "end_-371664000830157152": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "end",
+      "english_sentence": "This is the ___ of the story."
+    },
+    "enjoy_2238010622711491137": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "enjoy",
+      "english_sentence": "I ___ playing tennis."
+    },
+    "enough_6834978962801819066": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "enough",
+      "english_sentence": "I have ___ money."
+    },
+    "euro_-559125938346649118": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "euro",
+      "english_sentence": "That costs ten ___."
+    },
+    "evening_8014418819152059482": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "evening",
+      "english_sentence": "Good ___."
+    },
+    "event_-6626761215147356886": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "event",
+      "english_sentence": "It's a special ___."
+    },
+    "ever_8408653869830517112": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "ever",
+      "english_sentence": "Have you ___ been to Paris?"
+    },
+    "every_6234593585611824942": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "every",
+      "english_sentence": "___ day is different."
+    },
+    "everybody_-216431532562127302": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "everybody",
+      "english_sentence": "___ left early."
+    },
+    "everyone_6344728803375131271": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "everyone",
+      "english_sentence": "___ is here."
+    },
+    "everything_7014742983177330824": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "everything",
+      "english_sentence": "___ is ready."
+    },
+    "exam_-3552895506425996743": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "exam",
+      "english_sentence": "The ___ was difficult."
+    },
+    "example_-8422515139801940749": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "example",
+      "english_sentence": "For ___, apples and oranges."
+    },
+    "excited_-2057589080970248226": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "excited",
+      "english_sentence": "I'm ___ about the party."
+    },
+    "exciting_-5381223226837349256": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "exciting",
+      "english_sentence": "The movie was ___."
+    },
+    "exercise_6317463053620448806": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "exercise",
+      "english_sentence": "I need to ___ more."
+    },
+    "expensive_7241831448265436263": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "expensive",
+      "english_sentence": "This restaurant is ___."
+    },
+    "explain_-6577332138325211687": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "explain",
+      "english_sentence": "Can you ___ this to me?"
+    },
+    "extra_-4851421976817389656": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "extra",
+      "english_sentence": "We need an ___ chair."
+    },
+    "eye_1595149272291731171": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "eye",
+      "english_sentence": "She has blue ___."
+    },
+    "face_1061372338276607109": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "face",
+      "english_sentence": "She has a beautiful ___."
+    },
+    "fact_-4871438650419356757": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "fact",
+      "english_sentence": "It's a well-known ___."
+    },
+    "fall_3661253914140103530": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "fall",
+      "english_sentence": "Leaves ___ in autumn."
+    },
+    "false_-4622235883903281480": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "false",
+      "english_sentence": "This statement is ___."
+    },
+    "family_-6602322083409510857": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "family",
+      "english_sentence": "They are a ___ business."
+    },
+    "family_7608418876863143444": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "family",
+      "english_sentence": "My ___ lives in London."
+    },
+    "famous_575249028500008651": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "famous",
+      "english_sentence": "She's a ___ actress."
+    },
+    "fantastic_-5381223226837349256": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "fantastic",
+      "english_sentence": "The movie was ___."
+    },
+    "far_7667063256027009112": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "far",
+      "english_sentence": "He lives ___ from here."
+    },
+    "farm_-7266538968934287280": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "farm",
+      "english_sentence": "They live on a ___."
+    },
+    "farmer_-253800125000656097": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "farmer",
+      "english_sentence": "My uncle is a ___."
+    },
+    "fast_149412428614616193": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "fast",
+      "english_sentence": "That's a ___ car."
+    },
+    "fast_1162544514314011745": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "fast",
+      "english_sentence": "He runs very ___."
+    },
+    "fat_3264189651071994370": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "fat",
+      "english_sentence": "This cake is too ___."
+    },
+    "father_-7918259882586926558": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "father",
+      "english_sentence": "My ___ works in a bank."
+    },
+    "favourite_5344914190263425527": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "favourite",
+      "english_sentence": "Blue is my ___ color."
+    },
+    "favourite_-6191078819068027454": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "favourite",
+      "english_sentence": "Pizza is my ___."
+    },
+    "february_2419453459970456767": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "february",
+      "english_sentence": "My birthday is in ___."
+    },
+    "feel_-369503852207629712": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "feel",
+      "english_sentence": "I ___ happy today."
+    },
+    "feeling_8965855968749026205": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "feeling",
+      "english_sentence": "It's a good ___."
+    },
+    "festival_1586934263352861145": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "festival",
+      "english_sentence": "The music ___ starts tomorrow."
+    },
+    "few_-7636905266567941502": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "few",
+      "english_sentence": "I have ___ friends here."
+    },
+    "few_-8554176426890184664": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "few",
+      "english_sentence": "___ people came to the party."
+    },
+    "few_-1602141707267794790": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "few",
+      "english_sentence": "___ of them understand."
+    },
+    "fifteen_-1114796370108757744": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "fifteen",
+      "english_sentence": "She is ___ years old."
+    },
+    "fifth_893535487815491758": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "fifth",
+      "english_sentence": "He came in ___ place."
+    },
+    "fifty_-7959833183171743654": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "fifty",
+      "english_sentence": "There are ___ students."
+    },
+    "fill_-6499862967308612840": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "fill",
+      "english_sentence": "Please ___ the glass with water."
+    },
+    "film_-7644272099939298321": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "film",
+      "english_sentence": "Let's watch a ___."
+    },
+    "final_-3402630672426197633": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "final",
+      "english_sentence": "This is the ___ exam."
+    },
+    "find_6824272266688058200": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "find",
+      "english_sentence": "Can you ___ my keys?"
+    },
+    "fine_1560032843024607726": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "fine",
+      "english_sentence": "I'm feeling ___ today."
+    },
+    "finish_-6113291835319650843": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "finish",
+      "english_sentence": "Let's ___ the homework."
+    },
+    "fire_3165948486754174303": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "fire",
+      "english_sentence": "There's a ___ in the forest."
+    },
+    "first_-4684462087151362129": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "first",
+      "english_sentence": "He ___ arrived at work."
+    },
+    "first_-1113145047586087430": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "first",
+      "english_sentence": "This is my ___ time here."
+    },
+    "first_-7242140590017692096": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "first",
+      "english_sentence": "She won ___ prize."
+    },
+    "fish_-4572630748602610785": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "fish",
+      "english_sentence": "I like eating ___."
+    },
+    "five_-981888076213667309": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "five",
+      "english_sentence": "I have ___ cats."
+    },
+    "flat_-17903270715797311": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "flat",
+      "english_sentence": "They live in a ___."
+    },
+    "flight_-4519561860795013921": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "flight",
+      "english_sentence": "Our ___ is delayed."
+    },
+    "floor_7678210678356783388": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "floor",
+      "english_sentence": "My room is on the second ___."
+    },
+    "flower_2541849942194555003": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "flower",
+      "english_sentence": "She gave me a ___."
+    },
+    "fly_-545168752915256942": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "fly",
+      "english_sentence": "Birds can ___."
+    },
+    "follow_595434934554124245": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "follow",
+      "english_sentence": "Please ___ me on Instagram."
+    },
+    "food_9012438213572215105": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "food",
+      "english_sentence": "Turkish ___ is delicious."
+    },
+    "foot_3712534656521458896": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "foot",
+      "english_sentence": "My ___ hurts."
+    },
+    "football_5009836792312249288": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "football",
+      "english_sentence": "He plays ___ well."
+    },
+    "for_6516003873911457597": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "for",
+      "english_sentence": "This gift is ___ you."
+    },
+    "forget_8384901197773338279": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "forget",
+      "english_sentence": "Don't ___ your keys."
+    },
+    "form_-8779214355948207485": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "form",
+      "english_sentence": "Please fill out this ___."
+    },
+    "form_-7175042634127169774": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "form",
+      "english_sentence": "Clouds ___ in the sky."
+    },
+    "forty_-1114796370108757744": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "forty",
+      "english_sentence": "She is ___ years old."
+    },
+    "four_508802050366078231": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "four",
+      "english_sentence": "There are ___ seasons."
+    },
+    "fourteen_-1114796370108757744": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "fourteen",
+      "english_sentence": "She is ___ years old."
+    },
+    "fourth_893535487815491758": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "fourth",
+      "english_sentence": "He came in ___ place."
+    },
+    "free_-1591537418776984230": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "free",
+      "english_sentence": "The entrance is ___."
+    },
+    "friday_-2868238642967752999": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "friday",
+      "english_sentence": "See you on ___."
+    },
+    "friend_-5719125049324684568": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "friend",
+      "english_sentence": "She is my best ___."
+    },
+    "friendly_-1820961079944421954": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "friendly",
+      "english_sentence": "He is very ___."
+    },
+    "from_8840468839189627240": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "from",
+      "english_sentence": "The book fell ___ the shelf."
+    },
+    "front_-4445972089415737420": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "front",
+      "english_sentence": "The ___ door is locked."
+    },
+    "front_3011504727422563189": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "front",
+      "english_sentence": "Wait at the ___ of the line."
+    },
+    "fruit_535426465342816306": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "fruit",
+      "english_sentence": "I love eating ___."
+    },
+    "full_-7025982009548995132": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "full",
+      "english_sentence": "The glass is ___ of water."
+    },
+    "fun_6134285859503439239": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "fun",
+      "english_sentence": "We had a lot of ___."
+    },
+    "funny_2284060034615882280": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "funny",
+      "english_sentence": "That joke was ___."
+    },
+    "future_1730512826622687052": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "future",
+      "english_sentence": "Think about your ___."
+    },
+    "game_3677070466913446053": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "game",
+      "english_sentence": "Let's play a ___."
+    },
+    "garden_-7344976913392081648": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "garden",
+      "english_sentence": "The ___ needs water."
+    },
+    "geography_-7867789404913963821": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "geography",
+      "english_sentence": "I study ___ at school."
+    },
+    "get_2820186107149789128": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "get",
+      "english_sentence": "___ ready for school."
+    },
+    "girl_-9079755932137279995": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "girl",
+      "english_sentence": "The ___ is reading a book."
+    },
+    "girlfriend_-1851793782378345470": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "girlfriend",
+      "english_sentence": "His ___ is from Italy."
+    },
+    "give_-377239938832810935": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "give",
+      "english_sentence": "___ me your hand."
+    },
+    "glass_-5677627227156006339": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "glass",
+      "english_sentence": "Can I have a ___ of water?"
+    },
+    "go_3402428074449892172": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "go",
+      "english_sentence": "Let's ___ to the park."
+    },
+    "good_4058570712603503930": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "good",
+      "english_sentence": "That's a ___ idea!"
+    },
+    "goodbye_1099141687506663273": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "goodbye",
+      "english_sentence": "___, see you tomorrow!"
+    },
+    "goodbye_-7130647286731122260": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "goodbye",
+      "english_sentence": "It's time to say ___."
+    },
+    "grandfather_946790354823326593": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "grandfather",
+      "english_sentence": "My ___ tells great stories."
+    },
+    "grandmother_4214019787388998694": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "grandmother",
+      "english_sentence": "My ___ makes delicious cookies."
+    },
+    "grandparent_3536329588790151631": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "grandparent",
+      "english_sentence": "I visit my ___ every weekend."
+    },
+    "great_4197247288813125473": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "great",
+      "english_sentence": "That's a ___ movie!"
+    },
+    "green_-7174406696295674211": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "green",
+      "english_sentence": "My favorite color is ___."
+    },
+    "green_-632835357187253173": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "green",
+      "english_sentence": "The ___ looks beautiful."
+    },
+    "grey_6124172968851448909": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "grey",
+      "english_sentence": "The sky is ___ today."
+    },
+    "grey_6424088053265987377": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "grey",
+      "english_sentence": "I don't like wearing ___."
+    },
+    "group_-3393156613099743879": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "group",
+      "english_sentence": "We work in a ___."
+    },
+    "grow_412146475068868798": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "grow",
+      "english_sentence": "Plants ___ in spring."
+    },
+    "guess_-7845706711624604254": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "guess",
+      "english_sentence": "Take a ___ at the answer."
+    },
+    "guess_4171465424638124451": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "guess",
+      "english_sentence": "Can you ___ my age?"
+    },
+    "guitar_-1948273516936897697": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "guitar",
+      "english_sentence": "She plays the ___."
+    },
+    "gym_-1548947483756106318": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "gym",
+      "english_sentence": "I go to the ___ every morning."
+    },
+    "hair_6220482845132148940": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "hair",
+      "english_sentence": "She has long brown ___."
+    },
+    "half_-1293090409483614248": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "half",
+      "english_sentence": "___ of the cake is left."
+    },
+    "half_-3362285956945520279": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "half",
+      "english_sentence": "Cut it in ___."
+    },
+    "half_6715134830889290764": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "half",
+      "english_sentence": "___ of them agreed."
+    },
+    "hand_2364926678070242507": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "hand",
+      "english_sentence": "Give me your ___."
+    },
+    "happen_-6505249799474212839": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "happen",
+      "english_sentence": "What ___ next?"
+    },
+    "happy_-610305752564994725": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "happy",
+      "english_sentence": "She looks very ___ today."
+    },
+    "hard_4640128004581202662": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "hard",
+      "english_sentence": "Math is a ___ subject."
+    },
+    "hard_6539369874568044130": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "hard",
+      "english_sentence": "He works ___ every day."
+    },
+    "hat_2171379760488551893": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "hat",
+      "english_sentence": "She's wearing a new ___."
+    },
+    "hate_-3947097976921196060": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "hate",
+      "english_sentence": "I ___ waiting in lines."
+    },
+    "have_1178702370669495515": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "have",
+      "english_sentence": "I ___ a cat."
+    },
+    "have to_-988071583587926192": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "have to",
+      "english_sentence": "We ___ finish this today."
+    },
+    "he_5632774453997108195": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "he",
+      "english_sentence": "___ is my brother."
+    },
+    "head_3712534656521458896": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "head",
+      "english_sentence": "My ___ hurts."
+    },
+    "health_-6828093017009963436": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "health",
+      "english_sentence": "___ is important."
+    },
+    "healthy_-7096710473487891719": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "healthy",
+      "english_sentence": "Eating vegetables is ___."
+    },
+    "hear_-3176206103565361669": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "hear",
+      "english_sentence": "Can you ___ the music?"
+    },
+    "hello_6595244503439602683": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "hello",
+      "english_sentence": "___, how are you?"
+    },
+    "hello_-7694251254500814344": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "hello",
+      "english_sentence": "Say ___ to your friend."
+    },
+    "help_288970918715191430": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "help",
+      "english_sentence": "I need your ___."
+    },
+    "help_557413965408077666": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "help",
+      "english_sentence": "Can you ___ me?"
+    },
+    "her_-1906064944966253139": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "her",
+      "english_sentence": "That's ___ book."
+    },
+    "her_-8034745125789210336": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "her",
+      "english_sentence": "I saw ___ yesterday."
+    },
+    "here_6783783470349245271": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "here",
+      "english_sentence": "Come ___, please."
+    },
+    "hey_-778509313287039775": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "hey",
+      "english_sentence": "___, what's up?"
+    },
+    "hi_-815940722255296187": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "hi",
+      "english_sentence": "___, good morning!"
+    },
+    "high_-3124907565691461450": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "high",
+      "english_sentence": "The building is very ___."
+    },
+    "him_869411506928720461": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "him",
+      "english_sentence": "I gave ___ the book."
+    },
+    "his_-1175468643135604441": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "his",
+      "english_sentence": "That's ___ car."
+    },
+    "history_3404372672174979974": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "history",
+      "english_sentence": "I love ___ class."
+    },
+    "hobby_6119515284441378227": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "hobby",
+      "english_sentence": "Reading is my ___."
+    },
+    "holiday_4663772832279857484": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "holiday",
+      "english_sentence": "We're going on ___."
+    },
+    "home_-947947867176569420": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "home",
+      "english_sentence": "Let's go ___."
+    },
+    "home_1385037296158556783": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "home",
+      "english_sentence": "My ___ is near."
+    },
+    "homework_-2413432143686232683": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "homework",
+      "english_sentence": "I have a lot of ___."
+    },
+    "hope_1319399396057588553": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "hope",
+      "english_sentence": "I ___ you like it."
+    },
+    "horse_-7386379976050211340": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "horse",
+      "english_sentence": "She rides a ___."
+    },
+    "hospital_6919957767485504829": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "hospital",
+      "english_sentence": "My father is in the ___."
+    },
+    "hot_-3647669342663318447": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "hot",
+      "english_sentence": "The soup is too ___."
+    },
+    "hotel_-3468178359791583107": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "hotel",
+      "english_sentence": "We stayed at a ___."
+    },
+    "hour_-4546361611413591149": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "hour",
+      "english_sentence": "I'll be back in an ___."
+    },
+    "house_5458362598223388339": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "house",
+      "english_sentence": "They have a big ___."
+    },
+    "how_-6615631103364178557": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "how",
+      "english_sentence": "___ are you?"
+    },
+    "however_7032528725171615216": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "however",
+      "english_sentence": "___, I don't agree."
+    },
+    "hundred_-6367227349867012340": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "hundred",
+      "english_sentence": "We need a ___ tickets."
+    },
+    "hungry_4639753088081080523": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "hungry",
+      "english_sentence": "I'm ___, let's eat."
+    },
+    "husband_-555548184335993494": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "husband",
+      "english_sentence": "My ___ is a doctor."
+    },
+    "i_2384343125523082272": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "i",
+      "english_sentence": "___ love reading."
+    },
+    "ice_5960994395395342315": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "ice",
+      "english_sentence": "Put some ___ in my drink."
+    },
+    "ice cream_9130367583822441735": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "ice cream",
+      "english_sentence": "Let's get some ___."
+    },
+    "idea_-1925360345757883089": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "idea",
+      "english_sentence": "That's a good ___!"
+    },
+    "if_3086603573423098223": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "if",
+      "english_sentence": "___ it rains, stay home."
+    },
+    "imagine_-6549535190626863927": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "imagine",
+      "english_sentence": "___ your future."
+    },
+    "important_383302690546550273": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "important",
+      "english_sentence": "This test is ___."
+    },
+    "improve_-7307830906556744207": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "improve",
+      "english_sentence": "You need to ___ your English."
+    },
+    "in_6783783470349245271": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "in",
+      "english_sentence": "Come ___, please."
+    },
+    "in_-4963002115770110708": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "in",
+      "english_sentence": "The cat is ___ the box."
+    },
+    "include_7950668317135173105": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "include",
+      "english_sentence": "The price ___ tax."
+    },
+    "information_5560827010051107818": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "information",
+      "english_sentence": "I need more ___."
+    },
+    "interest_8282906055620247947": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "interest",
+      "english_sentence": "Music is my main ___."
+    },
+    "interest_-112318627165643244": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "interest",
+      "english_sentence": "Does politics ___ you?"
+    },
+    "interested_-8321389159320399754": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "interested",
+      "english_sentence": "I'm ___ in art."
+    },
+    "interesting_-7194191274904952654": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "interesting",
+      "english_sentence": "This book is ___."
+    },
+    "internet_-474401701923714728": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "internet",
+      "english_sentence": "I found it on the ___."
+    },
+    "interview_3811061575765226008": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "interview",
+      "english_sentence": "I have a job ___ tomorrow."
+    },
+    "interview_6284603354830385142": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "interview",
+      "english_sentence": "They will ___ me next week."
+    },
+    "into_8582527291448314988": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "into",
+      "english_sentence": "The cat jumped ___ the box."
+    },
+    "introduce_-195422137756123781": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "introduce",
+      "english_sentence": "Let me ___ myself."
+    },
+    "island_-4262901718384047378": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "island",
+      "english_sentence": "We visited a tropical ___."
+    },
+    "it_1757597515335214524": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "it",
+      "english_sentence": "___ is raining."
+    },
+    "its_3966884114778975213": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "its",
+      "english_sentence": "The dog wagged ___ tail."
+    },
+    "jacket_-4367171293050580550": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "jacket",
+      "english_sentence": "Where is my ___?"
+    },
+    "january_-7643183461583275363": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "january",
+      "english_sentence": "Her birthday is in ___."
+    },
+    "jeans_3116677573001663881": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "jeans",
+      "english_sentence": "She's wearing blue ___."
+    },
+    "job_6751989815277313782": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "job",
+      "english_sentence": "He loves his ___."
+    },
+    "join_-9014211434860786984": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "join",
+      "english_sentence": "Would you like to ___ us?"
+    },
+    "journey_2318888691112150846": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "journey",
+      "english_sentence": "It was a long ___."
+    },
+    "juice_2217983211731388520": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "juice",
+      "english_sentence": "I'd like orange ___."
+    },
+    "july_-3762701794506958552": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "july",
+      "english_sentence": "We go on holiday in ___."
+    },
+    "june_-5036427292630406560": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "june",
+      "english_sentence": "Summer starts in ___."
+    },
+    "just_-5173242346089383682": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "just",
+      "english_sentence": "I've ___ arrived."
+    },
+    "keep_1653463203794659154": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "keep",
+      "english_sentence": "___ the secret."
+    },
+    "key_2640918832510631394": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "key",
+      "english_sentence": "This is a ___ issue."
+    },
+    "key_8911086701913418039": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "key",
+      "english_sentence": "I lost my ___."
+    },
+    "kilometre_-1729523985023362780": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "kilometre",
+      "english_sentence": "It's ten ___ away."
+    },
+    "kind_-8022215683849570061": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "kind",
+      "english_sentence": "What ___ of music do you like?"
+    },
+    "kitchen_5730156371272339032": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "kitchen",
+      "english_sentence": "The ___ is downstairs."
+    },
+    "know_-454249520010220425": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "know",
+      "english_sentence": "I ___ the answer."
+    },
+    "land_7995704131550656851": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "land",
+      "english_sentence": "They bought some ___."
+    },
+    "language_-6964621353649760899": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "language",
+      "english_sentence": "I speak three ___s."
+    },
+    "large_4157165844222698259": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "large",
+      "english_sentence": "It's a ___ room."
+    },
+    "last_-7960139930766801576": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "last",
+      "english_sentence": "This is my ___ chance."
+    },
+    "late_1322726019664881629": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "late",
+      "english_sentence": "Sorry I'm ___."
+    },
+    "late_-5952649680952904995": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "late",
+      "english_sentence": "He arrived ___."
+    },
+    "later_7077814519648803407": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "later",
+      "english_sentence": "See you ___."
+    },
+    "laugh_-6477355771911566982": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "laugh",
+      "english_sentence": "Her ___ is beautiful."
+    },
+    "laugh_-4000505150559649834": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "laugh",
+      "english_sentence": "Don't ___ at me!"
+    },
+    "learn_-3622926744676322415": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "learn",
+      "english_sentence": "I want to ___ Japanese."
+    },
+    "leave_7203128379830342533": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "leave",
+      "english_sentence": "Please don't ___ me."
+    },
+    "left_-8798789362155535909": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "left",
+      "english_sentence": "Turn ___ here."
+    },
+    "left_5474796721744533473": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "left",
+      "english_sentence": "The shop is ___ of here."
+    },
+    "left_-7939701615282514638": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "left",
+      "english_sentence": "Write with your ___ hand."
+    },
+    "leg_3712534656521458896": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "leg",
+      "english_sentence": "My ___ hurts."
+    },
+    "lesson_-3991394040290803221": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "lesson",
+      "english_sentence": "The ___ starts at 9."
+    },
+    "let_2226397737410663606": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "let",
+      "english_sentence": "___ me help you."
+    },
+    "letter_-3477327483553969581": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "letter",
+      "english_sentence": "I received a ___ today."
+    },
+    "library_7077640426044977519": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "library",
+      "english_sentence": "Let's go to the ___."
+    },
+    "lie_4206927417272681615": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "lie",
+      "english_sentence": "Don't ___ to me."
+    },
+    "life_-7456549748613116376": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "life",
+      "english_sentence": "___ is beautiful."
+    },
+    "light_330850451604609524": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "light",
+      "english_sentence": "This bag is very ___."
+    },
+    "light_-3493289356855275029": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "light",
+      "english_sentence": "Turn on the ___."
+    },
+    "like_-5259637038841347942": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "like",
+      "english_sentence": "She looks ___ her mother."
+    },
+    "like_3812773279113846289": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "like",
+      "english_sentence": "I ___ ice cream."
+    },
+    "line_8755459853400519400": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "line",
+      "english_sentence": "Draw a straight ___."
+    },
+    "lion_7107982463062262535": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "lion",
+      "english_sentence": "The ___ is the king of jungle."
+    },
+    "list_7531830719435059220": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "list",
+      "english_sentence": "Make a shopping ___."
+    },
+    "list_-5474752369618412911": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "list",
+      "english_sentence": "Please ___ all items."
+    },
+    "listen_7404182853374535708": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "listen",
+      "english_sentence": "___ to the music."
+    },
+    "little_4865658000265612638": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "little",
+      "english_sentence": "The cup is too ___."
+    },
+    "little_-8505277869438200936": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "little",
+      "english_sentence": "I have ___ time."
+    },
+    "little_3484024317257882844": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "little",
+      "english_sentence": "___ is known about this."
+    },
+    "live_-8836151634208354011": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "live",
+      "english_sentence": "They ___ in London."
+    },
+    "local_8916990401570498742": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "local",
+      "english_sentence": "I prefer ___ restaurants."
+    },
+    "long_-5724146766643454171": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "long",
+      "english_sentence": "The road is very ___."
+    },
+    "long_-6534670935560241004": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "long",
+      "english_sentence": "How ___ have you been here?"
+    },
+    "look_3195271048748967528": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "look",
+      "english_sentence": "___ at that building."
+    },
+    "lose_8384901197773338279": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "lose",
+      "english_sentence": "Don't ___ your keys."
+    },
+    "lot_-5046756234828961817": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "lot",
+      "english_sentence": "I feel a ___ better now."
+    },
+    "lot_2554217884482385703": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "lot",
+      "english_sentence": "She has a ___ of books."
+    },
+    "lot_-7817879152125708304": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "lot",
+      "english_sentence": "___ of people came."
+    },
+    "love_2100592243797581599": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "love",
+      "english_sentence": "This is ___ at first sight."
+    },
+    "love_-2338015194935606176": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "love",
+      "english_sentence": "I ___ chocolate."
+    },
+    "lunch_8756408687210358712": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "lunch",
+      "english_sentence": "Let's have ___ together."
+    },
+    "machine_981746622694550128": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "machine",
+      "english_sentence": "The ___ is broken."
+    },
+    "magazine_-4034791035667021824": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "magazine",
+      "english_sentence": "She reads ___ articles."
+    },
+    "main_1615853125531954450": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "main",
+      "english_sentence": "This is the ___ entrance."
+    },
+    "make_-4189013429980646918": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "make",
+      "english_sentence": "Let's ___ a cake."
+    },
+    "man_3243941075115561347": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "man",
+      "english_sentence": "A ___ is walking down the street."
+    },
+    "many_1302636017647962914": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "many",
+      "english_sentence": "How ___ people are there?"
+    },
+    "many_-4527671488543893265": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "many",
+      "english_sentence": "___ of us like coffee."
+    },
+    "map_-7794972743198138568": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "map",
+      "english_sentence": "Show me the ___ please."
+    },
+    "march_8384729870887202977": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "march",
+      "english_sentence": "The parade is in ___."
+    },
+    "market_7077640426044977519": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "market",
+      "english_sentence": "Let's go to the ___."
+    },
+    "married_-7405083556514534156": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "married",
+      "english_sentence": "They are ___ now."
+    },
+    "match_2603098023014493999": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "match",
+      "english_sentence": "Do you have a ___."
+    },
+    "match_1744918563898415395": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "match",
+      "english_sentence": "These colors ___ perfectly."
+    },
+    "may_7506186125021456919": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "may",
+      "english_sentence": "Spring starts in ___."
+    },
+    "maybe_7786261133073302303": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "maybe",
+      "english_sentence": "___ we can go tomorrow."
+    },
+    "me_-8298876234605831016": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "me",
+      "english_sentence": "Give it to ___."
+    },
+    "meal_-8736542095605487904": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "meal",
+      "english_sentence": "It's time for a ___."
+    },
+    "mean_-4339612751607303847": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "mean",
+      "english_sentence": "What do you ___?"
+    },
+    "meaning_4621323859072132144": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "meaning",
+      "english_sentence": "What's the ___ of this word?"
+    },
+    "meat_-4959572569831805779": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "meat",
+      "english_sentence": "I don't eat ___."
+    },
+    "meet_5366596136256162393": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "meet",
+      "english_sentence": "Let's ___ at the cafe."
+    },
+    "meeting_-3991394040290803221": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "meeting",
+      "english_sentence": "The ___ starts at 9."
+    },
+    "member_2649314912346676029": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "member",
+      "english_sentence": "He is a ___ of the club."
+    },
+    "menu_4276678574784462481": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "menu",
+      "english_sentence": "Can I see the ___?"
+    },
+    "message_-1636391395988488911": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "message",
+      "english_sentence": "Send me a ___."
+    },
+    "metre_-7929906223121410303": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "metre",
+      "english_sentence": "The pool is 25 ___ long."
+    },
+    "midnight_3579753758472174957": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "midnight",
+      "english_sentence": "It's almost ___."
+    },
+    "mile_8396025472159936329": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "mile",
+      "english_sentence": "It's two ___ away."
+    },
+    "milk_7935028663375664814": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "milk",
+      "english_sentence": "I need some ___."
+    },
+    "million_-850390745517836853": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "million",
+      "english_sentence": "One ___ people live here."
+    },
+    "minute_-5666660979255077920": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "minute",
+      "english_sentence": "Wait a ___, please."
+    },
+    "miss_-1918836213306320754": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "miss",
+      "english_sentence": "I ___ you a lot."
+    },
+    "mistake_6352042436372371256": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "mistake",
+      "english_sentence": "We all make ___."
+    },
+    "model_-1499639699787089669": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "model",
+      "english_sentence": "She works as a ___."
+    },
+    "modern_1952393128855237117": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "modern",
+      "english_sentence": "It's a ___ building."
+    },
+    "moment_-5666660979255077920": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "moment",
+      "english_sentence": "Wait a ___, please."
+    },
+    "monday_-2868238642967752999": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "monday",
+      "english_sentence": "See you on ___."
+    },
+    "money_7935028663375664814": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "money",
+      "english_sentence": "I need some ___."
+    },
+    "month_-2982822310766294155": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "month",
+      "english_sentence": "Which ___ is it?"
+    },
+    "more_2678261513768985906": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "more",
+      "english_sentence": "I need ___ time."
+    },
+    "more_-4454956701812682967": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "more",
+      "english_sentence": "Do you have ___ questions?"
+    },
+    "more_-5182010448488971251": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "more",
+      "english_sentence": "I want ___ of it."
+    },
+    "morning_8014418819152059482": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "morning",
+      "english_sentence": "Good ___."
+    },
+    "most_622016967832392695": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "most",
+      "english_sentence": "She runs the ___."
+    },
+    "most_7721653167929609600": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "most",
+      "english_sentence": "___ people like coffee."
+    },
+    "most_6715134830889290764": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "most",
+      "english_sentence": "___ of them agreed."
+    },
+    "mother_-1881657573048541053": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "mother",
+      "english_sentence": "My ___ is a teacher."
+    },
+    "mountain_7350670129420246752": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "mountain",
+      "english_sentence": "We climbed the ___."
+    },
+    "mouse_7242911823130681171": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "mouse",
+      "english_sentence": "The cat caught a ___."
+    },
+    "mouth_-2998558452441779965": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "mouth",
+      "english_sentence": "Open your ___."
+    },
+    "move_-4554943773270645794": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "move",
+      "english_sentence": "Please don't ___."
+    },
+    "movie_-7644272099939298321": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "movie",
+      "english_sentence": "Let's watch a ___."
+    },
+    "much_-3385191520339321979": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "much",
+      "english_sentence": "He talks too ___."
+    },
+    "much_932129884473366157": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "much",
+      "english_sentence": "How ___ sugar do you want?"
+    },
+    "much_4228857998640578514": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "much",
+      "english_sentence": "This is too ___."
+    },
+    "mum_-7244584280955193915": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "mum",
+      "english_sentence": "My ___ is cooking dinner."
+    },
+    "museum_4209196707051583186": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "museum",
+      "english_sentence": "The ___ is closed today."
+    },
+    "music_-1464029018861423357": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "music",
+      "english_sentence": "I love classical ___."
+    },
+    "must_3842457022102230432": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "must",
+      "english_sentence": "You ___ study hard."
+    },
+    "my_-4340230566583463925": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "my",
+      "english_sentence": "This is ___ book."
+    },
+    "name_-1641207382838449180": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "name",
+      "english_sentence": "What's your ___?"
+    },
+    "name_3133754459447150789": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "name",
+      "english_sentence": "Can you ___ one thing?"
+    },
+    "natural_-3275241917491020057": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "natural",
+      "english_sentence": "It's a ___ park."
+    },
+    "near_-428880694311521579": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "near",
+      "english_sentence": "The store is ___ here."
+    },
+    "near_1999850562022433039": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "near",
+      "english_sentence": "The summer is ___."
+    },
+    "near_1819969570174385614": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "near",
+      "english_sentence": "The cafe is ___ the bank."
+    },
+    "need_348663171827239888": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "need",
+      "english_sentence": "I ___ help."
+    },
+    "negative_-1944080849929527666": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "negative",
+      "english_sentence": "Don't be so ___."
+    },
+    "neighbour_2848762794064251044": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "neighbour",
+      "english_sentence": "Our ___ has a dog."
+    },
+    "never_-2986995325965866467": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "never",
+      "english_sentence": "I ___ eat fish."
+    },
+    "new_1282782636212647333": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "new",
+      "english_sentence": "I bought a ___ car."
+    },
+    "news_-1087359591081676273": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "news",
+      "english_sentence": "This is good ___."
+    },
+    "newspaper_-7327614184359380685": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "newspaper",
+      "english_sentence": "I read the ___ every morning."
+    },
+    "next_7178685054985468192": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "next",
+      "english_sentence": "The ___ week will be busy."
+    },
+    "next_-8365551449734404512": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "next",
+      "english_sentence": "What happens ___?"
+    },
+    "next to_-2386245120123397034": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "next to",
+      "english_sentence": "The bank is ___ the post office."
+    },
+    "nice_-1656024249109578134": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "nice",
+      "english_sentence": "That's a ___ dress."
+    },
+    "night_8014418819152059482": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "night",
+      "english_sentence": "Good ___."
+    },
+    "nine_3861108392901445441": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "nine",
+      "english_sentence": "I have ___ books."
+    },
+    "nineteen_-1114796370108757744": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "nineteen",
+      "english_sentence": "She is ___ years old."
+    },
+    "ninety_-1895758379700082567": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "ninety",
+      "english_sentence": "The temperature is ___ degrees."
+    },
+    "no_-8505277869438200936": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "no",
+      "english_sentence": "I have ___ time."
+    },
+    "no_-3973877562807981939": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "no",
+      "english_sentence": "___, I don't want to go."
+    },
+    "no one_4376485109342979194": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "no one",
+      "english_sentence": "___ knows the answer."
+    },
+    "nobody_2825340151383411732": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "nobody",
+      "english_sentence": "___ came to the party."
+    },
+    "north_-6733365083673773116": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "north",
+      "english_sentence": "The ___ wind is cold."
+    },
+    "north_7900331276162064344": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "north",
+      "english_sentence": "The birds flew ___."
+    },
+    "north_-8773313750091239736": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "north",
+      "english_sentence": "We are traveling ___."
+    },
+    "nose_-6831861398010089100": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "nose",
+      "english_sentence": "My ___ is running."
+    },
+    "not_1453079196271909190": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "not",
+      "english_sentence": "I'm ___ hungry."
+    },
+    "note_-5050315788553983332": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "note",
+      "english_sentence": "Take a ___ of this."
+    },
+    "nothing_2455796112825990915": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "nothing",
+      "english_sentence": "There is ___ in the box."
+    },
+    "november_2419453459970456767": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "november",
+      "english_sentence": "My birthday is in ___."
+    },
+    "now_7902717415469355580": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "now",
+      "english_sentence": "I need it ___."
+    },
+    "number_5344822485106085126": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "number",
+      "english_sentence": "What's your phone ___?"
+    },
+    "nurse_-1828601223902301287": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "nurse",
+      "english_sentence": "The ___ helped me."
+    },
+    "o'clock_-5348536219015062271": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "o'clock",
+      "english_sentence": "It's eight ___."
+    },
+    "object_-459976412198142203": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "object",
+      "english_sentence": "This is an interesting ___."
+    },
+    "october_-7449794214765701758": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "october",
+      "english_sentence": "Halloween is in ___."
+    },
+    "of_316228834418407022": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "of",
+      "english_sentence": "This is the book ___ my friend."
+    },
+    "off_2742999562758324822": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "off",
+      "english_sentence": "The light is ___."
+    },
+    "off_-4943474674404363151": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "off",
+      "english_sentence": "Take it ___ the table."
+    },
+    "office_2256669127503575127": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "office",
+      "english_sentence": "I work in an ___."
+    },
+    "often_-5448999591095872564": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "often",
+      "english_sentence": "How ___ do you exercise?"
+    },
+    "oh_-3435140081839691823": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "oh",
+      "english_sentence": "___, I forgot my keys!"
+    },
+    "ok_4686390665934819044": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "ok",
+      "english_sentence": "Everything is ___."
+    },
+    "ok_-2706132963729794199": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "ok",
+      "english_sentence": "That works ___."
+    },
+    "ok_-4291435869010111040": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "ok",
+      "english_sentence": "___, I understand."
+    },
+    "old_6064458447363703047": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "old",
+      "english_sentence": "My car is very ___."
+    },
+    "on_2052458504405427164": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "on",
+      "english_sentence": "The TV is ___."
+    },
+    "on_-9091484920661441578": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "on",
+      "english_sentence": "The book is ___ the table."
+    },
+    "once_-1625600845756335287": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "once",
+      "english_sentence": "I met him ___ at a cafe."
+    },
+    "one_161153094138513321": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "one",
+      "english_sentence": "I have ___ sister."
+    },
+    "one_2236461150659222913": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "one",
+      "english_sentence": "___ plus ___ equals two."
+    },
+    "one_-6469105816631691651": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "one",
+      "english_sentence": "This is the ___ I want."
+    },
+    "onion_6208055778964039735": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "onion",
+      "english_sentence": "Cut the ___ please."
+    },
+    "online_4276435837503924729": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "online",
+      "english_sentence": "The course is ___."
+    },
+    "online_4034665319369678066": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "online",
+      "english_sentence": "I shop ___."
+    },
+    "only_-4107378714939411570": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "only",
+      "english_sentence": "These are my ___ keys."
+    },
+    "only_7139123253341752702": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "only",
+      "english_sentence": "I ___ wanted to help."
+    },
+    "open_-43630626038136792": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "open",
+      "english_sentence": "The door is ___."
+    },
+    "open_-3942502969042636344": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "open",
+      "english_sentence": "Please ___ the window."
+    },
+    "opinion_8690577125804093833": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "opinion",
+      "english_sentence": "What's your ___ about this?"
+    },
+    "opposite_-2033084600506567459": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "opposite",
+      "english_sentence": "Our houses are ___."
+    },
+    "opposite_3915192000422445038": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "opposite",
+      "english_sentence": "The school is ___."
+    },
+    "opposite_8827277819636087644": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "opposite",
+      "english_sentence": "Hot is the ___ of cold."
+    },
+    "opposite_3696914428013776935": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "opposite",
+      "english_sentence": "The bank is ___ the school."
+    },
+    "or_8403780516693439968": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "or",
+      "english_sentence": "Tea ___ coffee?"
+    },
+    "orange_-524411527264616711": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "orange",
+      "english_sentence": "The ___ juice is fresh."
+    },
+    "orange_-3960188736032137445": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "orange",
+      "english_sentence": "I eat an ___ every day."
+    },
+    "order_8738599046908571788": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "order",
+      "english_sentence": "Can I take your ___?"
+    },
+    "order_6794375604871825602": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "order",
+      "english_sentence": "Let's ___ pizza."
+    },
+    "other_140545057527141003": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "other",
+      "english_sentence": "The ___ students left."
+    },
+    "other_-5181810291077063660": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "other",
+      "english_sentence": "Some like tea, ___ prefer coffee."
+    },
+    "our_7481573963513577218": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "our",
+      "english_sentence": "___ house is big."
+    },
+    "out_8850371401176303317": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "out",
+      "english_sentence": "Time is running ___."
+    },
+    "out_1743114849494313826": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "out",
+      "english_sentence": "He went ___ the room."
+    },
+    "outside_-947947867176569420": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "outside",
+      "english_sentence": "Let's go ___."
+    },
+    "over_-8000468024922303678": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "over",
+      "english_sentence": "The game is ___."
+    },
+    "over_7219849722046209680": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "over",
+      "english_sentence": "The plane flew ___ the city."
+    },
+    "own_1158412682509253091": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "own",
+      "english_sentence": "This is my ___ car."
+    },
+    "own_6970365152758026595": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "own",
+      "english_sentence": "This book is my ___."
+    },
+    "page_6255932956555144002": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "page",
+      "english_sentence": "Turn to ___ 5."
+    },
+    "paint_-4576649310948915851": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "paint",
+      "english_sentence": "The ___ is blue."
+    },
+    "paint_-1600488464965490350": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "paint",
+      "english_sentence": "Let's ___ the wall."
+    },
+    "painting_-622789095429948924": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "painting",
+      "english_sentence": "This ___ is beautiful."
+    },
+    "pair_-2421792994643389975": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "pair",
+      "english_sentence": "I need a ___ of shoes."
+    },
+    "paper_7935028663375664814": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "paper",
+      "english_sentence": "I need some ___."
+    },
+    "paragraph_1790875649672731064": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "paragraph",
+      "english_sentence": "Write a ___."
+    },
+    "parent_851560200876299406": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "parent",
+      "english_sentence": "My ___ are teachers."
+    },
+    "park_-859008313900403685": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "park",
+      "english_sentence": "The ___ is beautiful."
+    },
+    "park_-3244954687930092269": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "park",
+      "english_sentence": "___ your car here."
+    },
+    "part_596591569373419525": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "part",
+      "english_sentence": "This is my favorite ___."
+    },
+    "partner_185032534258811267": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "partner",
+      "english_sentence": "He is my business ___."
+    },
+    "party_4727492324571844344": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "party",
+      "english_sentence": "Let's have a ___."
+    },
+    "passport_8911086701913418039": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "passport",
+      "english_sentence": "I lost my ___."
+    },
+    "past_2284228902889913924": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "past",
+      "english_sentence": "In the ___ year."
+    },
+    "past_-4018596276245284038": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "past",
+      "english_sentence": "Learn from the ___."
+    },
+    "past_7078487742911843915": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "past",
+      "english_sentence": "The shop is ___ the bank."
+    },
+    "pay_7922297018602735470": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "pay",
+      "english_sentence": "Please ___ for this."
+    },
+    "pen_-6928206859465247302": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "pen",
+      "english_sentence": "Can I borrow your ___?"
+    },
+    "pencil_-8295765830354640208": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "pencil",
+      "english_sentence": "Write with a ___."
+    },
+    "people_7835588086253349350": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "people",
+      "english_sentence": "Many ___ like coffee."
+    },
+    "pepper_-510677516181009150": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "pepper",
+      "english_sentence": "Add salt and ___."
+    },
+    "perfect_4135582248108490181": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "perfect",
+      "english_sentence": "Your English is ___."
+    },
+    "period_-2954185693923845116": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "period",
+      "english_sentence": "This is a difficult ___."
+    },
+    "person_-1240967664064586907": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "person",
+      "english_sentence": "I am the only ___ here."
+    },
+    "personal_7994200385786484753": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "personal",
+      "english_sentence": "This is my ___ opinion."
+    },
+    "phone_-8229612998783472505": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "phone",
+      "english_sentence": "Call me on my ___."
+    },
+    "phone_6158386588942387678": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "phone",
+      "english_sentence": "___ me tomorrow."
+    },
+    "photo_-3617769286894078962": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "photo",
+      "english_sentence": "Take a ___ of me."
+    },
+    "photograph_-2522683048781927253": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "photograph",
+      "english_sentence": "This ___ is old."
+    },
+    "phrase_-6038096090526316534": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "phrase",
+      "english_sentence": "I learned a new ___ today."
+    },
+    "piano_-4735584979333628800": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "piano",
+      "english_sentence": "She plays the ___ beautifully."
+    },
+    "picture_9115962359727444493": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "picture",
+      "english_sentence": "I took a ___ of the sunset."
+    },
+    "piece_1560664941066173554": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "piece",
+      "english_sentence": "Can I have a ___ of cake?"
+    },
+    "pig_-754771807889575351": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "pig",
+      "english_sentence": "The ___ lives on the farm."
+    },
+    "pink_-810703924236688730": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "pink",
+      "english_sentence": "She's wearing a ___ dress."
+    },
+    "pink_-5356369824241453031": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "pink",
+      "english_sentence": "___ is her favorite color."
+    },
+    "place_4177311556964697664": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "place",
+      "english_sentence": "This is a nice ___ to live."
+    },
+    "plan_-7629124117043155158": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "plan",
+      "english_sentence": "What's your ___ for tomorrow?"
+    },
+    "plan_8337997204564917035": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "plan",
+      "english_sentence": "Let's ___ our vacation."
+    },
+    "plane_-5588599925522485997": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "plane",
+      "english_sentence": "The ___ takes off at 6."
+    },
+    "plant_-6723418502232884246": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "plant",
+      "english_sentence": "I have a new ___ in my garden."
+    },
+    "play_4745578512351172041": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "play",
+      "english_sentence": "The ___ was excellent."
+    },
+    "play_-5768416230779920264": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "play",
+      "english_sentence": "Children ___ in the park."
+    },
+    "player_7107879133344227048": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "player",
+      "english_sentence": "He's a football ___."
+    },
+    "please_8548350988925000875": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "please",
+      "english_sentence": "___, help me!"
+    },
+    "point_-8854045496560293424": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "point",
+      "english_sentence": "What's your main ___?"
+    },
+    "police_4579941194551102995": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "police",
+      "english_sentence": "Call the ___!"
+    },
+    "policeman_2918525729210649649": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "policeman",
+      "english_sentence": "The ___ stopped our car."
+    },
+    "pool_-5161275794708361571": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "pool",
+      "english_sentence": "Let's swim in the ___."
+    },
+    "poor_-4678791329295052257": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "poor",
+      "english_sentence": "They are very ___."
+    },
+    "popular_-7160807445235769685": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "popular",
+      "english_sentence": "This song is very ___."
+    },
+    "positive_-173614449617776571": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "positive",
+      "english_sentence": "Be ___, things will improve."
+    },
+    "possible_-2166585366819892437": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "possible",
+      "english_sentence": "Is it ___ to come earlier?"
+    },
+    "post_-4659003881333867350": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "post",
+      "english_sentence": "I received a ___ from her."
+    },
+    "post_-1937428616518613120": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "post",
+      "english_sentence": "___ this letter for me."
+    },
+    "potato_-8358295409580636741": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "potato",
+      "english_sentence": "I love baked ___."
+    },
+    "pound_7446090893287422318": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "pound",
+      "english_sentence": "The book costs five ___."
+    },
+    "practice_2432815289675980135": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "practice",
+      "english_sentence": "___ makes perfect."
+    },
+    "practise_-3889789453182916283": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "practise",
+      "english_sentence": "You need to ___ more."
+    },
+    "prefer_8535140111447438071": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "prefer",
+      "english_sentence": "I ___ tea to coffee."
+    },
+    "prepare_965131263507711051": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "prepare",
+      "english_sentence": "___ dinner for everyone."
+    },
+    "present_555236161153734785": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "present",
+      "english_sentence": "She is ___ at the meeting."
+    },
+    "present_-3730086996647073153": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "present",
+      "english_sentence": "This is a ___ for you."
+    },
+    "pretty_-3122438360672316607": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "pretty",
+      "english_sentence": "That's a ___ flower."
+    },
+    "pretty_-8898534887725248718": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "pretty",
+      "english_sentence": "It's ___ cold today."
+    },
+    "price_6689384268031885442": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "price",
+      "english_sentence": "What's the ___ of this book?"
+    },
+    "probably_-7629269631978586456": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "probably",
+      "english_sentence": "He will ___ come later."
+    },
+    "problem_-4521997086788890085": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "problem",
+      "english_sentence": "I have a ___."
+    },
+    "product_6483215350589522621": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "product",
+      "english_sentence": "This is a new ___."
+    },
+    "programme_7649514245803169358": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "programme",
+      "english_sentence": "What's on TV ___ tonight?"
+    },
+    "project_-2398889227523333855": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "project",
+      "english_sentence": "This is my school ___."
+    },
+    "purple_6282010051707160093": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "purple",
+      "english_sentence": "She likes ___ flowers."
+    },
+    "purple_-5356369824241453031": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "purple",
+      "english_sentence": "___ is her favorite color."
+    },
+    "put_-4651414692046091818": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "put",
+      "english_sentence": "___ the book on the table."
+    },
+    "quarter_-6668533505738694823": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "quarter",
+      "english_sentence": "It's a ___ past eight."
+    },
+    "question_7796543855010939870": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "question",
+      "english_sentence": "Can I ask a ___?"
+    },
+    "quick_197569244882302125": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "quick",
+      "english_sentence": "That was a ___ answer."
+    },
+    "quickly_4008436750179483987": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "quickly",
+      "english_sentence": "He runs ___."
+    },
+    "quiet_4999130615789827736": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "quiet",
+      "english_sentence": "Please be ___, the baby is sleeping."
+    },
+    "quite_-3414753026429063046": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "quite",
+      "english_sentence": "I'm ___ tired today."
+    },
+    "radio_-4861765948215281049": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "radio",
+      "english_sentence": "Listen to the ___."
+    },
+    "rain_6406096091150884459": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "rain",
+      "english_sentence": "The ___ is heavy today."
+    },
+    "rain_-7657318359199060188": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "rain",
+      "english_sentence": "It might ___ tomorrow."
+    },
+    "read_8169166688360714315": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "read",
+      "english_sentence": "I like to ___ books."
+    },
+    "reader_-4509220655497434823": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "reader",
+      "english_sentence": "She is an avid ___."
+    },
+    "reading_-3528538718023999888": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "reading",
+      "english_sentence": "___ is my hobby."
+    },
+    "ready_-5671757170515701293": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "ready",
+      "english_sentence": "Are you ___ to go?"
+    },
+    "real_-3698188029934051117": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "real",
+      "english_sentence": "Is this a ___ diamond?"
+    },
+    "really_-9209694974734229414": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "really",
+      "english_sentence": "I'm ___ happy today."
+    },
+    "reason_771170717156772337": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "reason",
+      "english_sentence": "What's the ___ for your decision?"
+    },
+    "red_5861485982308589153": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "red",
+      "english_sentence": "I like ___ cars."
+    },
+    "red_2639885283434082222": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "red",
+      "english_sentence": "___ is a warm color."
+    },
+    "relax_-4339122989563591530": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "relax",
+      "english_sentence": "Just sit and ___."
+    },
+    "remember_2385069704893573633": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "remember",
+      "english_sentence": "___ to bring your book."
+    },
+    "repeat_-8990566938169582323": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "repeat",
+      "english_sentence": "Please ___ after me."
+    },
+    "report_-5881127530965255187": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "report",
+      "english_sentence": "The ___ is due tomorrow."
+    },
+    "restaurant_-8770072918151457631": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "restaurant",
+      "english_sentence": "Let's go to a ___."
+    },
+    "result_1449868330841368962": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "result",
+      "english_sentence": "The ___ was positive."
+    },
+    "return_6980014529519039775": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "return",
+      "english_sentence": "The ___ ticket is cheaper."
+    },
+    "return_5513905450807176627": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "return",
+      "english_sentence": "When do you ___ home?"
+    },
+    "rice_-7710601665136167592": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "rice",
+      "english_sentence": "We eat ___ with chicken."
+    },
+    "rich_-1820961079944421954": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "rich",
+      "english_sentence": "He is very ___."
+    },
+    "ride_8482589827651750387": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "ride",
+      "english_sentence": "I love to ___ my bike."
+    },
+    "right_4593300293145907035": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "right",
+      "english_sentence": "You are ___."
+    },
+    "right_-6881577284380049546": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "right",
+      "english_sentence": "Turn ___ at the corner."
+    },
+    "right_-359547870867642236": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "right",
+      "english_sentence": "You have the ___ to remain silent."
+    },
+    "river_-506642427562852130": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "river",
+      "english_sentence": "The ___ flows through the city."
+    },
+    "road_-8170804249959137709": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "road",
+      "english_sentence": "This ___ leads to the beach."
+    },
+    "room_-7602707338478535599": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "room",
+      "english_sentence": "My ___ is upstairs."
+    },
+    "routine_-3118477583840253657": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "routine",
+      "english_sentence": "What's your morning ___?"
+    },
+    "rule_-7493606941611625497": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "rule",
+      "english_sentence": "Follow the ___."
+    },
+    "run_-8748219249617801069": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "run",
+      "english_sentence": "I ___ every morning."
+    },
+    "sad_8607889562330123258": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "sad",
+      "english_sentence": "Why do you look so ___?"
+    },
+    "salad_1757931623151108910": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "salad",
+      "english_sentence": "I'd like a green ___."
+    },
+    "salt_-7919128886090578631": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "salt",
+      "english_sentence": "Add some ___ to the soup."
+    },
+    "same_2450281372055081757": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "same",
+      "english_sentence": "We have the ___ teacher."
+    },
+    "same_1045923585322865602": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "same",
+      "english_sentence": "They think the ___."
+    },
+    "same_-595271773556493703": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "same",
+      "english_sentence": "These two look the ___."
+    },
+    "sandwich_577565151823953779": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "sandwich",
+      "english_sentence": "I'll have a cheese ___."
+    },
+    "saturday_-2868238642967752999": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "saturday",
+      "english_sentence": "See you on ___."
+    },
+    "say_-966901162672990582": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "say",
+      "english_sentence": "What did she ___?"
+    },
+    "school_6327873099883262630": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "school",
+      "english_sentence": "The ___ starts at 8."
+    },
+    "science_3404372672174979974": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "science",
+      "english_sentence": "I love ___ class."
+    },
+    "scientist_2213453666112295826": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "scientist",
+      "english_sentence": "She wants to be a ___."
+    },
+    "sea_7077640426044977519": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "sea",
+      "english_sentence": "Let's go to the ___."
+    },
+    "second_6087863357266424832": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "second",
+      "english_sentence": "This is my ___ attempt."
+    },
+    "second_-5666660979255077920": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "second",
+      "english_sentence": "Wait a ___, please."
+    },
+    "second_893535487815491758": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "second",
+      "english_sentence": "He came in ___ place."
+    },
+    "section_-4920975397999182177": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "section",
+      "english_sentence": "Read the first ___."
+    },
+    "see_-8932956536581425656": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "see",
+      "english_sentence": "Can you ___ that building?"
+    },
+    "sell_-348516566270486610": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "sell",
+      "english_sentence": "They ___ fresh vegetables."
+    },
+    "send_-146274775561037833": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "send",
+      "english_sentence": "Please ___ me an email."
+    },
+    "sentence_-5080413430855043331": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "sentence",
+      "english_sentence": "Write a ___ in English."
+    },
+    "september_2217527149456248865": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "september",
+      "english_sentence": "School starts in ___."
+    },
+    "seven_7746200231653436112": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "seven",
+      "english_sentence": "I have ___ sisters."
+    },
+    "seventeen_-1114796370108757744": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "seventeen",
+      "english_sentence": "She is ___ years old."
+    },
+    "seventy_-7959833183171743654": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "seventy",
+      "english_sentence": "There are ___ students."
+    },
+    "share_2931101610876828591": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "share",
+      "english_sentence": "Let's ___ the cake."
+    },
+    "she_2640460779798531661": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "she",
+      "english_sentence": "___ is my best friend."
+    },
+    "sheep_7933656819724921734": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "sheep",
+      "english_sentence": "The ___ are in the field."
+    },
+    "shirt_-4893651004995888597": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "shirt",
+      "english_sentence": "This ___ is too small."
+    },
+    "shoe_8001140286623521529": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "shoe",
+      "english_sentence": "My ___ is black."
+    },
+    "shop_-8046104368135577281": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "shop",
+      "english_sentence": "The ___ is closed."
+    },
+    "shop_-1572674370667433491": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "shop",
+      "english_sentence": "I need to ___ for food."
+    },
+    "shopping_4781111393615457467": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "shopping",
+      "english_sentence": "I love ___."
+    },
+    "short_590569030717498380": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "short",
+      "english_sentence": "The movie was too ___."
+    },
+    "should_-975767163583354352": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "should",
+      "english_sentence": "You ___ study more."
+    },
+    "show_-45674925022324655": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "show",
+      "english_sentence": "The ___ was amazing."
+    },
+    "show_-3806472387390942521": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "show",
+      "english_sentence": "Can you ___ me the way?"
+    },
+    "shower_6541338486869196600": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "shower",
+      "english_sentence": "I need to take a ___."
+    },
+    "sick_-2340906110354646997": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "sick",
+      "english_sentence": "I feel ___ today."
+    },
+    "similar_3036786073245033173": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "similar",
+      "english_sentence": "These pictures are ___."
+    },
+    "sing_2540044870116228676": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "sing",
+      "english_sentence": "She likes to ___ in the shower."
+    },
+    "singer_7092369620348122410": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "singer",
+      "english_sentence": "He is a famous ___."
+    },
+    "sister_370546859726814718": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "sister",
+      "english_sentence": "My ___ lives in Paris."
+    },
+    "sit_-4529398946779921229": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "sit",
+      "english_sentence": "Please ___ down."
+    },
+    "situation_-4467194849271180192": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "situation",
+      "english_sentence": "It's a difficult ___."
+    },
+    "six_-981888076213667309": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "six",
+      "english_sentence": "I have ___ cats."
+    },
+    "sixteen_-1114796370108757744": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "sixteen",
+      "english_sentence": "She is ___ years old."
+    },
+    "sixty_-3448371104912509408": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "sixty",
+      "english_sentence": "He is ___ years old."
+    },
+    "skill_-1586747662087784345": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "skill",
+      "english_sentence": "Computer ___ is important."
+    },
+    "skirt_5588218147757438832": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "skirt",
+      "english_sentence": "She bought a new ___."
+    },
+    "sleep_-37977330292728415": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "sleep",
+      "english_sentence": "I need to ___."
+    },
+    "slow_2765852225865324041": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "slow",
+      "english_sentence": "This computer is very ___."
+    },
+    "small_7019999340261822539": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "small",
+      "english_sentence": "The box is too ___."
+    },
+    "snake_-7019163953290304618": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "snake",
+      "english_sentence": "There's a ___ in the garden."
+    },
+    "snow_-5615223561020238260": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "snow",
+      "english_sentence": "The ___ is white."
+    },
+    "snow_-5740745322913252877": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "snow",
+      "english_sentence": "It started to ___ yesterday."
+    },
+    "so_-2284647244162884943": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "so",
+      "english_sentence": "The coffee is ___ hot."
+    },
+    "so_-5411086869840644883": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "so",
+      "english_sentence": "I'm tired, ___ I'll go home."
+    },
+    "some_5830597346591551221": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "some",
+      "english_sentence": "I need ___ help."
+    },
+    "some_-2701865500252186254": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "some",
+      "english_sentence": "___ of them are red."
+    },
+    "somebody_3678464900241342279": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "somebody",
+      "english_sentence": "___ called for you."
+    },
+    "someone_-6746600295953058021": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "someone",
+      "english_sentence": "___ left this here."
+    },
+    "something_2744198413045177245": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "something",
+      "english_sentence": "I need to tell you ___."
+    },
+    "sometimes_6885760436682844658": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "sometimes",
+      "english_sentence": "I ___ go swimming."
+    },
+    "son_-8605151297045568366": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "son",
+      "english_sentence": "My ___ is five years old."
+    },
+    "song_596591569373419525": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "song",
+      "english_sentence": "This is my favorite ___."
+    },
+    "soon_2144547243597281411": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "soon",
+      "english_sentence": "I'll be there ___."
+    },
+    "sorry_4969087118285018345": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "sorry",
+      "english_sentence": "I'm ___ I'm late."
+    },
+    "sorry_-574115936913947130": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "sorry",
+      "english_sentence": "___, I can't come."
+    },
+    "sound_-714613534484196843": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "sound",
+      "english_sentence": "What's that ___?"
+    },
+    "sound_6505540252368141033": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "sound",
+      "english_sentence": "It ___ interesting."
+    },
+    "soup_3305095342736863496": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "soup",
+      "english_sentence": "The ___ is hot."
+    },
+    "south_-3962511662084656274": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "south",
+      "english_sentence": "The ___ coast is beautiful."
+    },
+    "south_-7329192222266011255": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "south",
+      "english_sentence": "The birds fly ___."
+    },
+    "south_7392210404282234994": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "south",
+      "english_sentence": "We live in the ___."
+    },
+    "space_6481685349488904481": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "space",
+      "english_sentence": "There's no ___ in my room."
+    },
+    "speak_1269592801567945577": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "speak",
+      "english_sentence": "Can you ___ English?"
+    },
+    "special_-2120303329529068066": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "special",
+      "english_sentence": "Today is a ___ day."
+    },
+    "spell_-7057835031062708386": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "spell",
+      "english_sentence": "Can you ___ your name?"
+    },
+    "spelling_-7019047829868778748": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "spelling",
+      "english_sentence": "Check your ___."
+    },
+    "spend_8519131189465936873": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "spend",
+      "english_sentence": "Don't ___ too much money."
+    },
+    "sport_-158791868383223733": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "sport",
+      "english_sentence": "Football is my favorite ___."
+    },
+    "spring_4781111393615457467": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "spring",
+      "english_sentence": "I love ___."
+    },
+    "stand_8619511758139474159": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "stand",
+      "english_sentence": "Please ___ up."
+    },
+    "star_-83591191186048277": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "star",
+      "english_sentence": "Look at that ___."
+    },
+    "start_-5554806319388653812": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "start",
+      "english_sentence": "Let's ___ the game."
+    },
+    "statement_-1915943964071384166": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "statement",
+      "english_sentence": "This is an important ___."
+    },
+    "station_1127936755942697316": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "station",
+      "english_sentence": "The train ___ is busy."
+    },
+    "stay_4518542674122539020": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "stay",
+      "english_sentence": "___ here please."
+    },
+    "still_1718803636251994743": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "still",
+      "english_sentence": "He is ___ working."
+    },
+    "stop_8746022882783978974": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "stop",
+      "english_sentence": "The bus ___ is there."
+    },
+    "stop_2324029303889323094": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "stop",
+      "english_sentence": "Please ___ talking."
+    },
+    "story_6576590672406173901": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "story",
+      "english_sentence": "Tell me a ___."
+    },
+    "street_7495038404803036729": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "street",
+      "english_sentence": "I live on this ___."
+    },
+    "strong_-1820961079944421954": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "strong",
+      "english_sentence": "He is very ___."
+    },
+    "student_6250848279345184405": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "student",
+      "english_sentence": "She is a ___ at university."
+    },
+    "study_1525358206178998738": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "study",
+      "english_sentence": "This is my ___ room."
+    },
+    "study_5562731941016858412": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "study",
+      "english_sentence": "I ___ English."
+    },
+    "style_751706477788667796": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "style",
+      "english_sentence": "I like your ___."
+    },
+    "subject_-8030360095664923866": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "subject",
+      "english_sentence": "What's your favorite ___?"
+    },
+    "success_7438943921840346249": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "success",
+      "english_sentence": "Hard work leads to ___."
+    },
+    "sugar_4981096635655977451": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "sugar",
+      "english_sentence": "Would you like ___ in your tea?"
+    },
+    "summer_3749842039021978657": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "summer",
+      "english_sentence": "Let's meet in ___."
+    },
+    "sun_7130149516640040966": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "sun",
+      "english_sentence": "The ___ is shining."
+    },
+    "sunday_-2868238642967752999": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "sunday",
+      "english_sentence": "See you on ___."
+    },
+    "supermarket_7077640426044977519": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "supermarket",
+      "english_sentence": "Let's go to the ___."
+    },
+    "sure_4379988728921630367": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "sure",
+      "english_sentence": "Are you ___?"
+    },
+    "sweater_3846657340240024278": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "sweater",
+      "english_sentence": "This ___ is too big."
+    },
+    "swim_2290472334833662885": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "swim",
+      "english_sentence": "I like to ___."
+    },
+    "swimming_-4979221011097769487": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "swimming",
+      "english_sentence": "___ is good exercise."
+    },
+    "t-shirt_-2680244275989061973": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "t-shirt",
+      "english_sentence": "This ___ is new."
+    },
+    "table_6877651747848177416": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "table",
+      "english_sentence": "Put it on the ___."
+    },
+    "take_3534233681154987783": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "take",
+      "english_sentence": "___ your time."
+    },
+    "talk_-3054288991137615729": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "talk",
+      "english_sentence": "Let's ___ about it."
+    },
+    "tall_-1820961079944421954": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "tall",
+      "english_sentence": "He is very ___."
+    },
+    "taxi_-4946658407235717484": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "taxi",
+      "english_sentence": "Take a ___ to the airport."
+    },
+    "tea_-1803743972910742595": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "tea",
+      "english_sentence": "Would you like some ___?"
+    },
+    "teach_-3152791945887717831": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "teach",
+      "english_sentence": "He ___ English at school."
+    },
+    "teacher_3020325064725665470": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "teacher",
+      "english_sentence": "My ___ is very kind."
+    },
+    "team_-1610201736597361404": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "team",
+      "english_sentence": "Our ___ won the match."
+    },
+    "teenager_5961033891578662257": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "teenager",
+      "english_sentence": "My brother is a ___."
+    },
+    "telephone_-1283727312065418849": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "telephone",
+      "english_sentence": "The ___ is ringing."
+    },
+    "telephone_-6399595568281507625": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "telephone",
+      "english_sentence": "I'll ___ you later."
+    },
+    "television_9715868814688336": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "television",
+      "english_sentence": "I watch ___ every evening."
+    },
+    "tell_2277053579531453000": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "tell",
+      "english_sentence": "Can you ___ me the time?"
+    },
+    "ten_3861108392901445441": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "ten",
+      "english_sentence": "I have ___ books."
+    },
+    "tennis_-1648201468676862686": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "tennis",
+      "english_sentence": "Let's play ___."
+    },
+    "terrible_-4555210569855284409": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "terrible",
+      "english_sentence": "The weather is ___."
+    },
+    "test_-1252728275816348039": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "test",
+      "english_sentence": "I have a ___ tomorrow."
+    },
+    "test_3325128698013527126": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "test",
+      "english_sentence": "Let's ___ the new program."
+    },
+    "text_-1636391395988488911": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "text",
+      "english_sentence": "Send me a ___."
+    },
+    "than_748748220468613514": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "than",
+      "english_sentence": "She is taller ___ me."
+    },
+    "than_6331554337744939812": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "than",
+      "english_sentence": "He is better ___ expected."
+    },
+    "thank_-194108835718795386": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "thank",
+      "english_sentence": "I want to ___ you."
+    },
+    "thanks_-4469424209351763044": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "thanks",
+      "english_sentence": "___ for your help."
+    },
+    "thanks_5834182972190237234": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "thanks",
+      "english_sentence": "Many ___ for coming."
+    },
+    "that_6632775542727289363": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "that",
+      "english_sentence": "I hope ___ you can come."
+    },
+    "that_-6079454797032603619": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "that",
+      "english_sentence": "I like ___ book."
+    },
+    "that_-684684302356179489": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "that",
+      "english_sentence": "___ is my car."
+    },
+    "the_-4000593791565270613": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "the",
+      "english_sentence": "___ sun is bright."
+    },
+    "theatre_-1053287309779876118": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "theatre",
+      "english_sentence": "Let's go to ___."
+    },
+    "their_6872728267841521624": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "their",
+      "english_sentence": "___ car is red."
+    },
+    "them_6223361798693128879": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "them",
+      "english_sentence": "I'll help ___."
+    },
+    "then_-7716959902573850145": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "then",
+      "english_sentence": "What did you do ___?"
+    },
+    "there_8509905725657823881": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "there",
+      "english_sentence": "Put it ___."
+    },
+    "they_-8456976380614127670": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "they",
+      "english_sentence": "___ are my friends."
+    },
+    "thing_8913620352490564067": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "thing",
+      "english_sentence": "Give me that ___."
+    },
+    "think_-4339612751607303847": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "think",
+      "english_sentence": "What do you ___?"
+    },
+    "third_893535487815491758": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "third",
+      "english_sentence": "He came in ___ place."
+    },
+    "thirsty_-9101354001821557134": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "thirsty",
+      "english_sentence": "I'm ___."
+    },
+    "thirteen_-1114796370108757744": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "thirteen",
+      "english_sentence": "She is ___ years old."
+    },
+    "thirty_-7959833183171743654": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "thirty",
+      "english_sentence": "There are ___ students."
+    },
+    "this_-2970087310791886389": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "this",
+      "english_sentence": "___ book is interesting."
+    },
+    "this_-8922924060800854075": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "this",
+      "english_sentence": "___ is my house."
+    },
+    "thousand_-850390745517836853": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "thousand",
+      "english_sentence": "One ___ people live here."
+    },
+    "three_7746200231653436112": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "three",
+      "english_sentence": "I have ___ sisters."
+    },
+    "through_7575369764031227673": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "through",
+      "english_sentence": "Walk ___ the door."
+    },
+    "through_-1289708509335467004": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "through",
+      "english_sentence": "The road goes ___ the forest."
+    },
+    "thursday_-2868238642967752999": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "thursday",
+      "english_sentence": "See you on ___."
+    },
+    "ticket_-8746414930344017075": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "ticket",
+      "english_sentence": "I need a train ___."
+    },
+    "time_5538518624353205338": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "time",
+      "english_sentence": "What ___ is it?"
+    },
+    "tired_-206852431520843501": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "tired",
+      "english_sentence": "I'm very ___."
+    },
+    "title_-1006409979353440226": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "title",
+      "english_sentence": "What's the ___ of the book?"
+    },
+    "to_-1043781253643360423": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "to",
+      "english_sentence": "I want ___ sleep."
+    },
+    "to_-7106495122696769637": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "to",
+      "english_sentence": "Go ___ school."
+    },
+    "today_3114600060752289567": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "today",
+      "english_sentence": "I feel happy ___."
+    },
+    "today_1610125551724948510": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "today",
+      "english_sentence": "___ is Monday."
+    },
+    "together_8415786509273170445": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "together",
+      "english_sentence": "Let's work ___."
+    },
+    "toilet_-6660211200860142192": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "toilet",
+      "english_sentence": "Where is the ___?"
+    },
+    "tomato_-3116300995605687415": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "tomato",
+      "english_sentence": "I need a ___."
+    },
+    "tomorrow_7077814519648803407": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "tomorrow",
+      "english_sentence": "See you ___."
+    },
+    "tomorrow_4559769221762924325": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "tomorrow",
+      "english_sentence": "___ will be sunny."
+    },
+    "tonight_8854905020886925807": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "tonight",
+      "english_sentence": "Let's meet ___."
+    },
+    "tonight_910280798382834914": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "tonight",
+      "english_sentence": "The party is ___."
+    },
+    "too_-2284647244162884943": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "too",
+      "english_sentence": "The coffee is ___ hot."
+    },
+    "tooth_3712534656521458896": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "tooth",
+      "english_sentence": "My ___ hurts."
+    },
+    "topic_-5164283720698695005": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "topic",
+      "english_sentence": "What's the ___ of discussion?"
+    },
+    "tourist_-2380782859429863530": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "tourist",
+      "english_sentence": "Many ___ visit this city."
+    },
+    "town_4022752822290293167": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "town",
+      "english_sentence": "This is a small ___."
+    },
+    "traffic_8569948543466240172": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "traffic",
+      "english_sentence": "The ___ is heavy."
+    },
+    "train_2634742552284571480": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "train",
+      "english_sentence": "The ___ is late."
+    },
+    "travel_-2214281304609069044": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "travel",
+      "english_sentence": "I love to ___."
+    },
+    "travel_-9020402775046402614": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "travel",
+      "english_sentence": "We ___ every summer."
+    },
+    "tree_5325421477816817587": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "tree",
+      "english_sentence": "The ___ is very tall."
+    },
+    "trip_481684917179666988": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "trip",
+      "english_sentence": "How was your ___?"
+    },
+    "trousers_4079037520322644292": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "trousers",
+      "english_sentence": "These ___ are new."
+    },
+    "true_1330848564090286905": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "true",
+      "english_sentence": "Is this story ___?"
+    },
+    "try_2136814475290261384": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "try",
+      "english_sentence": "___ to understand."
+    },
+    "tuesday_-2868238642967752999": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "tuesday",
+      "english_sentence": "See you on ___."
+    },
+    "turn_2589900923928969504": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "turn",
+      "english_sentence": "It's your ___."
+    },
+    "turn_5497051832959200951": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "turn",
+      "english_sentence": "___ left here."
+    },
+    "tv_2348600695751318840": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "tv",
+      "english_sentence": "Let's watch ___."
+    },
+    "twelve_-1114796370108757744": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "twelve",
+      "english_sentence": "She is ___ years old."
+    },
+    "twenty_3861108392901445441": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "twenty",
+      "english_sentence": "I have ___ books."
+    },
+    "twice_-1562082553524166929": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "twice",
+      "english_sentence": "I go there ___ a week."
+    },
+    "two_-981888076213667309": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "two",
+      "english_sentence": "I have ___ cats."
+    },
+    "type_-8022215683849570061": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "type",
+      "english_sentence": "What ___ of music do you like?"
+    },
+    "umbrella_-4699859858884066093": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "umbrella",
+      "english_sentence": "Take an ___, it's raining."
+    },
+    "uncle_7608418876863143444": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "uncle",
+      "english_sentence": "My ___ lives in London."
+    },
+    "under_9158661299701887399": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "under",
+      "english_sentence": "The cat is ___ the table."
+    },
+    "under_7685448197318078629": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "under",
+      "english_sentence": "Put it ___ the desk."
+    },
+    "understand_3038075540438420802": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "understand",
+      "english_sentence": "I don't ___ this word."
+    },
+    "university_6170893854013963041": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "university",
+      "english_sentence": "She studies at ___."
+    },
+    "until_5789041773884219647": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "until",
+      "english_sentence": "Wait ___ I come back."
+    },
+    "until_2480382414922947015": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "until",
+      "english_sentence": "Stay here ___ 5 PM."
+    },
+    "up_393300420368549452": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "up",
+      "english_sentence": "Look ___."
+    },
+    "up_4490470638998977686": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "up",
+      "english_sentence": "Go ___ the stairs."
+    },
+    "upstairs_-6268720239288837928": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "upstairs",
+      "english_sentence": "My room is ___."
+    },
+    "us_8926236479588758406": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "us",
+      "english_sentence": "Please help ___."
+    },
+    "use_-6521498872852724661": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "use",
+      "english_sentence": "___ your dictionary."
+    },
+    "useful_7947403034493054458": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "useful",
+      "english_sentence": "This book is very ___."
+    },
+    "usually_-7039081536905774291": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "usually",
+      "english_sentence": "I ___ wake up at 7."
+    },
+    "vacation_-7722648813692751365": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "vacation",
+      "english_sentence": "When is your ___?"
+    },
+    "vegetable_535426465342816306": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "vegetable",
+      "english_sentence": "I love eating ___."
+    },
+    "very_7896813867468917943": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "very",
+      "english_sentence": "That's ___ nice."
+    },
+    "video_-7644272099939298321": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "video",
+      "english_sentence": "Let's watch a ___."
+    },
+    "village_9171381108490243163": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "village",
+      "english_sentence": "They live in a small ___."
+    },
+    "visit_6194774003996489628": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "visit",
+      "english_sentence": "We had a lot of ___ today."
+    },
+    "visit_-1290081708683698087": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "visit",
+      "english_sentence": "Let's ___ the museum."
+    },
+    "visitor_567520813982660601": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "visitor",
+      "english_sentence": "There's a ___ at the door."
+    },
+    "wait_-5436009644746700547": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "wait",
+      "english_sentence": "Please ___ here."
+    },
+    "waiter_6882016801985145413": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "waiter",
+      "english_sentence": "The ___ is coming."
+    },
+    "wake_-2689202022196202782": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "wake",
+      "english_sentence": "I ___ up at 7 AM."
+    },
+    "walk_5315689735730420172": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "walk",
+      "english_sentence": "Let's go for a ___."
+    },
+    "walk_2586550607533553274": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "walk",
+      "english_sentence": "I ___ to school."
+    },
+    "wall_-5615223561020238260": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "wall",
+      "english_sentence": "The ___ is white."
+    },
+    "want_6829292521372026737": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "want",
+      "english_sentence": "I ___ to learn English."
+    },
+    "warm_662528218429313710": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "warm",
+      "english_sentence": "The soup is ___."
+    },
+    "wash_4938278286348947953": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "wash",
+      "english_sentence": "I need to ___ my hands."
+    },
+    "watch_-9189200983712116741": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "watch",
+      "english_sentence": "My ___ is broken."
+    },
+    "watch_-3951889660056914534": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "watch",
+      "english_sentence": "Let's ___ a movie."
+    },
+    "water_7935028663375664814": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "water",
+      "english_sentence": "I need some ___."
+    },
+    "way_-6032634785616142937": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "way",
+      "english_sentence": "Which ___ to the station?"
+    },
+    "we_1415439239020919551": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "we",
+      "english_sentence": "___ are friends."
+    },
+    "wear_-6078450020321054862": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "wear",
+      "english_sentence": "What should I ___ today?"
+    },
+    "weather_6917913425568255805": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "weather",
+      "english_sentence": "How's the ___?"
+    },
+    "website_-1751830470835174673": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "website",
+      "english_sentence": "Visit our ___."
+    },
+    "wednesday_-2868238642967752999": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "wednesday",
+      "english_sentence": "See you on ___."
+    },
+    "week_-7568016227059510897": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "week",
+      "english_sentence": "See you next ___."
+    },
+    "weekend_4195090341304674308": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "weekend",
+      "english_sentence": "Have a nice ___!"
+    },
+    "welcome_-1543727198866482185": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "welcome",
+      "english_sentence": "You're ___ here."
+    },
+    "welcome_-3024430738362763038": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "welcome",
+      "english_sentence": "___ to our home!"
+    },
+    "welcome_-7417674990834335891": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "welcome",
+      "english_sentence": "They ___ us warmly."
+    },
+    "well_-2340906110354646997": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "well",
+      "english_sentence": "I feel ___ today."
+    },
+    "well_-329468447357353689": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "well",
+      "english_sentence": "She speaks English very ___."
+    },
+    "well_7275404184659245831": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "well",
+      "english_sentence": "___, that's interesting!"
+    },
+    "west_-3962511662084656274": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "west",
+      "english_sentence": "The ___ coast is beautiful."
+    },
+    "west_-2400878082627150649": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "west",
+      "english_sentence": "The sun sets in the ___."
+    },
+    "west_5618438537722143039": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "west",
+      "english_sentence": "I live in the ___."
+    },
+    "what_4070470867489024228": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "what",
+      "english_sentence": "___ time is it?"
+    },
+    "what_-7932422047416263447": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "what",
+      "english_sentence": "___ do you want?"
+    },
+    "when_-4012802333264883958": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "when",
+      "english_sentence": "___ do you arrive?"
+    },
+    "when_-5401492739245887493": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "when",
+      "english_sentence": "Call me ___ you arrive."
+    },
+    "when_-6944353472585377247": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "when",
+      "english_sentence": "Since ___ have you been here?"
+    },
+    "where_6729118038690272241": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "where",
+      "english_sentence": "___ is the bank?"
+    },
+    "where_-5510189085139745987": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "where",
+      "english_sentence": "This is ___ we met."
+    },
+    "which_6767020986853620450": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "which",
+      "english_sentence": "___ book do you want?"
+    },
+    "which_-4902739606941899204": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "which",
+      "english_sentence": "___ one is yours?"
+    },
+    "white_5908948033362671372": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "white",
+      "english_sentence": "The ___ house is big."
+    },
+    "white_2716980890860147589": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "white",
+      "english_sentence": "I like ___ in winter."
+    },
+    "who_7627224499927648920": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "who",
+      "english_sentence": "___ is at the door?"
+    },
+    "why_-3599271099426528827": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "why",
+      "english_sentence": "___ are you crying?"
+    },
+    "wife_6611268950954708088": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "wife",
+      "english_sentence": "His ___ is a teacher."
+    },
+    "will_8370668504962288485": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "will",
+      "english_sentence": "I ___ help you."
+    },
+    "win_5491147345812953251": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "win",
+      "english_sentence": "Our team will ___."
+    },
+    "window_7500229812758004069": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "window",
+      "english_sentence": "Open the ___."
+    },
+    "wine_-1803743972910742595": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "wine",
+      "english_sentence": "Would you like some ___?"
+    },
+    "winter_4781111393615457467": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "winter",
+      "english_sentence": "I love ___."
+    },
+    "with_-3753512324323087107": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "with",
+      "english_sentence": "Coffee ___ milk, please."
+    },
+    "without_1134410372277761470": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "without",
+      "english_sentence": "I can't sleep ___ music."
+    },
+    "woman_2539724158223849540": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "woman",
+      "english_sentence": "The ___ is reading."
+    },
+    "wonderful_-5145940512568547425": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "wonderful",
+      "english_sentence": "That's ___ news!"
+    },
+    "word_5315598986788744479": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "word",
+      "english_sentence": "What's this ___ in English?"
+    },
+    "work_-144798723044136630": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "work",
+      "english_sentence": "I love my ___."
+    },
+    "work_2567873325632490349": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "work",
+      "english_sentence": "I ___ at a bank."
+    },
+    "worker_6841139987424502472": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "worker",
+      "english_sentence": "He is a factory ___."
+    },
+    "world_-859008313900403685": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "world",
+      "english_sentence": "The ___ is beautiful."
+    },
+    "would_6081361637987889266": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "would",
+      "english_sentence": "___ you like some tea?"
+    },
+    "write_-7684886600809227015": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "write",
+      "english_sentence": "I ___ to her every day."
+    },
+    "writer_7564491871851242645": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "writer",
+      "english_sentence": "She is a famous ___."
+    },
+    "writing_-3517608485181072142": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "writing",
+      "english_sentence": "His ___ is very good."
+    },
+    "wrong_1488830878616448894": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "wrong",
+      "english_sentence": "This answer is ___."
+    },
+    "yeah_395568765527164212": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "yeah",
+      "english_sentence": "___, that's right!"
+    },
+    "year_-8641102443796337078": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "year",
+      "english_sentence": "Happy New ___!"
+    },
+    "yellow_4725750449629991373": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "yellow",
+      "english_sentence": "The ___ car is mine."
+    },
+    "yellow_-6909670576785198557": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "yellow",
+      "english_sentence": "I don't like ___."
+    },
+    "yes_3851764881954662528": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "yes",
+      "english_sentence": "___, I can help you."
+    },
+    "yesterday_-5512848297496918690": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "yesterday",
+      "english_sentence": "I saw him ___."
+    },
+    "yesterday_3882160746609870538": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "yesterday",
+      "english_sentence": "___ was a good day."
+    },
+    "you_2976814767747867755": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "you",
+      "english_sentence": "Are ___ ready?"
+    },
+    "young_3869212268980523551": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "young",
+      "english_sentence": "She's still ___."
+    },
+    "your_6974939388121155973": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "your",
+      "english_sentence": "Is this ___ book?"
+    },
+    "yourself_-6551413450270332891": {
+      "count": 0,
+      "last_seen_index": null,
+      "english_word": "yourself",
+      "english_sentence": "Do it ___."
+    }
+  },
+  "current_index": 0,
+  "last_update": "2025-02-07 08:20:05.331480"
+}

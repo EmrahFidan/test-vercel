@@ -1,32 +1,23 @@
 /* Root level variables */
 :root {
-    /* Primary Colors */
-    --primary-color: #14964a;
-    
-    /* Background Colors */
+    --primary-color: #19b48d;
     --bg-dark: #000000;
     --bg-sidebar: #111111;
-    
-    /* Text Colors */
     --text-primary: #ccc9dc;
     --text-secondary: #888;
     --text-error: #ff4444;
-    
-    /* Border Colors */
     --border-primary: #333;
-    
-    /* Input Colors */
     --input-bg: rgba(86, 200, 255, 0.1);
     --input-border: rgb(86, 86, 86);
     --input-focus-bg: rgba(41, 104, 135, 0.15);
 }
 
-/* Genel tema ayarları */
+/* General theme settings */
 .stApp {
     background-color: var(--bg-dark) !important;
 }
 
-/* Streamlit elementlerini gizle */
+/* Hide Streamlit elements */
 div[data-testid="stToolbar"],
 div[data-testid="stHeader"],
 footer,
@@ -34,20 +25,19 @@ header {
     display: none;
 }
 
-/* Ana container düzenlemesi */
+/* Main container adjustments */
 .main .block-container {
-    max-width: 600px !important;
-    padding-top: 2rem;
-    padding-bottom: 2rem;
+    max-width: min(600px, 95vw) !important;
+    padding: 1rem;
     margin: 0 auto;
 }
 
-/* Counter'ı gizle */
+/* Hide counter */
 .counter {
     display: none;
 }
 
-/* Sidebar düzenlemesi */
+/* Sidebar adjustments */
 .css-1d391kg {
     background-color: var(--bg-sidebar);
 }
@@ -55,26 +45,28 @@ header {
 section[data-testid="stSidebar"] {
     background-color: var(--bg-sidebar);
     border-right: 1px solid var(--primary-color);
+    min-width: fit-content !important;
+    width: 250px !important;
 }
 
 section[data-testid="stSidebar"] .block-container {
-    padding-top: 2rem;
+    padding-top: 1rem;
 }
 
 .sidebar-content {
-    padding: 1rem;
+    padding: 0.3rem;
     color: var(--text-primary);
 }
 
 .sidebar-content .user-info {
     border-bottom: 1px solid var(--border-primary);
-    padding-bottom: 1rem;
-    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    margin-bottom: 0.5rem;
 }
 
 .sidebar-content .user-info span {
     color: var(--text-primary);
-    font-size: 2rem;
+    font-size: clamp(0.8rem, 4vw, 1.5rem);
 }
 
 .sidebar-content .user-info .username {
@@ -82,22 +74,24 @@ section[data-testid="stSidebar"] .block-container {
     font-weight: 500;
 }
 
-/* Soru kartı container'ı */
+/* Question card container */
 .question-card {
-    border-radius: 30px;
-    border: 3px solid var(--primary-color);
-    padding: 30px;
-    margin: 20px 0;
+    border-radius: 20px;
+    border: 2px solid var(--primary-color);
+    padding: clamp(15px, 4vw, 30px);
+    margin: 10px 0;
+    width: 100%;
 }
 
-/* Word display güncellemesi */
+/* Word display updates */
 .word-display {
-    font-size: 32px;
+    font-size: clamp(24px, 5vw, 32px);
     color: var(--text-primary);
     text-align: center;
-    margin: 20px 0;
+    margin: 15px 0;
     font-weight: 400;
     line-height: 1.4;
+    word-wrap: break-word;
 }
 
 .word-display .highlight {
@@ -106,10 +100,10 @@ section[data-testid="stSidebar"] .block-container {
 
 /* Target word style */
 .target-word {
-    font-size: 18px;
+    font-size: clamp(16px, 4vw, 18px);
     color: var(--text-primary);
     text-align: center;
-    margin: 15px 0;
+    margin: 10px 0;
 }
 
 .target-word .highlight {
@@ -119,31 +113,33 @@ section[data-testid="stSidebar"] .block-container {
 
 .target-word .word-info {
     color: var(--text-secondary);
-    font-size: 14px;
+    font-size: clamp(12px, 3vw, 14px);
     font-style: italic;
     margin-left: 5px;
+    display: inline-block;
 }
 
 /* Turkish sentence style */
 .turkish-sentence {
-    font-size: 24px;
+    font-size: clamp(18px, 4vw, 24px);
     color: var(--text-secondary);
     text-align: center;
-    margin: 15px 0;
+    margin: 10px 0;
     font-style: italic;
+    word-wrap: break-word;
 }
 
-/* İlerleme çubuğu container'ı */
+/* Progress bar container */
 .progress-bar-container {
     width: 100%;
     background-color: var(--border-primary);
     border-radius: 4px;
     height: 4px;
-    margin: 20px 0;
+    margin: 15px 0;
     position: relative;
 }
 
-/* İlerleme çubuğu */
+/* Progress bar */
 .progress-bar {
     height: 100%;
     background-color: var(--primary-color);
@@ -154,13 +150,13 @@ section[data-testid="stSidebar"] .block-container {
 /* Level indicator */
 .level-indicator {
     display: flex;
-    gap: 5px;
+    gap: 4px;
     justify-content: flex-start;
-    margin-bottom: 10px;
+    margin-bottom: 8px;
 }
 
 .level-dot {
-    width: 25px;
+    width: clamp(20px, 4vw, 25px);
     height: 4px;
     border-radius: 2px;
     background-color: var(--border-primary);
@@ -171,13 +167,13 @@ section[data-testid="stSidebar"] .block-container {
     background-color: var(--primary-color);
 }
 
-/* Input alanı */
+/* Input field */
 div[data-testid="stTextInput"] input {
     background-color: var(--input-bg);
     border: 2px solid var(--input-border);
     border-radius: 4px;
     color: var(--text-primary);
-    font-size: 16px;
+    font-size: clamp(14px, 3vw, 16px);
     padding: 8px 12px;
     transition: all 0.3s;
     width: 100%;
@@ -190,71 +186,71 @@ div[data-testid="stTextInput"] input:focus {
     outline: none;
 }
 
-/* Yanlış cevap durumunda input stil değişimi */
+/* Wrong answer input style change */
 div[data-testid="stTextInput"].error input {
     border-color: var(--text-error);
-    font-size: 20px;
+    font-size: clamp(16px, 4vw, 20px);
 }
 
 .answer-message {
     color: var(--primary-color);
-    font-size: 15px;
+    font-size: clamp(13px, 3vw, 15px);
     text-align: center;
-    margin: 10px 0;
+    margin: 8px 0;
 }
 
-/* Yanlış cevap mesajı */
+/* Wrong answer message */
 .error-message {
     color: var(--text-error);
-    font-size: 14px;
+    font-size: clamp(12px, 3vw, 14px);
     text-align: center;
 }
 
 .tip-message {
     color: var(--primary-color);
-    font-size: 24px;
+    font-size: clamp(20px, 5vw, 24px);
     text-align: center;
     margin: 0;
 }
 
-/* Bilgilendirme mesajı */
+/* Info message */
 .info-message {
     color: var(--text-primary);
-    font-size: 14px;
+    font-size: clamp(12px, 3vw, 14px);
     text-align: center;
     margin-top: 5px;
     font-style: italic;
 }
 
-/* Bitirme ekranı stilleri */
+/* Finish screen styles */
 .finish-screen {
     text-align: center;
-    margin: 40px auto;
-    padding: 20px;
+    margin: 20px auto;
+    padding: 15px;
 }
 
 .celebration {
-    font-size: 100px;
-    margin: 20px 0;
+    font-size: clamp(60px, 15vw, 100px);
+    margin: 15px 0;
     animation: bounce 1s infinite;
 }
 
 .finish-screen h1 {
     color: var(--primary-color);
-    font-size: 32px;
-    margin: 20px 0;
+    font-size: clamp(24px, 6vw, 32px);
+    margin: 15px 0;
 }
 
 .finish-screen p {
     color: var(--text-primary);
-    font-size: 18px;
-    margin: 10px 0;
+    font-size: clamp(16px, 4vw, 18px);
+    margin: 8px 0;
 }
 
-/* Button stilleri */
+/* Button styles */
 .stButton > button {
     background-color: transparent !important;
-    color: var(--text-primary) !important;  /* Buton metni rengi */
+    color: var(--text-primary) !important;
     border: 2px solid var(--primary-color) !important;
     padding: 0.25rem 1rem !important;
     border-radius: 4px;
@@ -262,21 +258,12 @@ div[data-testid="stTextInput"].error input {
     transition: all 0.3s ease;
     width: 100% !important;
     margin: 0 !important;
-    position: relative;
-    overflow: hidden;
-}
-
-.stButton > button span {
-    color: var(--text-primary) !important;  /* Buton içindeki span metni rengi */
+    font-size: clamp(14px, 3vw, 16px) !important;
 }
 
 .stButton > button:hover {
     background-color: var(--primary-color) !important;
-    color: #ffffff !important;  /* Hover durumunda metin rengi */
-}
-
-.stButton > button:hover span {
-    color: #ffffff !important;  /* Hover durumunda span metin rengi */
+    color: #ffffff !important;
 }
 
 .stButton > button:disabled {
@@ -285,43 +272,41 @@ div[data-testid="stTextInput"].error input {
     cursor: not-allowed;
 }
 
-.stButton > button:disabled span {
-    color: var(--border-primary) !important;
-}
-
 /* Button container */
 .nav-buttons {
     display: flex;
+    gap: 10px;
     justify-content: center;
-    margin-top: 20px;
+    margin-top: 15px;
+    flex-wrap: wrap;
 }
 
-/* Column genişlikleri */
+/* Column widths */
 [data-testid="column"] {
-    width: 50% !important;
+    width: calc(50% - 5px) !important;
     padding: 0 !important;
+    min-width: 120px;
 }
 
 /* Sidebar footer */
 .sidebar-logout {
-    position: absolute;
-    bottom: 2rem;
-    left: 1rem;
-    right: 1rem;
-}
-
-.sidebar-logout .stButton > button {
-    width: 100% !important;
+    position: sticky;
+    bottom: 1rem;
+    left: 0.2rem;
+    right: 0.2rem;
+    padding: 0 0.5rem;
 }
 
 /* Statistics style */
 .stMarkdown {
     color: var(--text-primary) !important;
+    font-size: clamp(10px, 3vw, 8px);
 }
 
 .stMarkdown h3 {
     color: var(--primary-color) !important;
-    margin-bottom: 1rem;
+    margin-bottom: 0.6rem;
+    font-size: clamp(10px, 4vw, 10px);
 }
 
 .stMarkdown ul {
@@ -330,8 +315,33 @@ div[data-testid="stTextInput"].error input {
 }
 
 .stMarkdown li {
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.4rem;
     color: var(--text-primary);
+}
+
+/* Media Queries */
+@media screen and (max-width: 768px) {
+    .nav-buttons {
+        flex-direction: column;
+    }
+    
+    [data-testid="column"] {
+        width: 100% !important;
+    }
+    
+    .sidebar-content .user-info {
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .question-card {
+        padding: 10px;
+    }
+    
+    .level-indicator {
+        justify-content: center;
+    }
 }
 
 @keyframes bounce {

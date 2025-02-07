@@ -86,7 +86,6 @@ english_sentence,turkish_sentence,english_word,turkish_word,word_info
 "She writes a ___ about cooking.","Yemek hakkında bir blog yazıyor.",blog,blog,noun
 "She has ___ hair.","Sarı saçları var.",blonde,sarı,adjective
 "The sky is ___.","Gökyüzü mavi.",blue,mavi,adjective
-english_sentence,turkish_sentence,english_word,turkish_word,word_info
 "The ___ water was very cold.","Mavi su çok soğuktu.",blue,mavi,noun
 "The ___ is sailing on the lake.","Tekne gölde yelken açıyor.",boat,tekne,noun
 "The human ___ needs exercise.","İnsan vücudunun egzersize ihtiyacı var.",body,vücut,noun
@@ -187,7 +186,6 @@ english_sentence,turkish_sentence,english_word,turkish_word,word_info
 "I'm taking an English ___.","İngilizce kursu alıyorum.",course,kurs,noun
 "My ___ lives in Paris.","Kuzenim Paris'te yaşıyor.",cousin,kuzen,noun
 "The ___ gives us milk.","İnek bize süt verir.",cow,inek,noun
-english_sentence,turkish_sentence,english_word,turkish_word,word_info
 "Would you like some ___ in your coffee?","Kahvenize biraz krema ister misiniz?",cream,krema,noun
 "Let's ___ something new.","Yeni bir şey yaratalım.",create,yaratmak,verb
 "Every country has its own ___.","Her ülkenin kendi kültürü vardır.",culture,kültür,noun
@@ -272,7 +270,6 @@ english_sentence,turkish_sentence,english_word,turkish_word,word_info
 "Can you ___ this to me?","Bunu bana açıklayabilir misin?",explain,açıklamak,verb
 "We need an ___ chair.","Ekstra bir sandalyeye ihtiyacımız var.",extra,ekstra,adjective
 "She has blue ___.","Mavi gözleri var.",eye,göz,noun
-english_sentence,turkish_sentence,english_word,turkish_word,word_info
 "She has a beautiful ___.","Güzel bir yüzü var.",face,yüz,noun
 "It's a well-known ___.","Bu bilinen bir gerçek.",fact,gerçek,noun
 "Leaves ___ in autumn.","Yapraklar sonbaharda düşer.",fall,düşmek,verb
@@ -373,7 +370,6 @@ english_sentence,turkish_sentence,english_word,turkish_word,word_info
 "___ of them agreed.","Yarısı kabul etti.",half,yarısı,pronoun
 "Give me your ___.","Elini ver.",hand,el,noun
 "What ___ next?","Sonra ne oldu?",happen,olmak,verb
-english_sentence,turkish_sentence,english_word,turkish_word,word_info
 "She looks very ___ today.","O bugün çok mutlu görünüyor.",happy,mutlu,adjective
 "Math is a ___ subject.","Matematik zor bir konu.",hard,zor,adjective
 "He works ___ every day.","O her gün sıkı çalışır.",hard,sıkı,adverb
@@ -474,7 +470,6 @@ english_sentence,turkish_sentence,english_word,turkish_word,word_info
 "My ___ hurts.","Bacağım ağrıyor.",leg,bacak,noun
 "The ___ starts at 9.","Ders saat 9'da başlıyor.",lesson,ders,noun
 "___ me help you.","Sana yardım etmeme izin ver.",let,izin vermek,verb
-english_sentence,turkish_sentence,english_word,turkish_word,word_info
 "I received a ___ today.","Bugün bir mektup aldım.",letter,mektup,noun
 "Let's go to the ___.","Kütüphaneye gidelim.",library,kütüphane,noun
 "Don't ___ to me.","Bana yalan söyleme.",lie,yalan söylemek,verb
@@ -575,7 +570,6 @@ english_sentence,turkish_sentence,english_word,turkish_word,word_info
 "I ___ eat fish.","Asla balık yemem.",never,asla,adverb
 "I bought a ___ car.","Yeni bir araba aldım.",new,yeni,adjective
 "This is good ___.","Bu iyi bir haber.",news,haber,noun
-english_sentence,turkish_sentence,english_word,turkish_word,word_info
 "I read the ___ every morning.","Her sabah gazete okurum.",newspaper,gazete,noun
 "The ___ week will be busy.","Gelecek hafta yoğun olacak.",next,gelecek,adjective
 "What happens ___?","Sonra ne olur?",next,sonra,adverb
@@ -676,7 +670,6 @@ english_sentence,turkish_sentence,english_word,turkish_word,word_info
 "___ me tomorrow.","Beni yarın ara.",phone,aramak,verb
 "Take a ___ of me.","Benim bir fotoğrafımı çek.",photo,fotoğraf,noun
 "This ___ is old.","Bu fotoğraf eski.",photograph,fotoğraf,noun
-english_sentence,turkish_sentence,english_word,turkish_word,word_info
 "I learned a new ___ today.","Bugün yeni bir deyim öğrendim.",phrase,deyim,noun
 "She plays the ___ beautifully.","O piyanoyu güzel çalıyor.",piano,piyano,noun
 "I took a ___ of the sunset.","Gün batımının fotoğrafını çektim.",picture,fotoğraf,noun
@@ -777,7 +770,6 @@ english_sentence,turkish_sentence,english_word,turkish_word,word_info
 "Wait a ___, please.","Bir saniye bekle lütfen.",second,saniye,noun
 "He came in ___ place.","O ikinci oldu.",second,ikinci,ordinal number
 "Read the first ___.","İlk bölümü oku.",section,bölüm,noun
-english_sentence,turkish_sentence,english_word,turkish_word,word_info
 "Can you ___ that building?","Şu binayı görebiliyor musun?",see,görmek,verb
 "They ___ fresh vegetables.","Taze sebze satıyorlar.",sell,satmak,verb
 "Please ___ me an email.","Lütfen bana bir e-posta gönder.",send,göndermek,verb
@@ -878,7 +870,6 @@ english_sentence,turkish_sentence,english_word,turkish_word,word_info
 "He is very ___.","O çok uzun.",tall,uzun,adjective
 "Take a ___ to the airport.","Havaalanına taksi tut.",taxi,taksi,noun
 "Would you like some ___?","Biraz çay ister misin?",tea,çay,noun
-english_sentence,turkish_sentence,english_word,turkish_word,word_info
 "He ___ English at school.","O okulda İngilizce öğretiyor.",teach,öğretmek,verb
 "My ___ is very kind.","Öğretmenim çok nazik.",teacher,öğretmen,noun
 "Our ___ won the match.","Takımımız maçı kazandı.",team,takım,noun
@@ -979,7 +970,6 @@ english_sentence,turkish_sentence,english_word,turkish_word,word_info
 "That's ___ nice.","Bu çok güzel.",very,çok,adverb
 "Let's watch a ___.","Bir video izleyelim.",video,video,noun
 "They live in a small ___.","Onlar küçük bir köyde yaşıyor.",village,köy,noun
-english_sentence,turkish_sentence,english_word,turkish_word,word_info
 "We had a lot of ___ today.","Bugün çok ziyaretçimiz vardı.",visit,ziyaret,noun
 "Let's ___ the museum.","Müzeyi ziyaret edelim.",visit,ziyaret etmek,verb
 "There's a ___ at the door.","Kapıda bir ziyaretçi var.",visitor,ziyaretçi,noun
